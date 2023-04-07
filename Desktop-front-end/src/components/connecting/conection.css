@@ -1,0 +1,12 @@
+.Main {
+    position: absolute;
+    color: white;
+    LEFT: 45%;
+    TOP: 45%;
+    width: 20%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+body {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(black, #04011f) !important;
+  overflow: hidden;
+}
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body::backdrop {
+  background: radial-gradient(black, #04011f) !important;
+}

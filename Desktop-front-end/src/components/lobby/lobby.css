@@ -1,0 +1,34 @@
+
+
+.Ip{
+    position: absolute;
+    left: 60%;
+    top: 20%;
+    color: #c0b112;
+    font-size: 35pt;
+    font-family: fantasy;
+    text-align: center;
+    width: 400px;
+    text-shadow: -2px 2px red;
+    transform: rotate(11deg);
+}
+
+.Players {
+    position: relative;
+    color: black;
+    text-align: center;
+    font-weight: 800;
+    font-size: 13pt;
+    width: 55%;
+    height: 100%;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pp{
+    background-color: beige;
+    width: 10rem;
+    height: 10rem;
+    margin: 6px;
+}

@@ -1,0 +1,117 @@
+.Main{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+#root {
+    height: 100%;
+}
+.App{
+    height: 100%;
+}
+input {
+    margin: auto;
+    display: block;
+    width: 70vw;
+    height: 10vw;
+    font-size: 6vw;
+    text-align: center;
+    color: #c0b112;
+    border: #0101fc solid 1vw;
+    border-radius: 5vw;
+    font-family: fantasy;
+    padding: 2vw;
+    text-shadow: -0.5vw 0.5vw red;
+    background-color: transparent;
+}
+
+.options {
+    margin: auto;
+    display: block;
+    height: 20vw;
+    width: 70vw;
+    border-radius: 20vw;
+    background: radial-gradient(red, #ffffff00);
+    border: #2c0000 solid 1vw;
+    text-align: center;
+    color: cornsilk;
+    font-family: monospace;
+    font-weight: 800;
+    font-size: 11vw;
+    text-shadow: 0.4vw 0.4vw 0vw rgba(0, 0, 0, 0.443);
+}
+
+.connect {
+    margin: auto;
+    display: block;
+    height: 20vw;
+    width: 50vw;
+    border-radius: 9vw;
+    background: radial-gradient(rgba(255, 0, 0, 0.783), #000000f8);
+    border: #fc0303 solid 1vw;
+    text-align: center;
+    text-shadow: 0.4vw 0.4vw 0vw rgba(0, 0, 0, 0.443);
+    color: cornsilk;
+    font-family: monospace;
+    font-weight: 800;
+    font-size: 11vw;
+    margin-top: 1vw;
+}
+.connectDIV {
+    margin: auto;
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gameTitle {
+    margin: auto;
+    width: 100vw;
+    height: 20vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.jokeTitle {
+    margin: auto;
+    width: 80vw;
+    height: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gameTitlesSpan {
+    color: #ffe700;
+    font-size: 10vw;
+    text-decoration: 1vw double red;
+    text-shadow: -0.5vw -0.5vw red;
+}
+
+.gameTitlesSpan2 {
+    color: white;
+    font-size: 6vw;
+    text-align: center;
+    text-shadow: -0.2vw -0.2vw red;
+}
+
+.playerName{
+    margin-top: 4vw;
+    color: rgb(255, 2, 2);
+    font-size: 6vw;
+    text-align: center;
+    text-shadow: -0.1vw -0.1vw #ffe700;
+}
+
+.joke{
+    margin-top: 4vw;
+    color: rgb(246, 201, 201);
+    font-size: 4vw;
+    text-align: center;
+    text-shadow: -0.1vw -0.1vw #ffe700;
+}
