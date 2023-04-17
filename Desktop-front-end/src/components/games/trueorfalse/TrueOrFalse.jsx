@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useEffect } from 'react';
 import Font from 'react-font'
+import { randomize } from '../../../utilities/utils';
 
 function TrueOrFalse({ question, responses, users, newQuestion, nextQuestion, setScores}) {
     const [questionLocal, setquestionLocal] = useState(null);
@@ -16,7 +17,7 @@ function TrueOrFalse({ question, responses, users, newQuestion, nextQuestion, se
                             { text: question.wrong_answer2, right: false },
                             { text: question.wrong_answer3, right: false }];
 
-        questions.sort(() => (Math.random() > .5) ? 1 : -1);
+        questions.sort(randomize);
 
         const index = questions.map(object => object.right).indexOf(true);
         setRight({ text: question.correct_answer, index })

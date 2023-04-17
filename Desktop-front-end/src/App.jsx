@@ -40,10 +40,14 @@ function App() {
     socket.on("newUserAdmin", (userName) => {
       setUser((prev) => {
         if (!prev.length) socket.emit("first_player", userName);
-        return [...prev, { userName, score: 0 }];
+        return [...prev, { ...userName, score: 0 }];
       });
     });
-
+    socket.on("deleteUserAdmin", ({socketId}) => {
+      setUser((prev) => {
+        return prev.filter((user) => user.socketId !== socketId);
+      });
+    });
     socket.on("responseAdmin", (response) => {
       setResponses((prev) => [...prev, response]);
     });
