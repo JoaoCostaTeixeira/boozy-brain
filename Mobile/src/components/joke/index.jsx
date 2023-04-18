@@ -21,7 +21,7 @@ function Joke({ newjoke, userName }) {
   function single() {return (
     <>
       <span className="joke">
-        <Font family="Geo">{joke.joke}</Font>
+        <Font family="VT323">{joke.joke}</Font>
       </span>
     </>
   );}
@@ -30,10 +30,10 @@ function Joke({ newjoke, userName }) {
     return (
       <>
         <span className="joke">
-          <Font family="Geo">{joke.setup}</Font>
+          <Font family="VT323">{joke.setup}</Font>
         </span>
         <span className="playerName">
-          <Font family="Geo">{joke.delivery}</Font>
+          <Font family="VT323">{joke.delivery}</Font>
         </span>
       </>
     );
@@ -44,18 +44,18 @@ function Joke({ newjoke, userName }) {
 
         <div className="gameTitle">
           <span className="gameTitlesSpan">
-            <Font family="Geo">Boozy Brain</Font>
+            <Font family="VT323">Boozy Brain</Font>
           </span>
           <span className="gameTitlesSpan2">
-            <Font family="Geo">Can you outsmart the bottle?</Font>
+            <Font family="VT323">Can you outsmart the bottle?</Font>
           </span>
           <span className="playerName">
-            <Font family="Geo">ID: {userName}</Font>
+            <Font family="VT323">ID: {userName}</Font>
           </span>
         </div>
         <div className="gameTitle">
       <span className="gameTitlesSpan2">
-        <Font family="Geo">Waiting for a new event ...</Font>
+        <Font family="VT323">Waiting for a new event ...</Font>
         </span>
       </div>
         <div className="jokeTitle">

@@ -13,8 +13,9 @@ const startSocket = () => {
 
   io.on("connection", (socket) => {
     console.log(socket.id);
-    socket.on("newUser", (userName) => {
-      io.emit("newUserAdmin", { userName, socketId: socket.id });
+    socket.on("newUser", (data) => {
+      const [userName, img] = data.split('-');
+      io.emit("newUserAdmin", { userName, img, socketId: socket.id });
     });
     socket.on("userStartGame", () => {
       io.emit("startGame");

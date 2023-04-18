@@ -34,7 +34,7 @@
     animation-duration: 1s;
     animation-timing-function: ease-out;
     animation-fill-mode: forwards;
-    border: red double 1vw;
+    border: #ffe700 double 1vw;
     border-radius: 1vw;
     padding-inline: 1vw;
 }
@@ -80,11 +80,12 @@
     bottom: 3vw;
     flex-wrap: wrap;
     display: flex;
+    text-shadow: 0.2vw 0.2vw 0vw rgba(0, 0, 0, 0.443);
 }
 
 .bb {
     height: 8vw;
-    border: red double 0.5vw;
+    border: #ffe700 double 0.5vw;
     width: 40vw;
     justify-content: space-between;
     margin-inline: 4vw;
@@ -96,6 +97,7 @@
     opacity: 0;
     display: flex;
     align-items: center;
+    background-color: #ffd90133;
 }
 
 .correctAnswer {

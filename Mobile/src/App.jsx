@@ -28,9 +28,9 @@ function App() {
       setStart(true);
     });
 
-    socket.on('first_player_mobile', (user) => {
+    socket.on('first_player_mobile', ({userName}) => {
       setUserName(prev => {
-        if (user === prev) setAdmin(true)
+        if (userName === prev) setAdmin(true)
         return prev;
       })
      
@@ -78,7 +78,7 @@ function App() {
               start={start} 
               question={question} 
               sendReponse={sendReponse}
-              userName={userName}
+              userName={userName.split('-')[0]}
           /> :
           <Login sendUserName={sendUserName} /> :
         <a>connecting</a>}

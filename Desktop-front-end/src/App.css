@@ -1,7 +1,8 @@
 body {
     width: 100%;
     height: 100%;
-    background: radial-gradient(#02010c, #0d0551) !important;
+    background:url("../public/images/backgrounddesktop.svg") no-repeat center center;
+    background-size: cover;
     overflow: hidden;
   }
   html {

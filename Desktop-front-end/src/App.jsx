@@ -39,6 +39,7 @@ function App() {
     });
     socket.on("newUserAdmin", (userName) => {
       setUser((prev) => {
+        console.log(prev)
         if (!prev.length) socket.emit("first_player", userName);
         return [...prev, { ...userName, score: 0 }];
       });

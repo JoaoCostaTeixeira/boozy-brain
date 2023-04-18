@@ -106,20 +106,20 @@ function Question({ question, responses, users, newQuestion, nextQuestion, setSc
     return (
         <>
             <div className="Question">
-               <Font family='Tourney'>{question?.question}</Font>
+               <Font family='Geo'>{question?.question}</Font>
             </div>
             <div className='Answers'>
                 <div className={"bb A " + ((responses.length === users.length && right?.index == 0) ? 'correctAnswer' : '')}>
-                    <span><Font family='Geo'>A : {questionLocal && questionLocal[0].text}</Font></span>
+                    <span><Font family='VT323'>A : {questionLocal && questionLocal[0].text}</Font></span>
                 </div>
                 <div className={"bb B " + ((responses.length === users.length && right?.index == 1) ? 'correctAnswer' : '')}>
-                    <span><Font family='Geo'>B : {questionLocal && questionLocal[1]?.text}</Font></span>
+                    <span><Font family='VT323'>B : {questionLocal && questionLocal[1]?.text}</Font></span>
                 </div>
                 <div className={"bb C " + ((responses.length === users.length && right?.index == 2) ? 'correctAnswer' : '')}>
-                    <span><Font family='Geo'>C : {questionLocal && questionLocal[2]?.text}</Font></span>
+                    <span><Font family='VT323'>C : {questionLocal && questionLocal[2]?.text}</Font></span>
                 </div>
                 <div className={"bb D " + ((responses.length === users.length && right?.index == 3) ? 'correctAnswer' : '')}>
-                    <span><Font family='Geo'>D : {questionLocal && questionLocal[3]?.text}</Font></span>
+                    <span><Font family='VT323'>D : {questionLocal && questionLocal[3]?.text}</Font></span>
                 </div>
             </div>
         </>

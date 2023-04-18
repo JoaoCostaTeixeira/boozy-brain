@@ -14,16 +14,19 @@ function Login({ sendUserName }) {
     "pupa_knife.png",
     "pupa_muscle.png",
     "pupa_pilinha.png",
+    "pupa_fancy.png",
     "rick_funny_mouth.png",
     "rick_high_drunk.png",
     "rick_open_mouth.png",
     "rick_sleepy.png",
     "rick_suspects.png",
+
   ];
 
   const send = () => {
     if (name) {
-      sendUserName(name);
+      console.log(`${name}-${image}`)
+      sendUserName(`${name}-${image}`);
     }
   };
 
@@ -54,7 +57,7 @@ function Login({ sendUserName }) {
             {imageDataSet.map((name, index) => (
               <div
                 className="characterSelectionPic"
-                style={index === image ? { borderColor: "red" } : {}}
+                style={index === image ? { borderColor: '#ffcc00' } : {}}
                 onClick={() => setImage(index)}
               >
                 <img
@@ -64,9 +67,12 @@ function Login({ sendUserName }) {
               </div>
             ))}
           </div>
-          <button className="connect2" onClick={changePage}>
-            <Font family="VT323">START</Font>
-          </button>
+          <div className="connect2" onClick={send}>
+            <div className="buttomImageBackground">
+              <img className="buttomImageBackgroundPIC" src="images/button.svg">
+              </img>
+              <Font family="VT323">SELECT</Font></div>
+          </div>
         </div>
       </div>
     );
@@ -87,9 +93,14 @@ function Login({ sendUserName }) {
           ref={userName}
           onKeyUp={(e) => (e.target.value = e.target.value.toUpperCase())}
         />
-        <button className="connect" onClick={changePage}>
-          <Font family="VT323">START</Font>
-        </button>
+        <div className="connect" onClick={changePage}
+        >
+
+          <div className="buttomImageBackground">
+            <img className="buttomImageBackgroundPIC" src="images/button.svg">
+            </img>
+            <Font family="VT323">START</Font></div>
+        </div>
       </div>
     </div>
   );
