@@ -59,6 +59,24 @@ input {
     font-size: 11vw;
     margin-top: 1vw;
 }
+
+.connect2 {
+    margin: auto;
+    display: block;
+    height: 20vw;
+    width: 50vw;
+    border-radius: 9vw;
+    background: radial-gradient(rgba(255, 0, 0, 0.783), #000000f8);
+    border: #fc0303 solid 1vw;
+    text-align: center;
+    text-shadow: 0.4vw 0.4vw 0vw rgba(0, 0, 0, 0.443);
+    color: cornsilk;
+    font-family: monospace;
+    font-weight: 800;
+    font-size: 11vw;
+    margin-block: 10vw;
+}
+
 .connectDIV {
     margin: auto;
     width: 100vw;
@@ -67,7 +85,13 @@ input {
     flex-direction: column;
     align-items: center;
 }
-
+.connectDIV2 {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .gameTitle {
     margin: auto;
     width: 100vw;
@@ -76,7 +100,39 @@ input {
     flex-direction: column;
     align-items: center;
 }
+.gameTitle2 {
+    margin: 2vw;
+    width: 100vw;
+    height: 20vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.characterDiv{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: fit-content;
+    justify-content: space-evenly;
+    overflow: auto;
+}
 
+.characterSelectionPic{
+    width: 100px;
+    height: 100px;
+    margin-inline: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    border-radius: 10px;
+    border: 3px solid rgba(255, 0, 0, 0);
+}
+
+.characterSelectionPicimg{
+    width: auto;
+    height: 80%;
+    margin: auto;
+}
 .jokeTitle {
     margin: auto;
     width: 80vw;
@@ -100,6 +156,14 @@ input {
     text-shadow: -0.2vw -0.2vw red;
 }
 
+.carTitlesSpan {
+    color: #ffe700;
+    font-size: 12vw;
+    text-decoration: 1vw double red;
+    text-shadow: -0.5vw -0.5vw red;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
 .playerName{
     margin-top: 4vw;
     color: rgb(255, 2, 2);
