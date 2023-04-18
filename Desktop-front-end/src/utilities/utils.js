@@ -1,0 +1,1 @@
+export const  randomize = () => (Math.random() > .5) ? 1 : -1;

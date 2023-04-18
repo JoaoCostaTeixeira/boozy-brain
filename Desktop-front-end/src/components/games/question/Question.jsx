@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useEffect } from 'react';
 import './question.css';
 import Font from 'react-font'
+import { randomize } from '../../../utilities/utils';
 
 function Question({ question, responses, users, newQuestion, nextQuestion, setScores}) {
     const [questionLocal, setquestionLocal] = useState(null);
@@ -18,7 +19,7 @@ function Question({ question, responses, users, newQuestion, nextQuestion, setSc
                             { text: question.wrong_answer2, right: false },
                             { text: question.wrong_answer3, right: false }];
 
-        questions.sort(() => (Math.random() > .5) ? 1 : -1);
+        questions.sort(randomize);
 
         const index = questions.map(object => object.right).indexOf(true);
         setRight({ text: question.correct_answer, index })
