@@ -30,7 +30,7 @@ function App() {
 
     socket.on('first_player_mobile', ({userName}) => {
       setUserName(prev => {
-        if (userName === prev) setAdmin(true)
+        if (prev.includes(userName)) setAdmin(true)
         return prev;
       })
      
@@ -65,7 +65,7 @@ function App() {
   }
 
   const sendReponse = (response, position) => {
-    socket.emit('newReponse', {response, userName, position});
+    socket.emit('newReponse', {response, userName : userName.split('-')[0], position});
     setQuestion(null)
   }
   return (

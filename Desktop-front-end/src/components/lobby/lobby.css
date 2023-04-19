@@ -11,31 +11,44 @@
     width: 400px;
     text-shadow: -2px 2px red;
     transform: rotate(11deg);
+    margin-top: 50vh;
 }
 
 .Players {
     position: relative;
     color: black;
     text-align: center;
-    font-weight: 800;
-    font-size: 13pt;
-    width: 55%;
+    font-weight: 300;
+    font-size: 3vh;
+    width: 100%;
     height: 100%;
-    padding: 30px;
     display: flex;
     flex-wrap: wrap;
+    text-shadow: 0.1vw 0.1vw 0vw rgba(0, 0, 0, 0.443);
 }
 
 .userImage{
-    height: 90%;
+    height: 70%;
     width: auto;
     margin: auto;
 }
 .pp{
-    width: 10rem;
-    height: 10rem;
-    margin: 6px;
+    width: 5vw;
+    height: 30vh;
+    margin: 5vh;
     color: white;
     display: flex;
     flex-direction: column;
+    border: 0.4vw double #ffcc00;
+    border-radius: 10px;
+}
+
+.username{
+    border: 0.1vw solid #ffcc00;
+    border-radius: 3px;
+    margin-top: -2.7vh;
+    margin-bottom: 3vh;
+    background-color: #ffcc0076;
+    margin-inline: 1vw;
+
 }

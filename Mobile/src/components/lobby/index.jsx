@@ -10,6 +10,9 @@ function Login({ sendUserName }) {
   const [image, setImage] = useState(0);
 
   const imageDataSet = [
+    "goose_bow.png",
+    "goose_knife.png",
+    "goose_skate.png",
     "pupa_drinking.png",
     "pupa_knife.png",
     "pupa_muscle.png",

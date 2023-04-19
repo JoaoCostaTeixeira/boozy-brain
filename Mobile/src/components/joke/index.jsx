@@ -58,6 +58,9 @@ function Joke({ newjoke, userName }) {
         <Font family="VT323">Waiting for a new event ...</Font>
         </span>
       </div>
+      <div className="imageDivController">
+            <img className="imageDivControllerPIC" src="images/characters/pupa_knife.png"></img>
+          </div>
         <div className="jokeTitle">
           {joke ? joke.type === 'twopart' ? twopart() : single() : <></>}
         </div>

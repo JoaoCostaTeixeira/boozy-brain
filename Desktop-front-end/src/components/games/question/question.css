@@ -102,8 +102,8 @@
 
 .correctAnswer {
     
-    background: radial-gradient(#ffd701, transparent);
-    transition: all 3s ease-in;
+    background: linear-gradient(#33ff0086,#a6f09386) ;
+    transition: all 1s ease-in;
 }
 
 span {
