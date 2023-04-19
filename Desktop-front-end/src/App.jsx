@@ -27,6 +27,16 @@ function App() {
       .then(({ data }) => setQuestions(data));
   };
 
+  // Resets game if all players leave
+  useEffect(() => {
+    if (!users.length) {
+      setQuestions(null);
+      setStart(false);
+      setNumber(0);
+      setResponses([]);
+    }
+  }, [users]);
+
   useEffect(() => {
     axios.get("http://localhost:3001/ip").then(({ data }) => setIp(data));
 
@@ -39,12 +49,11 @@ function App() {
     });
     socket.on("newUserAdmin", (userName) => {
       setUser((prev) => {
-        console.log(prev)
         if (!prev.length) socket.emit("first_player", userName);
         return [...prev, { ...userName, score: 0 }];
       });
     });
-    socket.on("deleteUserAdmin", ({socketId}) => {
+    socket.on("deleteUserAdmin", ({ socketId }) => {
       setUser((prev) => {
         return prev.filter((user) => user.socketId !== socketId);
       });
