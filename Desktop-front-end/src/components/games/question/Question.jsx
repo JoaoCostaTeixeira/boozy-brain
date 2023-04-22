@@ -1,8 +1,22 @@
 import { useState } from "react";
 import { useEffect } from "react";
-import "./question.css";
-import Font from "react-font";
+import styled from "styled-components";
 import { randomize } from "../../../utilities/utils";
+import PlayersList from "../../utils/PlayersList.jsx";
+import Answers from "./Answers";
+import QuestionTitleComponent from "./QuestionTitle";
+import { calculateScore } from "../../utils/calculateScoreNormal";
+import TimerBar from "../../utils/TimerBar";
+
+
+const MAX_TIME = 20;
+
+const Container = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+`;
 
 function Question({
   question,
@@ -12,12 +26,15 @@ function Question({
   nextQuestion,
   setScores,
 }) {
-  const [questionLocal, setquestionLocal] = useState(null);
+  const [questionLocal, setQuestionLocal] = useState(null);
   const [right, setRight] = useState("");
 
   const [showResults, setShowResults] = useState(false);
   const [showAllResults, setShowAllResults] = useState(false);
   const [playingUsers, setPlayingUsers] = useState(0);
+  const [displayRight, setDisplayRight] = useState(false);
+
+  const [questionDate, setQuestionDate] = useState(null);
 
   useEffect(() => {
     if (!question) return;
@@ -34,8 +51,12 @@ function Question({
     const index = questions.map((object) => object.right).indexOf(true);
     setRight({ text: question.correct_answer, index });
 
-    setquestionLocal(questions);
+    setQuestionLocal(questions);
     setPlayingUsers(users.length);
+
+    setDisplayRight(false);
+    const now = Math.floor(Date.now() / 1000); // returns the current timestamp in seconds
+    setQuestionDate(now);
   }, [question]);
 
   useEffect(() => {
@@ -55,14 +76,27 @@ function Question({
     ) {
       const userScores = users.map((user) => {
         const response = responses.find((rr) => rr.userName === user.userName);
-
+        const points = calculateScore(
+          response.date - questionDate,
+          MAX_TIME,
+          200,
+          10
+        );
         if (response && questionLocal[response.position].right) {
-          user.score++;
+          user.score = user.score + points;
+          user.scoreInThis = `+${points}`;
+        } else {
+          const score = Math.floor(points / 2);
+
+          user.score = user.score - score;
+          if (user.score < 0) user.score = 0;
+          user.scoreInThis = `-${score}`;
         }
         return user;
       });
 
       setScores(userScores);
+      setDisplayRight(true);
 
       setTimeout(() => {
         setShowResults(true);
@@ -80,120 +114,23 @@ function Question({
     }
   }, [responses, users.length]);
 
-  if (showAllResults) {
-    return (
-      <>
-        <div className="Players">
-          {users.map(({ userName, score }, index) => (
-            <div
-              key={index}
-              className="pp"
-              style={
-                users.length > 12
-                  ? { width: "7rem", heigth: "7rem" }
-                  : { width: "10rem", height: "10rem" }
-              }
-            >
-              {userName}
-              <br />
-              {score}
-            </div>
-          ))}
-        </div>
-      </>
-    );
-  }
-
   if (showResults) {
-    return (
-      <>
-        <div className="Players">
-          {responses.map(({ response, userName, position }, index) => (
-            <div
-              key={index}
-              className="pp"
-              style={
-                users.length > 12
-                  ? { width: "7rem", heigth: "7rem" }
-                  : { width: "10rem", height: "10rem" }
-              }
-            >
-              {userName}
-              <br />
-              {response}
-              <br />
-              {questionLocal[position].right ? "RIGHT ANSWER" : "WRONG ANSWER"}
-            </div>
-          ))}
-        </div>
-      </>
-    );
+    return <PlayersList users={users} showResults={true} />;
   }
 
+  if (showAllResults) {
+    return <PlayersList users={users} />;
+  }
   return (
-    <>
-      <div className="Question">
-        <Font family="Geo">{question?.question}</Font>
-      </div>
-      <div className="Answers">
-        <div
-          className={
-            "bb A " +
-            (responses.length === users.length && right?.index == 0
-              ? "correctAnswer"
-              : "")
-          }
-        >
-          <span>
-            <Font family="VT323">
-              A : {questionLocal && questionLocal[0].text}
-            </Font>
-          </span>
-        </div>
-        <div
-          className={
-            "bb B " +
-            (responses.length === users.length && right?.index == 1
-              ? "correctAnswer"
-              : "")
-          }
-        >
-          <span>
-            <Font family="VT323">
-              B : {questionLocal && questionLocal[1]?.text}
-            </Font>
-          </span>
-        </div>
-        <div
-          className={
-            "bb C " +
-            (responses.length === users.length && right?.index == 2
-              ? "correctAnswer"
-              : "")
-          }
-        >
-          <span>
-            <Font family="VT323">
-              C : {questionLocal && questionLocal[2]?.text}
-            </Font>
-          </span>
-        </div>
-        <div
-          className={
-            "bb D " +
-            (responses.length === users.length && right?.index == 3
-              ? "correctAnswer"
-              : "")
-          }
-        >
-          <span>
-            <Font family="VT323">
-              D : {questionLocal && questionLocal[3]?.text}
-            </Font>
-          </span>
-        </div>
-      </div>
-    </>
+    <Container>
+      <QuestionTitleComponent question={question?.question || ""} />
+      <Answers
+        displayRight={displayRight}
+        question={questionLocal || []}
+        rightIndex={right?.index || 0}
+      />
+      <TimerBar maxTime={MAX_TIME}/>
+    </Container>
   );
 }
 

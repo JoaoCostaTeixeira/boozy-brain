@@ -1,4 +1,12 @@
-function UserImage({ index }) {
+import styled from "styled-components";
+
+const UserImageStyled = styled.img`
+  height: auto;
+  width: 90%;
+  margin: auto;
+`;
+
+function UserImage({ index, width }) {
   const imageDataSet = [
     "goose_bow.png",
     "goose_knife.png",
@@ -16,10 +24,10 @@ function UserImage({ index }) {
   ];
 
   return (
-    <img
-      className="userImage"
+    <UserImageStyled
       src={`./characters/${imageDataSet[index] || imageDataSet[0]}`}
-    ></img>
+      style={width ? { width: `${width}%` } : {}}
+    />
   );
 }
 

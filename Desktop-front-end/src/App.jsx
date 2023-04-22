@@ -59,6 +59,7 @@ function App() {
       });
     });
     socket.on("responseAdmin", (response) => {
+      response.date = Math.floor(Date.now() / 1000);
       setResponses((prev) => [...prev, response]);
     });
 
