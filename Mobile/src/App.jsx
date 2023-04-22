@@ -3,9 +3,21 @@ import io from "socket.io-client";
 import { useEffect, useState } from "react";
 import Login from "./components/lobby";
 import Game from "./components/game";
+import styled from "styled-components";
+import Menu from "./components/menu";
 
 const url = window.location.href.split(":");
 const socket = io(url[0] + ":" + url[1] + ":4000/");
+
+const Main = styled.div`
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  background: url("/images/background.svg") no-repeat center center;
+  background-size: cover;
+`;
 
 function App() {
   const [connected, setConnected] = useState(socket.connected);
@@ -62,6 +74,7 @@ function App() {
   };
 
   const startGame = () => {
+    setAdmin(false);
     socket.emit("userStartGame");
   };
 
@@ -73,25 +86,30 @@ function App() {
     });
     setQuestion(null);
   };
+
+
+  const [userName2, image2] = userName.split("-");
   return (
-    <div className="App">
+    <Main>
       {connected ? (
         userName ? (
-          <Game
-            startGame={startGame}
-            admin={admin}
-            start={start}
-            question={question}
-            sendReponse={sendReponse}
-            userName={userName.split("-")[0]}
-          />
+          admin ? (
+            <Menu startGame={startGame} />
+          ) : (
+            <Game
+              question={question}
+              sendReponse={sendReponse}
+              userName={userName2}
+              image={image2}
+            />
+          )
         ) : (
           <Login sendUserName={sendUserName} />
         )
       ) : (
         <a>connecting</a>
       )}
-    </div>
+    </Main>
   );
 }
 
