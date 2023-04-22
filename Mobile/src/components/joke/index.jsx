@@ -1,7 +1,58 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import Font from "react-font";
-function Joke({ newjoke, userName }) {
+import GameTitle from "../gameTitle";
+import UserImageName from "../utils/UserImageName";
+
+import styled from "styled-components";
+
+const MainStyle = styled.div`
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+`;
+
+const WaitingStyle = styled.span`
+  color: white;
+  font-size: 3vh;
+  text-align: center;
+  text-shadow: -0.2vw -0.2vw red;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+`;
+
+const JokeDiv = styled.div`
+margin-inline: auto;
+width: 90vw;
+height: 30vh;
+display: flex;
+flex-direction: column;
+-webkit-box-align: center;
+align-items: center;
+overflow: auto;
+margin-bottom: 2vh;
+}
+`;
+
+const JokeSpan = styled.span`
+  color: rgb(246, 201, 201);
+  font-size: 3vh;
+  text-align: center;
+  text-shadow: -0.1vw -0.1vw #ffe700;
+`;
+
+const JokeDeliver = styled.span`
+  color: rgb(255, 2, 2);
+  font-size: 2.4vh;
+  text-align: center;
+  text-shadow: -0.1vw -0.1vw #ffe700;
+`;
+
+function Joke({ newjoke, userName, image }) {
   const [joke, setjoke] = useState(null);
 
   useEffect(() => {
@@ -10,62 +61,49 @@ function Joke({ newjoke, userName }) {
 
   function getJoke() {
     fetch("https://v2.jokeapi.dev/joke/Any")
-    .then((res) => res.json())
-    .then((res) => {
-        console.log(res)
-        if(res.error) return
-        setjoke(res)
-    })
+      .then((res) => res.json())
+      .then((res) => {
+        console.log(res);
+        if (res.error) return;
+        setjoke(res);
+      });
   }
 
-  function single() {return (
-    <>
-      <span className="joke">
-        <Font family="VT323">{joke.joke}</Font>
-      </span>
-    </>
-  );}
+  function single() {
+    return (
+      <>
+        <JokeSpan>
+          <Font family="VT323">{joke.joke}</Font>
+        </JokeSpan>
+      </>
+    );
+  }
 
   function twopart() {
     return (
       <>
-        <span className="joke">
+        <JokeSpan>
           <Font family="VT323">{joke.setup}</Font>
-        </span>
-        <span className="playerName">
+        </JokeSpan>
+        <JokeDeliver>
           <Font family="VT323">{joke.delivery}</Font>
-        </span>
+        </JokeDeliver>
       </>
     );
   }
   return (
-    <>
-      <div className="Main">
+    <MainStyle>
+      <GameTitle />
+      <UserImageName name={userName} image={image} />
 
-        <div className="gameTitle">
-          <span className="gameTitlesSpan">
-            <Font family="VT323">Boozy Brain</Font>
-          </span>
-          <span className="gameTitlesSpan2">
-            <Font family="VT323">Can you outsmart the bottle?</Font>
-          </span>
-          <span className="playerName">
-            <Font family="VT323">ID: {userName}</Font>
-          </span>
-        </div>
-        <div className="gameTitle">
-      <span className="gameTitlesSpan2">
+      <WaitingStyle>
         <Font family="VT323">Waiting for a new event ...</Font>
-        </span>
-      </div>
-      <div className="imageDivController">
-            <img className="imageDivControllerPIC" src="images/characters/pupa_knife.png"></img>
-          </div>
-        <div className="jokeTitle">
-          {joke ? joke.type === 'twopart' ? twopart() : single() : <></>}
-        </div>
-      </div>
-    </>
+      </WaitingStyle>
+
+      <JokeDiv>
+        {joke ? joke.type === "twopart" ? twopart() : single() : <></>}
+      </JokeDiv>
+    </MainStyle>
   );
 }
 
