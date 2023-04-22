@@ -73,9 +73,9 @@ function App() {
     setUserName(userName2);
   };
 
-  const startGame = () => {
+  const startGame = (type) => {
     setAdmin(false);
-    socket.emit("userStartGame");
+    socket.emit("userStartGame", type);
   };
 
   const sendReponse = (response, position) => {

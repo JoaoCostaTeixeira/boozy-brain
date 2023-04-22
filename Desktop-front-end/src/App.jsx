@@ -21,9 +21,9 @@ function App() {
   const [users, setUser] = useState([]);
   const [responses, setResponses] = useState([]);
 
-  const fetchQuestions = () => {
+  const fetchQuestions = (type) => {
     axios
-      .get("http://localhost:3001/questions")
+      .get("http://localhost:3001/questions/" + type)
       .then(({ data }) => setQuestions(data));
   };
 
@@ -63,9 +63,9 @@ function App() {
       setResponses((prev) => [...prev, response]);
     });
 
-    socket.on("startGame", () => {
+    socket.on("startGame", (type) => {
       setStart(true);
-      fetchQuestions();
+      fetchQuestions(type);
     });
 
     return () => {
@@ -87,8 +87,9 @@ function App() {
 
   const nextQuestion = () => {
     setNumber((prev) => {
-      if (prev === 19) {
-        fetchQuestions();
+      if (prev === questions.length) {
+        setStart(false);
+        setUser([]);
         return 0;
       }
       return prev + 1;

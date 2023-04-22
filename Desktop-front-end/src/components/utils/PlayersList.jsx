@@ -50,19 +50,21 @@ const Right = styled.div`
 function PlayersList({ users, showResults }) {
   return (
     <PlayersStyled>
-      {users.map((user) => (
-        <UserStyled key={user.socketId}>
-          <UserImage index={user.img} width={70} />
-          <NameStyled>
-            <Font family="VT323">{user.userName}</Font>
-            {showResults ? (
-              <ShowScore score={user.scoreInThis} />
-            ) : (
-              <Font family="VT323">{user.score}</Font>
-            )}
-          </NameStyled>
-        </UserStyled>
-      ))}
+      {users
+        .sort((a, b) => b.score - a.score)
+        .map((user) => (
+          <UserStyled key={user.socketId}>
+            <UserImage index={user.img} width={70} />
+            <NameStyled>
+              <Font family="VT323">{user.userName}</Font>
+              {showResults ? (
+                <ShowScore score={user.scoreInThis} />
+              ) : (
+                <Font family="VT323">{user.score}</Font>
+              )}
+            </NameStyled>
+          </UserStyled>
+        ))}
     </PlayersStyled>
   );
 }
