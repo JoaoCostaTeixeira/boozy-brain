@@ -3,13 +3,13 @@ import GameTitle from "../gameTitle";
 import ActionButton from "../utils/ActionButton";
 import UserImageName from "../utils/UserImageName";
 
-function Normal({ userName, image, sendReponse, setJoke }) {
-  const options = ["A", "B", "C", "D"];
+function TrueOrFalse({ userName, image, sendReponse, setJoke }) {
+  const options = ["TRUE", "FALSE"];
 
   useEffect(() => {
     const timer = setTimeout(() => {
       sendReponse("E", 4);
-    }, 20000);
+    }, 5000);
 
     return () => {
       clearTimeout(timer);
@@ -33,4 +33,4 @@ function Normal({ userName, image, sendReponse, setJoke }) {
   );
 }
 
-export default Normal;
+export default TrueOrFalse;

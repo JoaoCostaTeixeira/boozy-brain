@@ -8,7 +8,6 @@ import QuestionTitleComponent from "./QuestionTitle";
 import { calculateScore } from "../../utils/calculateScoreNormal";
 import TimerBar from "../../utils/TimerBar";
 
-
 const MAX_TIME = 20;
 
 const Container = styled.div`
@@ -82,7 +81,11 @@ function Question({
           200,
           10
         );
-        if (response && questionLocal[response.position].right) {
+        if (
+          response &&
+          response.position < questionLocal.length &&
+          questionLocal[response.position].right
+        ) {
           user.score = user.score + points;
           user.scoreInThis = `+${points}`;
         } else {
@@ -129,7 +132,7 @@ function Question({
         question={questionLocal || []}
         rightIndex={right?.index || 0}
       />
-      <TimerBar maxTime={MAX_TIME}/>
+      <TimerBar maxTime={MAX_TIME} />
     </Container>
   );
 }

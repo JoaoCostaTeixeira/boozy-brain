@@ -87,7 +87,7 @@ async function generateGame2(type) {
     }
   }
 
-  while (drink.length) {
+  /* while (drink.length) {
     const question = Math.floor(Math.random() * (normal.length - 1) + 1);
 
     if (
@@ -96,7 +96,7 @@ async function generateGame2(type) {
     ) {
       normal.splice(question, 0, drink.pop());
     }
-  }
+  }*/
 
   return normal;
 }

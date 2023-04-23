@@ -7,6 +7,7 @@ import Lobby from "./components/lobby/Lobby";
 import Question from "./components/games/question/Question";
 import TrueOrFalse from "./components/games/trueorfalse/TrueOrFalse";
 import IF from "./components/utils/IF";
+import RoundIntro from "./components/roundIntro";
 const socket = io("http://localhost:4000/");
 
 function App() {
@@ -21,10 +22,16 @@ function App() {
   const [users, setUser] = useState([]);
   const [responses, setResponses] = useState([]);
 
+  const [displayRoundType, setDisplayRoundType] = useState(true);
+
   const fetchQuestions = (type) => {
-    axios
-      .get("http://localhost:3001/questions/" + type)
-      .then(({ data }) => setQuestions(data));
+    axios.get("http://localhost:3001/questions/" + type).then(({ data }) => {
+      setQuestions(data);
+      setStart(true);
+      setTimeout(() => {
+        setDisplayRoundType(false);
+      }, 3000);
+    });
   };
 
   // Resets game if all players leave
@@ -64,10 +71,8 @@ function App() {
     });
 
     socket.on("startGame", (type) => {
-      setStart(true);
       fetchQuestions(type);
     });
-
     return () => {
       socket.off("connect");
       socket.off("disconnect");
@@ -95,35 +100,58 @@ function App() {
       return prev + 1;
     });
     setResponses([]);
+    setDisplayRoundType(true);
+
+    setTimeout(() => {
+      setDisplayRoundType(false);
+    }, 3000);
+  };
+
+  const resetReponses = () => {
+    setResponses([]);
   };
   return (
     <div className="App">
       {!connected ? (
         <Conecting />
       ) : start && questions ? (
-        <>
-          <IF condition={questions[number].type === "Question"}>
-            <Question
-              users={users}
-              setScores={setScores}
-              nextQuestion={nextQuestion}
-              question={(questions && questions[number]) || null}
-              responses={responses}
-              newQuestion={newQuestion}
-            />
-          </IF>
+        displayRoundType ? (
+          <RoundIntro
+            type={questions[number].type}
+            roundNumber={number}
+            subType={questions[number].subType || ""}
+          />
+        ) : (
+          <>
+            <IF condition={questions[number].type === "normal"}>
+              <Question
+                users={users}
+                setScores={setScores}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number]) || null}
+                responses={responses}
+                newQuestion={newQuestion}
+              />
+            </IF>
 
-          <IF condition={questions[number].type === "TrueOrFalse"}>
-            <TrueOrFalse
-              users={users}
-              setScores={setScores}
-              nextQuestion={nextQuestion}
-              question={(questions && questions[number]) || null}
-              responses={responses}
-              newQuestion={newQuestion}
-            />
-          </IF>
-        </>
+            <IF
+              condition={
+                questions[number].type === "random" &&
+                questions[number].subType === "TrueOrFalse"
+              }
+            >
+              <TrueOrFalse
+                users={users}
+                setScores={setScores}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number].questions) || null}
+                responses={responses}
+                newQuestion={newQuestion}
+                resetReponses={resetReponses}
+              />
+            </IF>
+          </>
+        )
       ) : (
         <Lobby ip={ip + ":3002"} users={users} />
       )}

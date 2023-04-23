@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Joke from "../joke";
 import Normal from "../gameTypes/Normal";
+import TrueOrFalse from "../gameTypes/TrueFalse";
 
 function Game({ question, sendReponse, userName, image }) {
   const [joke, setJoke] = useState(0);
@@ -17,10 +18,17 @@ function Game({ question, sendReponse, userName, image }) {
         setJoke={setJoke}
       />
     );
-  return (
-    <>
-    </>
-  );
+
+  if (question === "trueorfalse")
+    return (
+      <TrueOrFalse
+        sendReponse={sendReponse}
+        userName={userName}
+        image={image}
+        setJoke={setJoke}
+      />
+    );
+  return <></>;
 }
 
 export default Game;
