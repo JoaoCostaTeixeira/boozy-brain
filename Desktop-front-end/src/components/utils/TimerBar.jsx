@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const TimerStyle = styled.div`
   width: 80vw;
-  height: 3.5vh;
+  height: 25px;
   position: absolute;
   bottom: 4vh;
   display: flex;
@@ -11,7 +11,6 @@ const TimerStyle = styled.div`
   border: 5px solid #5f0404;
   box-shadow: 0px 0px 8px 0px #151212f7 inset;
   border-radius: 0.8vw;
-  padding-inline: 1rem;
 `;
 
 const TimerInnerDivStyle = styled.div`

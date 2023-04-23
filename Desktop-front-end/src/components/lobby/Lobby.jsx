@@ -60,7 +60,7 @@ function Lobby({ ip, users }) {
   return (
     <>
       <IPStyled>
-        Connect
+      <Font family="VT323">CONNECT</Font>
         <QRCodeCanvas id="qrCode" value={ip} size={300} bgColor={"#ffffff"} />
       </IPStyled>
       <PlayersStyled>
