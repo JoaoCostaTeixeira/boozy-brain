@@ -8695,5 +8695,607 @@
       "wrong_answer2": 34,
       "wrong_answer3": 38
     }
+  ],
+  "rather": [
+    {
+      "question_id": 1,
+      "question": "be forced to listen to the same 10 songs on repeat for the rest of your life or forced to watch the same 5 movies on repeat for the rest of your life?",
+      "answer1": "10 songs",
+      "answer2": "5 movies"
+    },
+    {
+      "question_id": 2,
+      "question": "go without shampoo for the rest of your life or toothpaste for the rest of your life?",
+      "answer1": "Shampoo",
+      "answer2": "toothpaste"
+    },
+    {
+      "question_id": 3,
+      "question": "have a time machine or a teleporter?",
+      "answer1": "Time machine",
+      "answer2": "Teleporter"
+    },
+    {
+      "question_id": 4,
+      "question": "have to always hop around on one foot or have to always squat?",
+      "answer1": "Hop",
+      "answer2": "Squat"
+    },
+    {
+      "question_id": 5,
+      "question": "travel the world for a year or have $50,000 cash right now?",
+      "answer1": "Travel",
+      "answer2": "Cash"
+    },
+    {
+      "question_id": 6,
+      "question": "have the power of flight or the ability to become invisible?",
+      "answer1": "Flight",
+      "answer2": "Invisible"
+    },
+    {
+      "question_id": 7,
+      "question": "have a photographic memory or be able to forget anything you wanted?",
+      "answer1": "Photographic memory",
+      "answer2": "Forget anything you wanted"
+    },
+    {
+      "question_id": 8,
+      "question": "have to eat a jar of mayonnaise every day for the rest of your life or drink a gallon of ketchup in one sitting?",
+      "answer1": "Jar of mayonnaise every day",
+      "answer2": "Gallon of ketchup in one sitting"
+    },
+    {
+      "question_id": 9,
+      "question": "have a personal theme song that plays every time you enter a room or have a live audience that follows you everywhere and cheers you on?",
+      "answer1": "Personal theme song",
+      "answer2": "Live audience"
+    },
+    {
+      "question_id": 10,
+      "question": "be able to talk to plants or have the power to make any plant grow at an incredible rate?",
+      "answer1": "Talk to plants",
+      "answer2": "Make any plant grow"
+    },
+    {
+      "question_id": 11,
+      "question": "have unlimited access to your favorite food or never have to sleep again?",
+      "answer1": "Favorite Food",
+      "answer2": "Never sleep again"
+    },
+    {
+      "question_id": 12,
+      "question": "be able to turn invisible but only for 30 seconds at a time or be able to teleport but only to places you've never been before?",
+      "answer1": "Invisible",
+      "answer2": "Teleport"
+    },
+    {
+      "question_id": 13,
+      "question": "have a third eye in the back of your head or a second nose on your forehead?",
+      "answer1": "Third eye",
+      "answer2": "Second Nose"
+    },
+    {
+      "question_id": 14,
+      "question": "have fingers for toes or toes for fingers?",
+      "answer1": "Fingers for toes",
+      "answer2": "Toes for fingers"
+    },
+    {
+      "question_id": 15,
+      "question": "be followed around by a mariachi band or a troupe of mimes?",
+      "answer1": "Mariachi band",
+      "answer2": "Troupe of mimes"
+    },
+    {
+      "question_id": 16,
+      "question": "have a voice that sounds like a squeaky toy or a laugh that sounds like a goat?",
+      "answer1": "Squeaky toy",
+      "answer2": "Laugh like a goat"
+    },
+    {
+      "question_id": 17,
+      "question": "have to communicate through interpretive dance or through charades?",
+      "answer1": "Interpretive dance",
+      "answer2": "Charades"
+    },
+    {
+      "question_id": 18,
+      "question": "have a permanent case of the hiccups or have to sneeze every time someone says your name?",
+      "answer1": "Hiccups",
+      "answer2": "Sneeze"
+    },
+    {
+      "question_id": 19,
+      "question": "be able to talk to animals, but they can't understand you, or be able to understand animals, but you can't talk back?",
+      "answer1": "Talk",
+      "answer2": "Understand"
+    },
+    {
+      "question_id": 20,
+      "question": "have a robot butler or a flying car?",
+      "answer1": "Robot Butler",
+      "answer2": "Flying Car"
+    },
+    {
+      "question_id": 21,
+      "question": "have to wear your clothes backward every day or wear your shoes on the wrong feet?",
+      "answer1": "Clothes backward",
+      "answer2": "Shoes on the wrong feet"
+    },
+    {
+      "question_id": 22,
+      "question": "be able to run at the speed of light or be able to teleport short distances?",
+      "answer1": "Speed of light",
+      "answer2": "Teleport short distances"
+    },
+    {
+      "question_id": 23,
+      "question": "live in a world without coffee or a world without chocolate?",
+      "answer1": "Coffee",
+      "answer2": "Chocolate"
+    },
+    {
+      "question_id": 24,
+      "question": "live in a world where it's always winter or always summer?",
+      "answer1": "Winter",
+      "answer2": "Summer"
+    },
+    {
+      "question_id": 25,
+      "question": "have a personal chef or a personal masseuse?\t",
+      "answer1": "Chef",
+      "answer2": "Masseuse"
+    },
+    {
+      "question_id": 26,
+      "question": "be able to talk to plants or to ghosts?",
+      "answer1": "Talk to plants",
+      "answer2": "Talk to ghosts"
+    },
+    {
+      "question_id": 27,
+      "question": "have the power to control fire or water?",
+      "answer1": "Control fire",
+      "answer2": "Control water"
+    },
+    {
+      "question_id": 28,
+      "question": "be able to talk to plants or to ghosts?",
+      "answer1": "Talk to plants",
+      "answer2": "Talk to ghosts"
+    },
+    {
+      "question_id": 29,
+      "question": "have the power to control fire or water?",
+      "answer1": "Control fire",
+      "answer2": "Control water"
+    },
+    {
+      "question_id": 30,
+      "question": "live in a world with superheroes or with wizards?",
+      "answer1": "Superheroes",
+      "answer2": "Wizards"
+    },
+    {
+      "question_id": 31,
+      "question": "have a flying car or a personal jetpack?",
+      "answer1": "Flying car",
+      "answer2": "Jetpack"
+    },
+    {
+      "question_id": 32,
+      "question": "be able to breathe underwater or to survive in outer space?",
+      "answer1": "Breathe underwater",
+      "answer2": "Survive in outer space"
+    },
+    {
+      "question_id": 33,
+      "question": "be able to teleport anywhere you've already been or to create illusions?",
+      "answer1": "Teleport",
+      "answer2": "Create illusions"
+    },
+    {
+      "question_id": 34,
+      "question": "be a mermaid or a centaur?",
+      "answer1": "Mermaid",
+      "answer2": "Centaur"
+    },
+    {
+      "question_id": 35,
+      "question": "have the ability to shrink down to the size of an ant or to grow as big as a skyscraper?",
+      "answer1": "Shrink down",
+      "answer2": "Grow big"
+    },
+    {
+      "question_id": 36,
+      "question": "live in a treehouse or a houseboat?",
+      "answer1": "Treehouse",
+      "answer2": "Houseboat"
+    },
+    {
+      "question_id": 37,
+      "question": "be able to talk to your past self or your future self?",
+      "answer1": "Past self",
+      "answer2": "Future self"
+    },
+    {
+      "question_id": 38,
+      "question": "have the ability to turn invisible but only while saying \"You can't see me\" or be able to fly but only while doing the chicken dance?",
+      "answer1": "Invisible while singing",
+      "answer2": "Fly while doing the chicken dance"
+    },
+    {
+      "question_id": 39,
+      "question": "be able to talk to animals but only in baby talk or be able to talk to inanimate objects but only in gibberish?",
+      "answer1": "Talk to animals in baby talk",
+      "answer2": "Talk to inanimate objects in gibberish"
+    },
+    {
+      "question_id": 40,
+      "question": "be able to control the weather but only on days that end in \"y\" or be able to read people's minds but only when they're thinking about food?",
+      "answer1": "Control weather on days that end in \"y\"",
+      "answer2": "Read minds when they're thinking about food"
+    },
+    {
+      "question_id": 41,
+      "question": "live in a world where everyone is a cartoon character or where everyone is a character from a video game?",
+      "answer1": "Cartoon characters",
+      "answer2": "Video game characters"
+    },
+    {
+      "question_id": 42,
+      "question": "be able to teleport but only to places you've never been or be able to clone yourself but each clone is half the size of the previous one?",
+      "answer1": "Teleport to new places",
+      "answer2": "Clone yourself with shrinking clones"
+    },
+    {
+      "question_id": 43,
+      "question": "be able to talk to plants but they always insult you or be able to talk to rocks but they only tell dad jokes?",
+      "answer1": "Talk to insulting plants",
+      "answer2": "Talk to rock with dad jokes"
+    },
+    {
+      "question_id": 44,
+      "question": "have a third arm that can only play the accordion or a third leg that can only do the cha-cha dance?",
+      "answer1": "Third arm that plays accordion",
+      "answer2": "Third leg that does cha-cha dance"
+    },
+    {
+      "question_id": 45,
+      "question": "be able to shapeshift but only into a fruit or be able to control other people's dreams but you have to be in the dream too?",
+      "answer1": "Shapeshift into fruit",
+      "answer2": "Control other people's dreams"
+    },
+    {
+      "question_id": 46,
+      "question": "have a pet dragon but it's always hungry and eats your furniture or a pet unicorn but it shits glitter everywhere?",
+      "answer1": "Pet dragon that eats furniture",
+      "answer2": "Pet unicorn that shits glitter"
+    },
+    {
+      "question_id": 47,
+      "question": "be able to talk to ghosts but they're always telling bad jokes or be able to talk to aliens but they only speak in riddles?",
+      "answer1": "Talk to ghosts with bad jokes",
+      "answer2": "Talk to aliens with riddles"
+    },
+    {
+      "question_id": 48,
+      "question": "live in a house made entirely of bubble wrap or in a house made entirely of candy?",
+      "answer1": "Bubble wrap ",
+      "answer2": "Candy "
+    },
+    {
+      "question_id": 49,
+      "question": "be able to run as fast as a cheetah but you can only run on all fours or be able to jump as high as a kangaroo but you can only hop on one foot?",
+      "answer1": "Run on all fours like a cheetah",
+      "answer2": "Hop on one foot like a kangaroo"
+    },
+    {
+      "question_id": 50,
+      "question": "be able to talk to dogs but they only want to talk about their favorite brand of dog food or be able to talk to cats but they only want to talk about how much they hate humans?",
+      "answer1": "Talk to dogs about dog food",
+      "answer2": "Talk to cats about how much they hate humans"
+    },
+    {
+      "question_id": 51,
+      "question": "be able to transform into any object but you can't transform back for an hour or be able to turn invisible but you can't move while invisible?",
+      "answer1": "Transform into any object and can't transform back",
+      "answer2": "Turn invisible and can't move"
+    },
+    {
+      "question_id": 52,
+      "question": "live in a world where everyone has a giant nose or where everyone has a tiny nose?",
+      "answer1": "Giant noses",
+      "answer2": "Tiny noses"
+    },
+    {
+      "question_id": 53,
+      "question": "be able to shoot spaghetti out of your fingertips or be able to turn into a giant hamster at will?",
+      "answer1": "Shoot spaghetti out of your fingertips",
+      "answer2": "Turn into a giant hamster"
+    },
+    {
+      "question_id": 54,
+      "question": "only be able to eat sweet or savory food?",
+      "answer1": "Sweet",
+      "answer2": "Savory"
+    },
+    {
+      "question_id": 55,
+      "question": "have to say every thought out loud or never be able to speak again?",
+      "answer1": "Every thought out loud",
+      "answer2": "Never speak again "
+    },
+    {
+      "question_id": 56,
+      "question": "every shirt you put on be slightly itchy or only be able to use single-ply toilet paper? ",
+      "answer1": "Shirt slightly itchy",
+      "answer2": "Single-ply toilet paper"
+    },
+    {
+      "question_id": 57,
+      "question": "live in a tree house or a tiny home by the beach? ",
+      "answer1": "Tree house",
+      "answer2": "Tiny home by the beach"
+    },
+    {
+      "question_id": 58,
+      "question": "have to watch only horror movies or only rom-com for the next year?",
+      "answer1": "Horror",
+      "answer2": "Rom-Com"
+    },
+    {
+      "question_id": 59,
+      "question": "be exceptionally good at a niche sport that very few people know about or be OK at every sport you try? ",
+      "answer1": "Exceptionally good at niche sport",
+      "answer2": "OK at every sport"
+    },
+    {
+      "question_id": 60,
+      "question": "dive from the 10m diving board or go scuba diving in caves? ",
+      "answer1": "Dive 10m",
+      "answer2": "Go scuba diving in caves"
+    },
+    {
+      "question_id": 61,
+      "question": "have to fight one horse-sized duck or 50 duck-sized horses? ",
+      "answer1": "1 horse-sized duck",
+      "answer2": "50 duck-sized horses"
+    },
+    {
+      "question_id": 62,
+      "question": "only drink coffee and no other beverages (except for water) or never be able to drink coffee again?",
+      "answer1": "Only coffee",
+      "answer2": "Never drink coffee"
+    },
+    {
+      "question_id": 63,
+      "question": "invite someone you just met to be your +1 to a wedding or go solo?",
+      "answer1": "Someone you just met",
+      "answer2": "Go solo"
+    },
+    {
+      "question_id": 64,
+      "question": "be able to bring inanimate objects to life or talk with animals? ",
+      "answer1": "Bring objects to life",
+      "answer2": "Talk with animals"
+    },
+    {
+      "question_id": 65,
+      "question": "accidentally send a naughty picture to your dad or your boss?",
+      "answer1": "Dad",
+      "answer2": "Boss"
+    },
+    {
+      "question_id": 66,
+      "question": "be funny but really stupid or boring but really smart?",
+      "answer1": "Funny but stupid",
+      "answer2": "Boring but smart"
+    },
+    {
+      "question_id": 67,
+      "question": "be able to travel everywhere for free or eat everywhere for free?",
+      "answer1": "Travel",
+      "answer2": "Eat"
+    },
+    {
+      "question_id": 68,
+      "question": "have your name tattooed on your forehead or have no front teeth?",
+      "answer1": "Name on forehead",
+      "answer2": "No front teeth"
+    },
+    {
+      "question_id": 69,
+      "question": "live in a world where you dance instead of walk or sing instead of talk?",
+      "answer1": "Dance instead of walk",
+      "answer2": "Sing instead of talk"
+    },
+    {
+      "question_id": 70,
+      "question": "hunt and butcher your own meat or never eat meat again?",
+      "answer1": "Hunt and butcher",
+      "answer2": "Never eat meat again"
+    },
+    {
+      "question_id": 71,
+      "question": "forget your partners birthday or your anniversary every year?",
+      "answer1": "Your partners birthday",
+      "answer2": "Your anniversary"
+    },
+    {
+      "question_id": 72,
+      "question": "have a third nipple or an extra toe?",
+      "answer1": "Third nipple",
+      "answer2": "Extra toe"
+    },
+    {
+      "question_id": 73,
+      "question": "get up early or stay up late?",
+      "answer1": "Get up early",
+      "answer2": "Stay up late"
+    },
+    {
+      "question_id": 74,
+      "question": "take a vow of celibacy or take a vow of silence?",
+      "answer1": "Celibacy",
+      "answer2": "Silence"
+    },
+    {
+      "question_id": 75,
+      "question": "be in jail for five years or be in a coma for a decade?",
+      "answer1": "5 years in jail ",
+      "answer2": "10 years in a coma"
+    },
+    {
+      "question_id": 76,
+      "question": "date someone much older or much younger than you?",
+      "answer1": "Older",
+      "answer2": "Younger"
+    },
+    {
+      "question_id": 77,
+      "question": "lose your sight or your memories?",
+      "answer1": "Sight",
+      "answer2": "Memories"
+    },
+    {
+      "question_id": 78,
+      "question": "be with someone who’s always really late or who’s always really early?",
+      "answer1": "Late",
+      "answer2": "Early"
+    },
+    {
+      "question_id": 79,
+      "question": "never pay for groceries or never pay for gas",
+      "answer1": "Groceries",
+      "answer2": "Gas"
+    },
+    {
+      "question_id": 80,
+      "question": "ask your ex or a total stranger for a favor?",
+      "answer1": "Ex",
+      "answer2": "Total stranger"
+    },
+    {
+      "question_id": 81,
+      "question": "detect every lie you hear or get away with every lie you tell?",
+      "answer1": "Detect ",
+      "answer2": "Get away with "
+    },
+    {
+      "question_id": 82,
+      "question": "date a chef or date a massage therapist?",
+      "answer1": "Chef",
+      "answer2": "Massage Therapist"
+    },
+    {
+      "question_id": 83,
+      "question": "someone see all the photos in your phone or read all your text messages?",
+      "answer1": "Photos",
+      "answer2": "Messages"
+    },
+    {
+      "question_id": 84,
+      "question": "only be able to communicate through emojis or never be able to text again?",
+      "answer1": "Emojis",
+      "answer2": "Never text again"
+    },
+    {
+      "question_id": 85,
+      "question": "spend your life with someone you don’t love or with someone who doesn’t love you back?",
+      "answer1": "You don’t love",
+      "answer2": "Doesn’t love you back "
+    },
+    {
+      "question_id": 86,
+      "question": "marry at this moment or not marry at all?",
+      "answer1": "This moment",
+      "answer2": "Never"
+    },
+    {
+      "question_id": 87,
+      "question": "give up social media or eat the same dinner for the rest of your life?",
+      "answer1": "Social media",
+      "answer2": "Same dinner"
+    },
+    {
+      "question_id": 88,
+      "question": "always be 20 minutes late for important events or always be two hours early for everything else?",
+      "answer1": "20 min late",
+      "answer2": "2 hours early"
+    },
+    {
+      "question_id": 89,
+      "question": "always feel the urge to pee or never know when you have to pee ?",
+      "answer1": "Feel the urge",
+      "answer2": "Never know"
+    },
+    {
+      "question_id": 90,
+      "question": "smack a puppy or get smacked by your dad in public?",
+      "answer1": "Smack puppy",
+      "answer2": "Smacked by your dad"
+    },
+    {
+      "question_id": 91,
+      "question": "give up cursing forever or give up ice cream for 10 years?",
+      "answer1": "Give up cursing",
+      "answer2": "Give up ice-cream"
+    },
+    {
+      "question_id": 92,
+      "question": "be a vegetarian or only be able to eat meat?",
+      "answer1": "Vegetarian",
+      "answer2": "Only eat meat "
+    },
+    {
+      "question_id": 93,
+      "question": "talk to animals or speak all human languages?",
+      "answer1": "Talk to animals ",
+      "answer2": "Speak all human languages"
+    },
+    {
+      "question_id": 94,
+      "question": "die before your spouse or after?",
+      "answer1": "before",
+      "answer2": "after"
+    },
+    {
+      "question_id": 95,
+      "question": "be on a survival reality show or a dating reality show?",
+      "answer1": "Survival",
+      "answer2": "Dating"
+    },
+    {
+      "question_id": 96,
+      "question": " make the first move or have someone make the first move on you?",
+      "answer1": "Make the first move",
+      "answer2": "Someone make the first move"
+    },
+    {
+      "question_id": 97,
+      "question": "go a year with no eyelashes or go a year with no eyebrows?",
+      "answer1": "Eyelashes",
+      "answer2": "Eyebrows"
+    },
+    {
+      "question_id": 98,
+      "question": "have a huge booger hanging out of your nose for the rest of your life or a pimple on your forehead for the rest of your life?",
+      "answer1": "Huge booger",
+      "answer2": "Pimple on forehead"
+    },
+    {
+      "question_id": 99,
+      "question": "give up social media or eat the same dinner for the rest of your life?",
+      "answer1": "Social media",
+      "answer2": "Same dinner"
+    },
+    {
+      "question_id": 100,
+      "question": "only be able to whisper or only be able to shout?",
+      "answer1": "Whisper",
+      "answer2": "Shout"
+    }
   ]
 }
