@@ -47,7 +47,7 @@ const Right = styled.div`
   margin-left: -5px;
 `;
 
-function PlayersList({ users, showResults }) {
+function PlayersList({ users, showResults, showDrinking }) {
   return (
     <PlayersStyled>
       {users
@@ -59,6 +59,8 @@ function PlayersList({ users, showResults }) {
               <Font family="VT323">{user.userName}</Font>
               {showResults ? (
                 <ShowScore score={user.scoreInThis} />
+              ) : showDrinking ? (
+                <Font family="VT323">DRINK</Font>
               ) : (
                 <Font family="VT323">{user.score}</Font>
               )}

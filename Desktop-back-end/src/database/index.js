@@ -37,6 +37,9 @@ const types = {
 // True or false consts
 let trueOrFalseCount = 0;
 
+// Lyrics count
+let lyricsCount = 0;
+
 async function createDB() {
   const { JsonDB, Config } = require("node-json-db");
   const fs = require("fs");
@@ -63,6 +66,7 @@ async function createDB() {
         }
 
         trueOrFalseCount = await db.count(`/trueorfalse/`);
+        lyricsCount = await db.count(`/lyrics/`);
       }
     }
   );
@@ -87,7 +91,7 @@ async function generateGame2(type) {
     }
   }
 
-  /* while (drink.length) {
+  while (drink.length) {
     const question = Math.floor(Math.random() * (normal.length - 1) + 1);
 
     if (
@@ -96,44 +100,77 @@ async function generateGame2(type) {
     ) {
       normal.splice(question, 0, drink.pop());
     }
-  }*/
+  }
 
   return normal;
 }
 
 async function getRandomEvent(numQuestions) {
+  const types = ["trueorfalse", "lyric"];
   let questions = [];
+
   while (questions.length < numQuestions) {
-    const alreadyIn = [];
-    const questionsArray = [];
-    while (alreadyIn.length < 5) {
-      const question = Math.floor(Math.random() * trueOrFalseCount);
-      if (!alreadyIn.includes(question)) {
-        alreadyIn.push(question);
-        const data = await db.getData(`/trueorfalse[${question}]`);
-        questionsArray.push(data);
-      }
+    const type = Math.floor(Math.random() * 2);
+
+    switch (types[type]) {
+      case "lyric":
+        const question = Math.floor(Math.random() * lyricsCount);
+        const data = await db.getData(`/lyrics[${question}]`);
+        if (
+          !questions.find(
+            (q) =>
+              q.subType === "CompleteTheLyrics" &&
+              q.question_id === data.question_id
+          )
+        ) {
+          questions.push({
+            ...data,
+            subType: "CompleteTheLyrics",
+            type: "random",
+          });
+        }
+        break;
+
+      default:
+        const alreadyIn = [];
+        const questionsArray = [];
+        while (alreadyIn.length < 5) {
+          const question = Math.floor(Math.random() * trueOrFalseCount);
+          if (!alreadyIn.includes(question)) {
+            alreadyIn.push(question);
+            const data = await db.getData(`/trueorfalse[${question}]`);
+            questionsArray.push(data);
+          }
+        }
+        questions.push({
+          subType: "TrueOrFalse",
+          questions: questionsArray,
+          type: "random",
+        });
+        break;
     }
-    questions.push({
-      subType: "TrueOrFalse",
-      questions: questionsArray,
-      type: "random",
-    });
   }
   return questions;
 }
 
 async function getDrinkingTwists(numQuestions) {
-  const drinkingTwists = [
-    { subType: "All drink" },
-    { subType: "Only one drinks" },
-    { subType: "Some drink" },
-  ];
+  const drinkingTwists = ["headstails"];
 
   let questions = [];
   while (questions.length < numQuestions) {
     const question = Math.floor(Math.random() * drinkingTwists.length);
-    questions.push({ ...drinkingTwists[question], type: "drinking" });
+
+    switch (drinkingTwists[question]) {
+      default:
+        const result = Math.floor(Math.random() * 3);
+
+        questions.push({
+          result: result,
+          subType: "HeadsOrTails",
+          type: "drinking",
+        });
+        break;
+    }
   }
 
   return questions;

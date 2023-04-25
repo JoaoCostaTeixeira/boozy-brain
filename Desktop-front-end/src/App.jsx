@@ -8,6 +8,8 @@ import Question from "./components/games/question/Question";
 import TrueOrFalse from "./components/games/trueorfalse/TrueOrFalse";
 import IF from "./components/utils/IF";
 import RoundIntro from "./components/roundIntro";
+import Lyrics from "./components/games/lyrics/Lyrics";
+import HeadsTails from "./components/games/headsortails/HeadsTails";
 const socket = io("http://localhost:4000/");
 
 function App() {
@@ -148,6 +150,37 @@ function App() {
                 responses={responses}
                 newQuestion={newQuestion}
                 resetReponses={resetReponses}
+              />
+            </IF>
+
+            <IF
+              condition={
+                questions[number].type === "random" &&
+                questions[number].subType === "CompleteTheLyrics"
+              }
+            >
+              <Lyrics
+                users={users}
+                setScores={setScores}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number]) || null}
+                responses={responses}
+                newQuestion={newQuestion}
+              />
+            </IF>
+
+            <IF
+              condition={
+                questions[number].type === "drinking" &&
+                questions[number].subType === "HeadsOrTails"
+              }
+            >
+              <HeadsTails
+                users={users}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number]) || null}
+                responses={responses}
+                newQuestion={newQuestion}
               />
             </IF>
           </>
