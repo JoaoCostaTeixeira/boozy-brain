@@ -1,0 +1,1204 @@
+{
+    "questions": [
+        {
+            "question_id": 1,
+            "question": "\"My ____ is killing me and I, I must confess I still believe, still believe!\"",
+            "correct_answer": "loneliness",
+            "wrong_answer1": "life",
+            "wrong_answer2": "love",
+            "wrong_answer3": "lonely"
+        },
+        {
+            "question_id": 2,
+            "question": "\"You've got your mother and your brother, every other undercover telling you what to ____.\"",
+            "correct_answer": "say",
+            "wrong_answer1": "see",
+            "wrong_answer2": "listen",
+            "wrong_answer3": "do"
+        },
+        {
+            "question_id": 3,
+            "question": "\"If you wanna be my ____, you gotta get with my friends!\"",
+            "correct_answer": "lover",
+            "wrong_answer1": "friend",
+            "wrong_answer2": "boyfriend",
+            "wrong_answer3": "neighbor"
+        },
+        {
+            "question_id": 4,
+            "question": "Say my name, say my name, if no one is around you, say ____, I love you!",
+            "correct_answer": "baby",
+            "wrong_answer1": "honey",
+            "wrong_answer2": "darling",
+            "wrong_answer3": "sweetie"
+        },
+        {
+            "question_id": 5,
+            "question": "Where is the ____ when we need it the most? You kick up the leaves and the magic is lost!",
+            "correct_answer": "moment",
+            "wrong_answer1": "minute",
+            "wrong_answer2": "lady",
+            "wrong_answer3": "light"
+        },
+        {
+            "question_id": 6,
+            "question": "\"Get this party started on a Saturday night, everybody's waiting for me to ____.\"",
+            "correct_answer": "arrive",
+            "wrong_answer1": "show up",
+            "wrong_answer2": "dance all night",
+            "wrong_answer3": "go"
+        },
+        {
+            "question_id": 7,
+            "question": "\"Hey Mr. DJ, put a ____ on, I wanna dance with my baby\"",
+            "correct_answer": "record",
+            "wrong_answer1": "cd",
+            "wrong_answer2": "cassete",
+            "wrong_answer3": "music"
+        },
+        {
+            "question_id": 8,
+            "question": "\"Somebody once told me the world was gonna roll me, I ain't the ____ tool in the shed.\"",
+            "correct_answer": "sharpest",
+            "wrong_answer1": "coolest",
+            "wrong_answer2": "pointiest",
+            "wrong_answer3": "hot"
+        },
+        {
+            "question_id": 9,
+            "question": "\"Debbie just hit the wall, she never had it all. One ____ a day, her husband's a CPA\"",
+            "correct_answer": "Prozac",
+            "wrong_answer1": "Prilosec",
+            "wrong_answer2": "pill",
+            "wrong_answer3": "shot of liquor"
+        },
+        {
+            "question_id": 10,
+            "question": "\"He was a boy, she was a girl, can I make it any more obvious? He was a ____, she did ballet what more can I say?\"",
+            "correct_answer": "punk",
+            "wrong_answer1": "thief",
+            "wrong_answer2": "hunk",
+            "wrong_answer3": "skater"
+        },
+        {
+            "question_id": 11,
+            "question": "\"If I go crazy then will you still call me Superman, if I'm alive and well, will you be ____\"",
+            "correct_answer": "There holding my hand",
+            "wrong_answer1": "There for me always",
+            "wrong_answer2": "There when I fall",
+            "wrong_answer3": "There to support me"
+        },
+        {
+            "question_id": 12,
+            "question": "\"Standing in line to see the show tonight  ____\"",
+            "correct_answer": "And there's a light on",
+            "wrong_answer1": "And I see you there",
+            "wrong_answer2": "And the rain falls down",
+            "wrong_answer3": "And the line is a mile long"
+        },
+        {
+            "question_id": 13,
+            "question": "\"I'm gonna fight 'em all, a seven nation army ____\"",
+            "correct_answer": "couldn't hold me back",
+            "wrong_answer1": "won't stop me now",
+            "wrong_answer2": "will lose tonight",
+            "wrong_answer3": "will go down tonight"
+        },
+        {
+            "question_id": 14,
+            "question": " \"I walk a lonely road, the only one that I have ____\"",
+            "correct_answer": "ever known",
+            "wrong_answer1": "ever walked down",
+            "wrong_answer2": "ever been around",
+            "wrong_answer3": "ever seen"
+        },
+        {
+            "question_id": 15,
+            "question": "\"She took me to her castle, and I just couldn't believe ____\"",
+            "correct_answer": "my eyes",
+            "wrong_answer1": "what I saw",
+            "wrong_answer2": "how much she owed",
+            "wrong_answer3": "how good it looked"
+        },
+        {
+            "question_id": 16,
+            "question": " \"I beg to dream and differ from the hollow lies This is the dawning of the ____\"",
+            "correct_answer": "rest of our lifes",
+            "wrong_answer1": "peak of our lives",
+            "wrong_answer2": "prime of our lives",
+            "wrong_answer3": "best time of our lives"
+        },
+        {
+            "question_id": 17,
+            "question": " \"Whoa, well I never meant to brag But I've gotten what I ____\"",
+            "correct_answer": "wanted now",
+            "wrong_answer1": "always wanted to have",
+            "wrong_answer2": "really want",
+            "wrong_answer3": "needed to have"
+        },
+        {
+            "question_id": 18,
+            "question": "\"Aerials in the sky When you lose small mind ____\"",
+            "correct_answer": "You free your life",
+            "wrong_answer1": "You realize why",
+            "wrong_answer2": "You free your soul",
+            "wrong_answer3": "You ride high"
+        },
+        {
+            "question_id": 19,
+            "question": "\"I ain't happy, I'm feeling glad I got sunshine  ____\"",
+            "correct_answer": "in a bag",
+            "wrong_answer1": "in the bag",
+            "wrong_answer2": "in my bag",
+            "wrong_answer3": "and that ain't bad"
+        },
+        {
+            "question_id": 20,
+            "question": "\"Because I'm happy, Clap along if you feel like a room without a ____\"",
+            "correct_answer": "roof",
+            "wrong_answer1": "door",
+            "wrong_answer2": "wall",
+            "wrong_answer3": "window"
+        },
+        {
+            "question_id": 21,
+            "question": "\"Cry me a ____\"",
+            "correct_answer": "river",
+            "wrong_answer1": "ocean",
+            "wrong_answer2": "pool",
+            "wrong_answer3": "waterfall"
+        },
+        {
+            "question_id": 22,
+            "question": "\"Go shawty, it's your ____\"",
+            "correct_answer": "birthday",
+            "wrong_answer1": "moment",
+            "wrong_answer2": "anniversary",
+            "wrong_answer3": "day"
+        },
+        {
+            "question_id": 23,
+            "question": "\"You used to call me on my ____\"",
+            "correct_answer": "cellphone",
+            "wrong_answer1": "landline",
+            "wrong_answer2": "iphone",
+            "wrong_answer3": "telephone"
+        },
+        {
+            "question_id": 24,
+            "question": "\"'Cause uptown ____ gon' give it to ya\"",
+            "correct_answer": "funk",
+            "wrong_answer1": "bunk",
+            "wrong_answer2": "blues",
+            "wrong_answer3": "jazz"
+        },
+        {
+            "question_id": 25,
+            "question": "\"His palms are sweaty, knees weak, arms are ____\"",
+            "correct_answer": "Heavy",
+            "wrong_answer1": "Weak",
+            "wrong_answer2": "Sweaty",
+            "wrong_answer3": "Mom's spaghetti"
+        },
+        {
+            "question_id": 26,
+            "question": "\"Is it worth it? Let me work it I put my thing down, flip it and ____\"",
+            "correct_answer": "reverse it",
+            "wrong_answer1": "swerve it",
+            "wrong_answer2": "twerk it ",
+            "wrong_answer3": "back it up"
+        },
+        {
+            "question_id": 27,
+            "question": "\"Who do you, who do you Who do you think you are? Ha ha ha, bless your ____\"",
+            "correct_answer": "soul",
+            "wrong_answer1": "life",
+            "wrong_answer2": "heart",
+            "wrong_answer3": "child"
+        },
+        {
+            "question_id": 28,
+            "question": "\"But since you been gone, I can breathe ____\"",
+            "correct_answer": "for the first time",
+            "wrong_answer1": "for the last time ",
+            "wrong_answer2": "so clearly",
+            "wrong_answer3": "one more time "
+        },
+        {
+            "question_id": 29,
+            "question": "\"Shake it like a ____ picture!\"",
+            "correct_answer": "Polaroid",
+            "wrong_answer1": "Polarized",
+            "wrong_answer2": "Favorite",
+            "wrong_answer3": "Black And White"
+        },
+        {
+            "question_id": 30,
+            "question": "\"Now you're just somebody that I ____\"",
+            "correct_answer": "Used to Know",
+            "wrong_answer1": "Used to Love",
+            "wrong_answer2": "Used To Date",
+            "wrong_answer3": "Used To Like"
+        },
+        {
+            "question_id": 31,
+            "question": "\"We're up all night for good fun, we're up all night to get____\"",
+            "correct_answer": "Lucky",
+            "wrong_answer1": "Funky",
+            "wrong_answer2": "Loose",
+            "wrong_answer3": "Jiggy"
+        },
+        {
+            "question_id": 32,
+            "question": "\"We found love ia a ____\"",
+            "correct_answer": "Hopeless place",
+            "wrong_answer1": "Sad place",
+            "wrong_answer2": "Happy place",
+            "wrong_answer3": "Dark place"
+        },
+        {
+            "question_id": 33,
+            "question": "\"Party rock is in the house tonight, everybody just have a good ____\"",
+            "correct_answer": "time",
+            "wrong_answer1": "night",
+            "wrong_answer2": "dance",
+            "wrong_answer3": "day"
+        },
+        {
+            "question_id": 34,
+            "question": "\"There's a fire starting in my heart, reaching a ____ and it's bringing me out the dark\"",
+            "correct_answer": "fever pitch",
+            "wrong_answer1": "sleeper pitch",
+            "wrong_answer2": "high pitch",
+            "wrong_answer3": "high sound"
+        },
+        {
+            "question_id": 35,
+            "question": "\"I got new rules, ____\"",
+            "correct_answer": "I count 'em",
+            "wrong_answer1": "okay?",
+            "wrong_answer2": "I tell him",
+            "wrong_answer3": "so behave"
+        },
+        {
+            "question_id": 36,
+            "question": "\"I'm a mess, I'm a loser I'm a hater, I'm a ____\"",
+            "correct_answer": "user",
+            "wrong_answer1": "champ",
+            "wrong_answer2": "cruiser",
+            "wrong_answer3": "bruiser"
+        },
+        {
+            "question_id": 37,
+            "question": "\"Baby, this is what you came for, ____ every time she moves\"",
+            "correct_answer": "lightning Strikes",
+            "wrong_answer1": "everyone watches",
+            "wrong_answer2": "the air is still",
+            "wrong_answer3": "thunder booms"
+        },
+        {
+            "question_id": 38,
+            "question": "\"I stay out too late, got nothin' in my brain - that's what people ____, mmm hmm\"",
+            "correct_answer": "say",
+            "wrong_answer1": "think",
+            "wrong_answer2": "feel",
+            "wrong_answer3": "want"
+        },
+        {
+            "question_id": 39,
+            "question": "\"Maybe I'm going deaf, maybe I'm going blind, maybe I'm ____\"",
+            "correct_answer": "out of my mind",
+            "wrong_answer1": "wild",
+            "wrong_answer2": "crazy",
+            "wrong_answer3": "way too far"
+        },
+        {
+            "question_id": 40,
+            "question": "\"Take a sip of my secret potion I'll make you ____\"",
+            "correct_answer": "fall in love",
+            "wrong_answer1": "forget it all",
+            "wrong_answer2": "mine",
+            "wrong_answer3": "dead"
+        },
+        {
+            "question_id": 41,
+            "question": "\"Raindrops, ____\"",
+            "correct_answer": "drop tops",
+            "wrong_answer1": "bad and boujee",
+            "wrong_answer2": "top stop",
+            "wrong_answer3": "gucci gang"
+        },
+        {
+            "question_id": 42,
+            "question": "\"'Cause if you like the way you look that much, oh baby you should go and ____\"",
+            "correct_answer": "love yourself",
+            "wrong_answer1": "be yourself",
+            "wrong_answer2": "marry yourself",
+            "wrong_answer3": "fuck yourself"
+        },
+        {
+            "question_id": 43,
+            "question": "\"You don't wanna ride the bus like this, never knowing who to ____ like this\"",
+            "correct_answer": "trust",
+            "wrong_answer1": "believe",
+            "wrong_answer2": "turn to ",
+            "wrong_answer3": "be with"
+        },
+        {
+            "question_id": 44,
+            "question": "\"Nothin' I can see but you when you ____\"",
+            "correct_answer": "dance, dance, dance",
+            "wrong_answer1": "sing, sing, sing",
+            "wrong_answer2": "shake,shake,shake",
+            "wrong_answer3": "move, move, move"
+        },
+        {
+            "question_id": 45,
+            "question": "\"I know I can treat you better than he can, and any girl like you deserves a ____\"",
+            "correct_answer": "gentleman",
+            "wrong_answer1": "real man",
+            "wrong_answer2": "better man ",
+            "wrong_answer3": "perfect man"
+        },
+        {
+            "question_id": 46,
+            "question": "\"I'm so sick of that same old love, my body's ____\"",
+            "correct_answer": "had enough",
+            "wrong_answer1": "tired of this",
+            "wrong_answer2": "done",
+            "wrong_answer3": "more than enough"
+        },
+        {
+            "question_id": 47,
+            "question": "\"We don't talk anymore, we don't talk anymore, we don't talk anymore, like we ____\"",
+            "correct_answer": "used to do ",
+            "wrong_answer1": "once did ",
+            "wrong_answer2": "should do ",
+            "wrong_answer3": "need to do "
+        },
+        {
+            "question_id": 48,
+            "question": "\"Pick him up in a space coupe, I don't let my plug ____\"",
+            "correct_answer": "walk",
+            "wrong_answer1": "talk",
+            "wrong_answer2": "leave",
+            "wrong_answer3": "get away"
+        },
+        {
+            "question_id": 49,
+            "question": "\"When I was a young boy, my father took me into the city,  to see a ____\"",
+            "correct_answer": "Marching band",
+            "wrong_answer1": "Black parade",
+            "wrong_answer2": "Festival",
+            "wrong_answer3": "Carnival"
+        },
+        {
+            "question_id": 50,
+            "question": "\"Woah, well I never meant to____\"",
+            "correct_answer": "brag",
+            "wrong_answer1": "crack",
+            "wrong_answer2": "drag ",
+            "wrong_answer3": "rag"
+        },
+        {
+            "question_id": 51,
+            "question": "\"I'll bet he gets the nerve to walk the floor  and ask my girl to dance  and she'll say____\"",
+            "correct_answer": "yes",
+            "wrong_answer1": "sure",
+            "wrong_answer2": "no",
+            "wrong_answer3": "more"
+        },
+        {
+            "question_id": 52,
+            "question": "\"No, it's much better to face these kinds of things with a sense of poise and____\"",
+            "correct_answer": "rationality",
+            "wrong_answer1": "congruity",
+            "wrong_answer2": "sensibility",
+            "wrong_answer3": "practicality"
+        },
+        {
+            "question_id": 53,
+            "question": "\"Coming out of my cage,  and I've been doing just____\"",
+            "correct_answer": "fine",
+            "wrong_answer1": "okay",
+            "wrong_answer2": "great",
+            "wrong_answer3": "sad"
+        },
+        {
+            "question_id": 54,
+            "question": "\"All I know time is a valuable thing watch it fly by as____\"",
+            "correct_answer": "the pendulum swings",
+            "wrong_answer1": "I fall apart",
+            "wrong_answer2": "I fall down",
+            "wrong_answer3": "The clock ticks life away"
+        },
+        {
+            "question_id": 55,
+            "question": "\"Say it ain't so, I will not go . turn the lights off, carry me____\"",
+            "correct_answer": "home",
+            "wrong_answer1": "away",
+            "wrong_answer2": "back",
+            "wrong_answer3": "upstairs"
+        },
+        {
+            "question_id": 56,
+            "question": "\"Sometimes I give myself the creeps . Sometimes my mind____ \"",
+            "correct_answer": "plays tricks on me",
+            "wrong_answer1": "says I'm a bore",
+            "wrong_answer2": "makes me paranoid",
+            "wrong_answer3": "lies to me"
+        },
+        {
+            "question_id": 57,
+            "question": "\"I'll be your number one with a bullet . A loaded God complex____\"",
+            "correct_answer": "Cock it and pull it",
+            "wrong_answer1": "Take it and shoot it",
+            "wrong_answer2": "Take it and throw it",
+            "wrong_answer3": "Take the bullet"
+        },
+        {
+            "question_id": 58,
+            "question": " \"I'll let him do what he want, he buy me ____.\"",
+            "correct_answer": "Yves Saint Laurent",
+            "wrong_answer1": "All the things I want",
+            "wrong_answer2": "Chanel ",
+            "wrong_answer3": "Stuff I bet you want"
+        },
+        {
+            "question_id": 59,
+            "question": "“Cuz we are living in a ____ world, and I am a ____ girl.”",
+            "correct_answer": "Material",
+            "wrong_answer1": "Incognito",
+            "wrong_answer2": "Fashionable",
+            "wrong_answer3": "Stylish"
+        },
+        {
+            "question_id": 60,
+            "question": "“Just beat it! Beat it! No one wants to be ____!”",
+            "correct_answer": "defeated",
+            "wrong_answer1": "hurt",
+            "wrong_answer2": "a loser",
+            "wrong_answer3": "eliminated"
+        },
+        {
+            "question_id": 61,
+            "question": "“All is ____ on New Year’s Day.”",
+            "correct_answer": "quiet",
+            "wrong_answer1": "calm",
+            "wrong_answer2": "easy",
+            "wrong_answer3": "dark "
+        },
+        {
+            "question_id": 62,
+            "question": "“Billie Jean is not my ____.”",
+            "correct_answer": "lover",
+            "wrong_answer1": "friend",
+            "wrong_answer2": "girlfriend",
+            "wrong_answer3": "wife"
+        },
+        {
+            "question_id": 63,
+            "question": "“You know, I wish that I had ____ girl.”",
+            "correct_answer": "Jessie's",
+            "wrong_answer1": "Ricky's",
+            "wrong_answer2": "Terry's",
+            "wrong_answer3": "Billy's"
+        },
+        {
+            "question_id": 64,
+            "question": "“It’s the eye of the ____, it’s the thrill of the fight.”",
+            "correct_answer": "tiger",
+            "wrong_answer1": "lion",
+            "wrong_answer2": "cat",
+            "wrong_answer3": "panther"
+        },
+        {
+            "question_id": 65,
+            "question": "“Another one down, another one down, another one bites the ____.”",
+            "correct_answer": "dust",
+            "wrong_answer1": "bullet",
+            "wrong_answer2": "track",
+            "wrong_answer3": "road"
+        },
+        {
+            "question_id": 66,
+            "question": "“My poor ____ aches with every step you take.”",
+            "correct_answer": "heart",
+            "wrong_answer1": "mind",
+            "wrong_answer2": "soul",
+            "wrong_answer3": "brain"
+        },
+        {
+            "question_id": 67,
+            "question": "“Put on your ____ shoes and dance the blues.”",
+            "correct_answer": "red",
+            "wrong_answer1": "green",
+            "wrong_answer2": "blue",
+            "wrong_answer3": "yellow"
+        },
+        {
+            "question_id": 68,
+            "question": "“I travel the world and the ____ seas.”",
+            "correct_answer": "seven",
+            "wrong_answer1": "eight",
+            "wrong_answer2": "ten",
+            "wrong_answer3": "six"
+        },
+        {
+            "question_id": 69,
+            "question": "“Life goes on long after the ____ of living is gone.”",
+            "correct_answer": "thrill",
+            "wrong_answer1": "joy",
+            "wrong_answer2": "drama",
+            "wrong_answer3": "fun"
+        },
+        {
+            "question_id": 70,
+            "question": "“I bless the ____ down in Africa.”",
+            "correct_answer": "rains",
+            "wrong_answer1": "folks",
+            "wrong_answer2": "skies",
+            "wrong_answer3": "children"
+        },
+        {
+            "question_id": 71,
+            "question": " “If there’s something ____ in your neighborhood, who you gonna call?”",
+            "correct_answer": "strange",
+            "wrong_answer1": "weird",
+            "wrong_answer2": "awkward",
+            "wrong_answer3": "spectral"
+        },
+        {
+            "question_id": 72,
+            "question": "“Don’t worry, be ____.”",
+            "correct_answer": "happy",
+            "wrong_answer1": "joyful",
+            "wrong_answer2": "tolerant",
+            "wrong_answer3": "calm"
+        },
+        {
+            "question_id": 73,
+            "question": "“If you want to make the world a better place, take a look at yourself and then make a ____.”",
+            "correct_answer": "change",
+            "wrong_answer1": "move",
+            "wrong_answer2": "decision",
+            "wrong_answer3": "difference"
+        },
+        {
+            "question_id": 74,
+            "question": " “Aruba, ____, oh I wanna take ya.”",
+            "correct_answer": "Jamaica",
+            "wrong_answer1": "Argentina",
+            "wrong_answer2": "Cabo",
+            "wrong_answer3": "Brazil"
+        },
+        {
+            "question_id": 75,
+            "question": "“You can’t start a fire without a ____.”",
+            "correct_answer": "spark",
+            "wrong_answer1": "flame",
+            "wrong_answer2": "source",
+            "wrong_answer3": "friend"
+        },
+        {
+            "question_id": 76,
+            "question": "“If you fall, I will catch you. I’ll be ____.”",
+            "correct_answer": "waiting",
+            "wrong_answer1": "ready",
+            "wrong_answer2": "there",
+            "wrong_answer3": "prepared"
+        },
+        {
+            "question_id": 77,
+            "question": "“Just another manic Monday. I wish it was ____.”",
+            "correct_answer": "Sunday",
+            "wrong_answer1": "Friday",
+            "wrong_answer2": "over",
+            "wrong_answer3": "quiet"
+        },
+        {
+            "question_id": 78,
+            "question": "“Take me on. Take on me. I’ll be ____ ”",
+            "correct_answer": "gone",
+            "wrong_answer1": "fine",
+            "wrong_answer2": "done",
+            "wrong_answer3": "better"
+        },
+        {
+            "question_id": 79,
+            "question": "“We are the world. We are the ____.”",
+            "correct_answer": "children",
+            "wrong_answer1": "family",
+            "wrong_answer2": "people",
+            "wrong_answer3": "ones"
+        },
+        {
+            "question_id": 80,
+            "question": "\"I'm in love with the shape of you we push and pull like ____\"",
+            "correct_answer": "a magnet do ",
+            "wrong_answer1": "a magnet, true",
+            "wrong_answer2": "a dance for two",
+            "wrong_answer3": "we're fighting too "
+        },
+        {
+            "question_id": 81,
+            "question": "\"Who do you think you are? Dreaming bout being ____\"",
+            "correct_answer": "a big star",
+            "wrong_answer1": "a rock star",
+            "wrong_answer2": "a real god",
+            "wrong_answer3": "a rock god"
+        },
+        {
+            "question_id": 82,
+            "question": "\"Ayy, act a fool on stage Prolly leave my f-ing show in  ____\"",
+            "correct_answer": "a cop car ",
+            "wrong_answer1": "my bros car",
+            "wrong_answer2": "my squads car",
+            "wrong_answer3": "a big bra"
+        },
+        {
+            "question_id": 83,
+            "question": "\"'Bout to drop a album, this is my fourth I don't put ____ in my spaghetti sauce\"",
+            "correct_answer": "sugar",
+            "wrong_answer1": "meat",
+            "wrong_answer2": "spice",
+            "wrong_answer3": "henny"
+        },
+        {
+            "question_id": 84,
+            "question": "\"Ooh woo, I'm a rebel just for kicks, yeah Your love is an abyss for my heart to ____\"",
+            "correct_answer": "eclipse",
+            "wrong_answer1": "kiss",
+            "wrong_answer2": "miss",
+            "wrong_answer3": "jump in "
+        },
+        {
+            "question_id": 85,
+            "question": "\"Cardi took your man, you upset, uh Cardi got ____, they upset, yeah\"",
+            "correct_answer": "rich",
+            "wrong_answer1": "bills",
+            "wrong_answer2": "ass",
+            "wrong_answer3": "money"
+        },
+        {
+            "question_id": 86,
+            "question": "\"I hope you're somewhere praying, praying I hope your ____ is changing, changing\"",
+            "correct_answer": "soul",
+            "wrong_answer1": "heart",
+            "wrong_answer2": "life",
+            "wrong_answer3": "goal"
+        },
+        {
+            "question_id": 87,
+            "question": "\"Never made it as a wise man, I couldn't cut it as____\"",
+            "correct_answer": "a poor man stealing",
+            "wrong_answer1": "a poor man healing",
+            "wrong_answer2": "a bad man ",
+            "wrong_answer3": "a blind man"
+        },
+        {
+            "question_id": 88,
+            "question": "\"Baby, can't you see____\"",
+            "correct_answer": "I'm calling",
+            "wrong_answer1": "I'm falling",
+            "wrong_answer2": "I'm balling",
+            "wrong_answer3": "I'm crawling"
+        },
+        {
+            "question_id": 89,
+            "question": " \"I can't help falling in love with ____\"",
+            "correct_answer": "you",
+            "wrong_answer1": "her",
+            "wrong_answer2": "him",
+            "wrong_answer3": "them"
+        },
+        {
+            "question_id": 90,
+            "question": "\"Is this the real life? Is this just ____?\"",
+            "correct_answer": "fantasy",
+            "wrong_answer1": "a dream",
+            "wrong_answer2": "destiny",
+            "wrong_answer3": "reality"
+        },
+        {
+            "question_id": 91,
+            "question": "\"Hello, is it ____ you're looking for?\"",
+            "correct_answer": "me",
+            "wrong_answer1": "you",
+            "wrong_answer2": "her",
+            "wrong_answer3": "him"
+        },
+        {
+            "question_id": 92,
+            "question": "\"Somebody once told me the world is gonna ____\"",
+            "correct_answer": "roll me",
+            "wrong_answer1": "Kill me",
+            "wrong_answer2": "Love me",
+            "wrong_answer3": "Hate me"
+        },
+        {
+            "question_id": 93,
+            "question": "\"I wanna dance with somebody, ____\"",
+            "correct_answer": "with somebody who loves me",
+            "wrong_answer1": "In the moonlight",
+            "wrong_answer2": "In a crowded room",
+            "wrong_answer3": "In the pouring rain"
+        },
+        {
+            "question_id": 94,
+            "question": "\"I took a pill in Ibiza, to show ____\"",
+            "correct_answer": "I was a fool",
+            "wrong_answer1": "Avicii I was cool",
+            "wrong_answer2": "I could fly",
+            "wrong_answer3": "The world my rule"
+        },
+        {
+            "question_id": 95,
+            "question": "\"I'm like a bird, ____\"",
+            "correct_answer": "I'll only fly away",
+            "wrong_answer1": "I'll never stay",
+            "wrong_answer2": "I'll never land",
+            "wrong_answer3": "I'll never leave"
+        },
+        {
+            "question_id": 96,
+            "question": "\"Is this the real life? Is this just ____\"",
+            "correct_answer": "Fantasy",
+            "wrong_answer1": "Reality",
+            "wrong_answer2": "Magic",
+            "wrong_answer3": "Mystery"
+        },
+        {
+            "question_id": 97,
+            "question": "\"We don't need no education, ____\"",
+            "correct_answer": "We don't need no thought control",
+            "wrong_answer1": "We don't need no friends",
+            "wrong_answer2": "We don't need no rules",
+            "wrong_answer3": "We don't need no money"
+        },
+        {
+            "question_id": 98,
+            "question": "\"I will always love ____\"",
+            "correct_answer": "You, I will always love you",
+            "wrong_answer1": "You, until the end of time",
+            "wrong_answer2": "Her, every single day",
+            "wrong_answer3": "Him, with all my heart"
+        },
+        {
+            "question_id": 99,
+            "question": "\"Oh, baby, baby, ____\"",
+            "correct_answer": "How was I supposed to know",
+            "wrong_answer1": "What did you say",
+            "wrong_answer2": "When will I see you",
+            "wrong_answer3": "Can we talk it out"
+        },
+        {
+            "question_id": 100,
+            "question": "\"Wake me up, when ____\"",
+            "correct_answer": "It's all over",
+            "wrong_answer1": "I'm a millionaire",
+            "wrong_answer2": "I'm in love",
+            "wrong_answer3": "I'm feeling wild"
+        },
+        {
+            "question_id": 101,
+            "question": "\"We're no strangers to love, ____\"",
+            "correct_answer": "You know the rules and so do I",
+            "wrong_answer1": "You and me both know the truth",
+            "wrong_answer2": "We both know what's at stake",
+            "wrong_answer3": "You and I both know it's love"
+        },
+        {
+            "question_id": 102,
+            "question": "\"Shawty had them apple bottom jeans, ____\"",
+            "correct_answer": "Boots with the fur",
+            "wrong_answer1": "Shoes with the heels",
+            "wrong_answer2": "Dress with the frills",
+            "wrong_answer3": "Pants with the stripes"
+        },
+        {
+            "question_id": 103,
+            "question": "\"I'm a Barbie girl, ____\"",
+            "correct_answer": "in a Barbie world",
+            "wrong_answer1": "in a fantasy world",
+            "wrong_answer2": "in a perfect world",
+            "wrong_answer3": "in a magical world"
+        },
+        {
+            "question_id": 104,
+            "question": "\"Imagine there's no heaven, ____\"",
+            "correct_answer": "It's easy if you try",
+            "wrong_answer1": "It's hard, but worth a try",
+            "wrong_answer2": "It's impossible, don't even try",
+            "wrong_answer3": "It's a dream, just close your eyes"
+        },
+        {
+            "question_id": 105,
+            "question": "\"I heard you were a wild one, ____\"",
+            "correct_answer": "Oooh",
+            "wrong_answer1": "Yeah",
+            "wrong_answer2": "Uh-huh",
+            "wrong_answer3": "Alright"
+        },
+        {
+            "question_id": 106,
+            "question": "\"She was a fast machine, ____\"",
+            "correct_answer": "She kept her motor clean",
+            "wrong_answer1": "She ran on gasoline",
+            "wrong_answer2": "She flew like a dream",
+            "wrong_answer3": "She was a sight to be seen"
+        },
+        {
+            "question_id": 107,
+            "question": "\"Yesterday, ____\"",
+            "correct_answer": "All my troubles seemed so far away",
+            "wrong_answer1": "All my worries kept me up at night",
+            "wrong_answer2": "All my fears consumed my every day",
+            "wrong_answer3": "All my dreams were still out of sight"
+        },
+        {
+            "question_id": 108,
+            "question": "\"I don't want a lot for Christmas, ____\"",
+            "correct_answer": "there is just one thing i need",
+            "wrong_answer1": "i just want to be with you",
+            "wrong_answer2": "i need you here with me",
+            "wrong_answer3": "i want a love that's true"
+        },
+        {
+            "question_id": 109,
+            "question": "\"You are the dancing queen, ____\"",
+            "correct_answer": "young and sweet, only seventeen",
+            "wrong_answer1": "grooving and singing, feeling alive",
+            "wrong_answer2": "dancing and twirling, full of pride",
+            "wrong_answer3": "shining so bright, can't be denied"
+        },
+        {
+            "question_id": 110,
+            "question": "\"I want to ride my bicycle, ____\"",
+            "correct_answer": "i want to ride it where i like",
+            "wrong_answer1": "i want to ride it in the park",
+            "wrong_answer2": "i want to ride it through the streets",
+            "wrong_answer3": "i want to ride it up a hill"
+        },
+        {
+            "question_id": 111,
+            "question": "\"Don't you forget about me, ____\"",
+            "correct_answer": "don't, don't, don't, don't",
+            "wrong_answer1": "remember, remember, remember, remember",
+            "wrong_answer2": "try, try, try, try",
+            "wrong_answer3": "love, love, love, love"
+        },
+        {
+            "question_id": 112,
+            "question": "\"It's close to midnight and something evil's lurking in the dark, ____\"",
+            "correct_answer": "under the moonlight, you see a sight that almost stops your heart",
+            "wrong_answer1": "you feel a shiver running up and down your spine",
+            "wrong_answer2": "you hear a sound that makes you want to run and hide",
+            "wrong_answer3": "you sense a presence, but you can't quite place it"
+        },
+        {
+            "question_id": 113,
+            "question": "\"I'm too sexy for my shirt, ____\"",
+            "correct_answer": "too sexy for my shirt, so sexy it hurts",
+            "wrong_answer1": "too sexy for this world, too sexy for your girl",
+            "wrong_answer2": "too sexy for the catwalk, too sexy for the dance floor",
+            "wrong_answer3": "too sexy for my car, too sexy by far"
+        },
+        {
+            "question_id": 114,
+            "question": "\"I've been tryna call, ____\"",
+            "correct_answer": "I've been on my own for long enough",
+            "wrong_answer1": "but you won't pick up",
+            "wrong_answer2": "my phone is dead",
+            "wrong_answer3": "I don't know what to say"
+        },
+        {
+            "question_id": 115,
+            "question": "\"Don't stop believin', ____\"",
+            "correct_answer": "hold on to that feeling",
+            "wrong_answer1": "life's too short for grieving",
+            "wrong_answer2": "never give up on your dreams",
+            "wrong_answer3": "live your life with meaning"
+        },
+        {
+            "question_id": 116,
+            "question": "\"I can't get no ____\"",
+            "correct_answer": "satisfaction",
+            "wrong_answer1": "sleep",
+            "wrong_answer2": "love",
+            "wrong_answer3": "peace"
+        },
+        {
+            "question_id": 117,
+            "question": "\"Where it began, ____\"",
+            "correct_answer": "I can't begin to knowing",
+            "wrong_answer1": "I can't begin to imagine",
+            "wrong_answer2": "I can't begin to understand",
+            "wrong_answer3": "I can't begin to pretend"
+        },
+        {
+            "question_id": 118,
+            "question": "\"I'm friends with the monster that's under my bed, ____\"",
+            "correct_answer": "get along with the voices inside of my head",
+            "wrong_answer1": "it's always there, every time I turn my head",
+            "wrong_answer2": "never know what it wants, but it's always there",
+            "wrong_answer3": "I'll never be free of it, but I don't care"
+        },
+        {
+            "question_id": 119,
+            "question": "\"Say my name, say my name, ____\"",
+            "correct_answer": "when no one is around you",
+            "wrong_answer1": "if you love me, let me know",
+            "wrong_answer2": "I'm your baby girl",
+            "wrong_answer3": "you're the only one I need"
+        },
+        {
+            "question_id": 120,
+            "question": "\"All the leaves are brown, ____\"",
+            "correct_answer": "and the sky is grey",
+            "wrong_answer1": "the world is spinning round and round",
+            "wrong_answer2": "the sun is setting for the day",
+            "wrong_answer3": "I'm lost and can't find my way"
+        },
+        {
+            "question_id": 121,
+            "question": "\"I will always love you, ____\"",
+            "correct_answer": "I will always love you",
+            "wrong_answer1": "I will never let you go",
+            "wrong_answer2": "I will never make you cry",
+            "wrong_answer3": "I will never say goodbye"
+        },
+        {
+            "question_id": 122,
+            "question": "\"Take me down to the paradise city, ____\"",
+            "correct_answer": "where the grass is green and the girls are pretty",
+            "wrong_answer1": "where the sun shines bright and the air is pretty",
+            "wrong_answer2": "where the love is strong and the vibes are witty",
+            "wrong_answer3": "where the dreams come true and the music is pretty"
+        },
+        {
+            "question_id": 123,
+            "question": "\"I hurt myself today, ____\"",
+            "correct_answer": "to see if I still feel",
+            "wrong_answer1": "to try and make the pain go away",
+            "wrong_answer2": "to see how much I could take",
+            "wrong_answer3": "to see if anyone would care"
+        },
+        {
+            "question_id": 124,
+            "question": "\"I feel stupid and contagious, Here we are now____\"",
+            "correct_answer": "entretain us",
+            "wrong_answer1": "Entertainers",
+            "wrong_answer2": "Instagators",
+            "wrong_answer3": "Investigators"
+        },
+        {
+            "question_id": 125,
+            "question": "\"And the violence, caused such silence, Who are we___\"",
+            "correct_answer": "mistaken",
+            "wrong_answer1": "taking ",
+            "wrong_answer2": "fighting",
+            "wrong_answer3": "killing"
+        },
+        {
+            "question_id": 126,
+            "question": "\"Come as you are, as you were, As I want you to be, As a friend, as a friend, as____\"",
+            "correct_answer": "an known enemy",
+            "wrong_answer1": "unknown enemy",
+            "wrong_answer2": "an anomaly",
+            "wrong_answer3": "an old enemy"
+        },
+        {
+            "question_id": 127,
+            "question": "\"It started out with a kiss___\"",
+            "correct_answer": "how did it end up like this",
+            "wrong_answer1": "why did you leave me like this",
+            "wrong_answer2": "our life was supposed to be just bliss",
+            "wrong_answer3": "was there something that I missed\""
+        },
+        {
+            "question_id": 128,
+            "question": "\"Oh baby when you talk like that___\"",
+            "correct_answer": "you make a woman go mad",
+            "wrong_answer1": "you make all the ladies glad",
+            "wrong_answer2": "I am unable to be sad",
+            "wrong_answer3": "I can't contain my happiness"
+        },
+        {
+            "question_id": 129,
+            "question": "\"Where did I go wrong?____\"",
+            "correct_answer": "I lost a friend",
+            "wrong_answer1": "I'm lost my friend",
+            "wrong_answer2": "I'm lost again",
+            "wrong_answer3": "I can't forget"
+        },
+        {
+            "question_id": 130,
+            "question": "\"This time I’m mistaken, for handing you____\"",
+            "correct_answer": "a heart worth breaking",
+            "wrong_answer1": "a love worth taking",
+            "wrong_answer2": "a life worth saving",
+            "wrong_answer3": "a love you're breaking"
+        },
+        {
+            "question_id": 131,
+            "question": "\"But I don’t care what they say____\"",
+            "correct_answer": "I'm in love with you ",
+            "wrong_answer1": "I belong to you",
+            "wrong_answer2": "we belong together",
+            "wrong_answer3": "you're the one for me"
+        },
+        {
+            "question_id": 132,
+            "question": "\"Rock your body right____\"",
+            "correct_answer": "Backstreet's back, alright",
+            "wrong_answer1": "the boys are back, alright",
+            "wrong_answer2": "camping pack, sit tight",
+            "wrong_answer3": "stabbed in the back, alright"
+        },
+        {
+            "question_id": 133,
+            "question": "“I kissed a girl just to try it____”",
+            "correct_answer": "I hope my boyfriend don’t mind it",
+            "wrong_answer1": "I hope she liked it",
+            "wrong_answer2": "I hope my Dad don’t find out",
+            "wrong_answer3": "I hope my girlfriend don't mind it"
+        },
+        {
+            "question_id": 134,
+            "question": "“Struttin’ her stuff on the street. She said____”",
+            "correct_answer": "Hello, hey Jo, you wanna give it a go?",
+            "wrong_answer1": "Hello, hey you! You want to be my boo?",
+            "wrong_answer2": "Hey yo! Come through! I want to be with you",
+            "wrong_answer3": "Hey babe! I need you. You know you need me too"
+        },
+        {
+            "question_id": 135,
+            "question": "“And now you won’t stop calling me____”",
+            "correct_answer": "I’m kinda busy",
+            "wrong_answer1": "What am I for free?",
+            "wrong_answer2": "When you are free",
+            "wrong_answer3": "Only when you’re free"
+        },
+        {
+            "question_id": 136,
+            "question": "“You’re in then you’re out____”",
+            "correct_answer": "you’re up then you’re down",
+            "wrong_answer1": "you’re front and you’re back",
+            "wrong_answer2": "You’re first and you’re last",
+            "wrong_answer3": "You can and you can't"
+        },
+        {
+            "question_id": 137,
+            "question": "“When you leave, I’m begging you not to go,____”",
+            "correct_answer": "Call your name two or three times in a row",
+            "wrong_answer1": "Give me all of your love for us to grow",
+            "wrong_answer2": "Give your body to me, oh don’t you know",
+            "wrong_answer3": "Can’t get you outta my head all day you know"
+        },
+        {
+            "question_id": 138,
+            "question": "“You only get one shot, do not miss your chance to blow,____”",
+            "correct_answer": "This opportunity comes once in a lifetime",
+            "wrong_answer1": "This is your chance to shine",
+            "wrong_answer2": "This is the chance of a lifetime",
+            "wrong_answer3": "This is your chance to win the game"
+        },
+        {
+            "question_id": 139,
+            "question": "\"I don't wanna be your fool____\"",
+            "correct_answer": "in this game for two",
+            "wrong_answer1": "too much",
+            "wrong_answer2": "anymore",
+            "wrong_answer3": "even though it's cool"
+        },
+        {
+            "question_id": 140,
+            "question": "\"A little bit of Monica in my life, a little bit of Erica____\"",
+            "correct_answer": "by my side",
+            "wrong_answer1": "to wash my clothes",
+            "wrong_answer2": "cause I love her",
+            "wrong_answer3": "cause I need her"
+        },
+        {
+            "question_id": 141,
+            "question": "\"Sippin' on straight chlorine____\"",
+            "correct_answer": "let the vibe slide over me",
+            "wrong_answer1": "Let the vibe come to me ",
+            "wrong_answer2": "Let the pain come and set me free",
+            "wrong_answer3": "Let the chemicals do their deed"
+        },
+        {
+            "question_id": 142,
+            "question": "\"I'm too hot, make ____ wanna retire, man\"",
+            "correct_answer": "a dragon",
+            "wrong_answer1": "the devil",
+            "wrong_answer2": "the sun",
+            "wrong_answer3": "fire"
+        },
+        {
+            "question_id": 143,
+            "question": "\"It don't run in our blood, that kind of ____ just ain't for us.\"",
+            "correct_answer": "luxe",
+            "wrong_answer1": "buzz",
+            "wrong_answer2": "life",
+            "wrong_answer3": "thing"
+        },
+        {
+            "question_id": 144,
+            "question": "\"It slowly turned, you let me burn and now, we're ____\"",
+            "correct_answer": "ashes on the ground",
+            "wrong_answer1": "having a showdown",
+            "wrong_answer2": "completely falling down",
+            "wrong_answer3": "slowly turning down"
+        },
+        {
+            "question_id": 145,
+            "question": "\"You're from a whole other world, a different ____ \"",
+            "correct_answer": "dimension",
+            "wrong_answer1": "galaxy",
+            "wrong_answer2": "extension",
+            "wrong_answer3": "universe"
+        },
+        {
+            "question_id": 146,
+            "question": "\"Imma take your grandpa's style, No, for real. Ask your grandpa. Can I have his ____?\"",
+            "correct_answer": "Hand-me-downs",
+            "wrong_answer1": "Moccasins",
+            "wrong_answer2": "Old knit sweater",
+            "wrong_answer3": "Fur fox skin"
+        },
+        {
+            "question_id": 147,
+            "question": "\"Baby, I have no story to be told but I've heard one on you and I'm gonna make your head ____\"",
+            "correct_answer": "burn",
+            "wrong_answer1": "turn",
+            "wrong_answer2": "spin",
+            "wrong_answer3": "break"
+        },
+        {
+            "question_id": 148,
+            "question": "\"Gotta ____, put my high heels on. It's Saturday and it won't be long\"",
+            "correct_answer": "paint my nails",
+            "wrong_answer1": "do my hair",
+            "wrong_answer2": "do my makeup",
+            "wrong_answer3": "get dressed "
+        },
+        {
+            "question_id": 149,
+            "question": "\"But I don't wanna live that way, reading into every ____ you say\"",
+            "correct_answer": "word",
+            "wrong_answer1": "lie",
+            "wrong_answer2": "thing",
+            "wrong_answer3": "joke"
+        },
+        {
+            "question_id": 150,
+            "question": "\"You’re a shooting star I see, a ____ of ecstasy\"",
+            "correct_answer": "vision",
+            "wrong_answer1": "image",
+            "wrong_answer2": "feeling",
+            "wrong_answer3": "dosage"
+        }
+    ]
+}

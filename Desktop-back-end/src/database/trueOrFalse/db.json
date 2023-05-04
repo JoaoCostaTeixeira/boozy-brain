@@ -1,0 +1,347 @@
+[
+    {
+      "question_id": 1,
+      "question": "The atomic number for lithium is 17",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 2,
+      "question": "A cross between a horse and a zebra is called a Hobra",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 3,
+      "question": "The black box in a plane is black",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 4,
+      "question": "Alliumphobia is a fear of garlic",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 5,
+      "question": "Sex Education star Gillian Anderson was born in Chicago, Illinois",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 6,
+      "question": "Prince Harry is taller than Prince William",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 7,
+      "question": "The star sign Aquarius is represented by a tiger",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 8,
+      "question": "Meryl Streep has won two Academy Awards",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 9,
+      "question": "Marrakesh is the capital of Morocco",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 10,
+      "question": "Idina Menzel sings 'let it go' 20 times in 'Let It Go' from Frozen",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 11,
+      "question": "Waterloo has the greatest number of tube platforms in London",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 12,
+      "question": "M&M stands for Mars and Moordale",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 13,
+      "question": "Gin is typically included in a Long Island Iced Tea",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 14,
+      "question": "The unicorn is the national animal of Scotland",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 15,
+      "question": "There are two parts of the body that can't heal themselves",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 16,
+      "question": "Howard Donald is the oldest member of Take That",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 17,
+      "question": "The Great Wall of China is longer than the distance between London and Beijing",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 18,
+      "question": "There are 219 episodes of Friends",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 19,
+      "question": "A is the most common letter used in the English language",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 20,
+      "question": "A lion's roar can be heard up to eight kilometres away",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 21,
+      "question": "In Harry Potter, Draco Malfoy has no siblings",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 22,
+      "question": "Louis Walsh is older than Simon Cowell",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 23,
+      "question": "Monaco is the smallest country in the world",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 24,
+      "question": "What Do You Mean was Justin Bieber's first UK number one single",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 25,
+      "question": "The river Seine in Paris is longer than the river Thames in London",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 26,
+      "question": "A cara cara navel is a type of orange",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 27,
+      "question": "There are five different blood groups",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 28,
+      "question": "Cinderella was the first Disney princess",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 29,
+      "question": "ASOS stands for As Seen On Screen",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 30,
+      "question": "The Battle Of Hastings took place in 1066",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 31,
+      "question": "H&M stands for Hennes & Mauritz",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 32,
+      "question": "Canis lupur is the scientific name for a wolf",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 33,
+      "question": "K is worth four points in Scrabble",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 34,
+      "question": "Alaska is the biggest American state in square miles",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 35,
+      "question": "Ariana Grande is 25 or under",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 36,
+      "question": "Australia is wider than the moon",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 37,
+      "question": "Madonna's real name is Madonna",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 38,
+      "question": "Serena Williams has one more singles tennis Grand Slam titles than sister Venus",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 39,
+      "question": "Alexander Fleming discovered penicillin",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 40,
+      "question": "Harry Styles' middle name is Edward",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 41,
+      "question": "Your 'radius' bone is in your leg",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 42,
+      "question": "Coffee is made from berries",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 43,
+      "question": "Drag Race's Michelle Visage is older than RuPaul",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 44,
+      "question": "The only letter not in the periodic table is the letter J",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 45,
+      "question": "Jordan North won I'm A Celebrity... Get Me Out Of Here! in 2020",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 46,
+      "question": "The small intestine is about three-and-a-half times the length of your body",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 47,
+      "question": "An octopus has three hearts",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 48,
+      "question": "Thomas Edison discovered gravity",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 49,
+      "question": "Walt Disney holds the record for the most Oscars",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 50,
+      "question": "Spaghetto is the singular word for a piece of spaghetti",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 51,
+      "question": "Venus is the hottest planet in the solar system",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 52,
+      "question": "Hillary Clinton and Celine Dion are related",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 53,
+      "question": "Cardi B's real name is Cardigan Backyardigan",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 54,
+      "question": "Bananas are curved because they grow upwards towards the sun",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 55,
+      "question": "The five rings on the Olympic flag are interlocking",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 56,
+      "question": "Fish cannot blink",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 57,
+      "question": "Friends star Lisa Kudrow was originally cast in Frasier",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 58,
+      "question": "Goldfish have a two second memory",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 59,
+      "question": "50 Cent and Charlie Chaplin were alive at the same time",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 60,
+      "question": "There are 14 bones in a human foot",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 61,
+      "question": "Hot and cold water sound the same when poured.",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 62,
+      "question": "There have been seven million pound winners on Who Wants to Be a Millionaire.",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 63,
+      "question": "Meghan Markle's first name is Rachel.",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 64,
+      "question": "In Finding Nemo the protagonist is a pufferfish.",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 65,
+      "question": "In a deck of cards, the king has a mustache.",
+      "answer": "FALSE"
+    },
+    {
+      "question_id": 66,
+      "question": "When the two numbers on opposite sides of a dice are added together it always equals 7.",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 67,
+      "question": "In the English language there is no word that rhymes with orange.",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 68,
+      "question": "Hippos sweat a red substance.",
+      "answer": "TRUE"
+    },
+    {
+      "question_id": 69,
+      "question": "Sex and the City star Kim Cattrall is from California.",
+      "answer": "FALSE"
+    }
+  ]
