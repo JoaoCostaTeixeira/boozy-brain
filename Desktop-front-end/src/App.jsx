@@ -10,6 +10,9 @@ import IF from "./components/utils/IF";
 import RoundIntro from "./components/roundIntro";
 import Lyrics from "./components/games/lyrics/Lyrics";
 import HeadsTails from "./components/games/headsortails/HeadsTails";
+import Riddle from "./components/games/riddle/Riddle";
+import Quote from "./components/games/quote/Quote";
+import MathComp from "./components/games/math/MathComp";
 const socket = io("http://localhost:4000/");
 
 function App() {
@@ -27,7 +30,7 @@ function App() {
   const [displayRoundType, setDisplayRoundType] = useState(true);
 
   const fetchQuestions = (type) => {
-    axios.get("http://localhost:3001/questions/" + type).then(({ data }) => {
+    axios.get("http://localhost:3001/questions2/" + type).then(({ data }) => {
       setQuestions(data);
       setStart(true);
       setTimeout(() => {
@@ -168,7 +171,52 @@ function App() {
                 newQuestion={newQuestion}
               />
             </IF>
+            <IF
+              condition={
+                questions[number].type === "random" &&
+                questions[number].subType === "Riddle"
+              }
+            >
+              <Riddle
+                users={users}
+                setScores={setScores}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number]) || null}
+                responses={responses}
+                newQuestion={newQuestion}
+              />
+            </IF>
 
+            <IF
+              condition={
+                questions[number].type === "random" &&
+                questions[number].subType === "Math"
+              }
+            >
+              <MathComp
+                users={users}
+                setScores={setScores}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number]) || null}
+                responses={responses}
+                newQuestion={newQuestion}
+              />
+            </IF>
+            <IF
+              condition={
+                questions[number].type === "random" &&
+                questions[number].subType === "Quote"
+              }
+            >
+              <Quote
+                users={users}
+                setScores={setScores}
+                nextQuestion={nextQuestion}
+                question={(questions && questions[number]) || null}
+                responses={responses}
+                newQuestion={newQuestion}
+              />
+            </IF>
             <IF
               condition={
                 questions[number].type === "drinking" &&

@@ -1,4 +1,5 @@
 let db = null;
+let total = 0;
 
 async function createDB() {
     const { JsonDB, Config } = require("node-json-db");
@@ -6,14 +7,23 @@ async function createDB() {
     db = new JsonDB(
         new Config("./src/database/quote/db", true, false, "/")
     );
+    total = await db.count("/questions");
 
 }
 
 // GET numQuestion questions from DB
-async function getQuestions(numQuestions) {
-    const questions = [];
-    return questions;
-}
-
+async function getQuestions(questions) {
+    let data;
+    let count = 0;
+    while (count < 20) {
+      count++;
+      const question = Math.floor(Math.random() * total);
+      data = await db.getData(`/questions[${question}]`);
+  
+      if (!questions.includes(data.question_id)) break;
+    }
+  
+    return { ...data, subType: "Quote", type: "random" };
+  }
 
 module.exports = { createDB, getQuestions };

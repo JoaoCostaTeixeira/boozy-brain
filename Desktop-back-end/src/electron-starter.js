@@ -23,14 +23,15 @@ function createWindow() {
         mainWindow.loadFile('../Desktop-front-end/build/index.html');
 
     }
-    const { createDB, getNormalQuestions, generateGame2} = require('./database');
+    const { createDB, getNormalQuestions, generateGame2,createDB2, generateGame3} = require('./database');
 
     createDB();
+    createDB2();
     
     //mainWindow.setMenu(null)
 
     const { startHttpServer } = require('./http-server');
-    startHttpServer(generateGame2);
+    startHttpServer(generateGame2, generateGame3);
 
     const { startSocket } = require('./web-sockets/desktop');
     startSocket();

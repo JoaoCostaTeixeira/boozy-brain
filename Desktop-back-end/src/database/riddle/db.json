@@ -1,4 +1,5 @@
-[
+{
+  "questions": [
     {
       "question_id": 1,
       "question": "What can you catch but cannot throw?",
@@ -546,7 +547,7 @@
     {
       "question_id": 69,
       "question": "I can help a minor, I can help a senior. I can take care of you, and no matter what your mood is, I always give you a happy face. I probably won’t give you any advice, but I am always grateful when you give me tips. Who am I?",
-      "correct_answer": "A waiter\/waitress",
+      "correct_answer": "A waiter/waitress",
       "wrong_answer1": "A cook",
       "wrong_answer2": "A chef",
       "wrong_answer3": "A bartender"
@@ -872,3 +873,4 @@
       "wrong_answer3": "Sunglasses"
     }
   ]
+}

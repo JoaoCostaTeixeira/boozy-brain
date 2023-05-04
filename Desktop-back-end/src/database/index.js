@@ -1,4 +1,9 @@
 let db = null;
+const normalQuestions = require("./normal");
+const lyricQuestions = require("./lyrics");
+const quoteQuestions = require("./quote");
+const mathQuestions = require("./math");
+const riddleQuestions = require("./riddle");
 
 // Normal questions
 let categoryPercentages = {};
@@ -40,6 +45,127 @@ let trueOrFalseCount = 0;
 // Lyrics count
 let lyricsCount = 0;
 
+async function getRandomEvent2(numQuestions) {
+  const types = ["lyric", "quote", "math", "riddle"];
+  let questions = [];
+
+  while (questions.length < numQuestions) {
+    const type = Math.floor(Math.random() * types.length);
+
+    switch (types[type]) {
+      case "lyric":
+        questions.push(
+          await lyricQuestions.getQuestions(
+            questions
+              .filter((q) => q.subType === "CompleteTheLyrics")
+              .map((q) => q.question_id)
+          )
+        );
+        break;
+
+      case "quote":
+        questions.push(
+          await quoteQuestions.getQuestions(
+            questions
+              .filter((q) => q.subType === "Quote")
+              .map((q) => q.question_id)
+          )
+        );
+        break;
+
+      case "math":
+        questions.push(
+          await mathQuestions.getQuestions(
+            questions
+              .filter((q) => q.subType === "Math")
+              .map((q) => q.question_id)
+          )
+        );
+        break;
+
+      case "riddle":
+        questions.push(
+          await riddleQuestions.getQuestions(
+            questions
+              .filter((q) => q.subType === "Riddle")
+              .map((q) => q.question_id)
+          )
+        );
+        break;
+      default:
+        const alreadyIn = [];
+        const questionsArray = [];
+        while (alreadyIn.length < 5) {
+          const question = Math.floor(Math.random() * trueOrFalseCount);
+          if (!alreadyIn.includes(question)) {
+            alreadyIn.push(question);
+            const data = await db.getData(`/trueorfalse[${question}]`);
+            questionsArray.push(data);
+          }
+        }
+        questions.push({
+          subType: "TrueOrFalse",
+          questions: questionsArray,
+          type: "random",
+        });
+        break;
+    }
+  }
+  return questions;
+}
+
+async function createDB2() {
+  normalQuestions.createDB();
+  lyricQuestions.createDB();
+  quoteQuestions.createDB();
+  mathQuestions.createDB();
+  riddleQuestions.createDB();
+}
+async function generateGame3(type) {
+  const config = types[type];
+  const [normal, drink, random] = await Promise.all([
+    normalQuestions.getQuestions(config.questions),
+    getDrinkingTwists(config.drinkingEvents),
+    getRandomEvent2(config.randomEvents),
+  ]);
+  while (random.length) {
+    const question = Math.floor(Math.random() * (normal.length - 1) + 1);
+    if (
+      normal[question].type !== "random" &&
+      normal[question - 1].type !== "random"
+    ) {
+      normal.splice(question, 0, random.pop());
+    }
+  }
+  /*
+ const [normal, drink, random] = await Promise.all([
+    getNormalQuestions(config.questions),
+    getDrinkingTwists(config.drinkingEvents),
+    getRandomEvent(config.randomEvents),
+  ]);
+  while (random.length) {
+    const question = Math.floor(Math.random() * (normal.length - 1) + 1);
+    if (
+      normal[question].type !== "random" &&
+      normal[question - 1].type !== "random"
+    ) {
+      normal.splice(question, 0, random.pop());
+    }
+  }
+
+  while (drink.length) {
+    const question = Math.floor(Math.random() * (normal.length - 1) + 1);
+
+    if (
+      normal[question].type !== "drinking" &&
+      normal[question - 1].type !== "drinking"
+    ) {
+      normal.splice(question, 0, drink.pop());
+    }
+  }*/
+
+  return normal;
+}
 async function createDB() {
   const { JsonDB, Config } = require("node-json-db");
   const fs = require("fs");
@@ -116,6 +242,7 @@ async function getRandomEvent(numQuestions) {
       case "lyric":
         const question = Math.floor(Math.random() * lyricsCount);
         const data = await db.getData(`/lyrics[${question}]`);
+        console.log(data);
         if (
           !questions.find(
             (q) =>
@@ -235,4 +362,10 @@ async function getNormalQuestions(numQuestions) {
   return questions;
 }
 
-module.exports = { createDB, getNormalQuestions, generateGame2 };
+module.exports = {
+  createDB,
+  getNormalQuestions,
+  generateGame2,
+  createDB2,
+  generateGame3,
+};

@@ -19,7 +19,7 @@ async function createDB() {
     // Normal question consts assign
     let totalCount = 0;
     for (const cat of category) {
-        const count = await db.count(`/${cat}`);
+        const count = await db.count(`/questions/${cat}`);
         categoryPercentages[cat] = { count };
         totalCount += count;
     }
@@ -77,7 +77,7 @@ async function getQuestions(numQuestions) {
             continue;
         }
         const question = Math.floor(Math.random() * count);
-        const data = await db.getData(`/${category[cat2]}[${question}]`);
+        const data = await db.getData(`/questions/${category[cat2]}[${question}]`);
         if (
             !questions.find(
                 (question) => question["question_id"] === data["question_id"]

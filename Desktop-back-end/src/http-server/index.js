@@ -1,4 +1,4 @@
-function startHttpServer(getQuestions) {
+function startHttpServer(getQuestions, getQuestions2) {
   const express = require("express");
   const app = express();
   const cors = require("cors");
@@ -12,6 +12,12 @@ function startHttpServer(getQuestions) {
   app.get("/questions/:type", async (req, res) => {
     const { type } = req.params;
     const questions = await getQuestions(type);
+    res.send(questions);
+  });
+
+  app.get("/questions2/:type", async (req, res) => {
+    const { type } = req.params;
+    const questions = await getQuestions2(type);
     res.send(questions);
   });
 

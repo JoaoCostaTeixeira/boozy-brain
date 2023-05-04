@@ -1,2677 +1,2680 @@
 {
+  "questions": {
     "Science": [
-        {
-            "question_id": 3,
-            "question": "All of the following human genetic haplogroup names are shared between Y,chromosome and mitochondrial DNA haplogroups EXCEPT:",
-            "correct_answer": "Haplogroup U",
-            "wrong_answer1": "Haplogroup L",
-            "wrong_answer2": "Haplogroup T",
-            "wrong_answer3": "Haplogroup J"
-        },
-        {
-            "question_id": 10,
-            "question": "About how old is Earth?",
-            "correct_answer": "4.5 Billion Years",
-            "wrong_answer1": "3.5 Billion Years",
-            "wrong_answer2": "2.5 Billion Years",
-            "wrong_answer3": "5.5 Billion Years"
-        },
-        {
-            "question_id": 16,
-            "question": "What is the unit of electrical resistance?",
-            "correct_answer": "Ohm",
-            "wrong_answer1": "Mho",
-            "wrong_answer2": "Tesla",
-            "wrong_answer3": "Joule"
-        },
-        {
-            "question_id": 19,
-            "question": "What is the fastest animal?",
-            "correct_answer": "Peregrine Falcon",
-            "wrong_answer1": "Horsefly",
-            "wrong_answer2": "Cheetah",
-            "wrong_answer3": "Golden Eagle"
-        },
-        {
-            "question_id": 21,
-            "question": "Coulrophobia is the irrational fear of what?",
-            "correct_answer": "Clowns",
-            "wrong_answer1": "Needles",
-            "wrong_answer2": "Tunnels",
-            "wrong_answer3": "Cemeteries"
-        },
-        {
-            "question_id": 25,
-            "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
-            "correct_answer": "Challenger and Columbia",
-            "wrong_answer1": "Enterprise and Atlantis",
-            "wrong_answer2": "Discovery and Endeavour",
-            "wrong_answer3": "None of the Above"
-        },
-        {
-            "question_id": 26,
-            "question": "A flashing red traffic light signifies that a driver should do what?",
-            "correct_answer": "Stop",
-            "wrong_answer1": "Speed up",
-            "wrong_answer2": "Proceed with caution",
-            "wrong_answer3": "Honk the horn"
-        },
-        {
-            "question_id": 30,
-            "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
-            "correct_answer": "Coffee",
-            "wrong_answer1": "Popcorn",
-            "wrong_answer2": "Fried Chicken",
-            "wrong_answer3": "Laundry"
-        },
-        {
-            "question_id": 33,
-            "question": "According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
-            "correct_answer": "Labrador retriever",
-            "wrong_answer1": "German shepherd",
-            "wrong_answer2": "Beagle",
-            "wrong_answer3": "Poodle"
-        },
-        {
-            "question_id": 37,
-            "question": "Ada Lovelace is credited with being the first person to have made what?",
-            "correct_answer": "A computer program",
-            "wrong_answer1": "A souffle",
-            "wrong_answer2": "A brassiere",
-            "wrong_answer3": "A mystery novel"
-        },
-        {
-            "question_id": 39,
-            "question": "An airplane's black box is usually what color?",
-            "correct_answer": "Orange",
-            "wrong_answer1": "Black",
-            "wrong_answer2": "White",
-            "wrong_answer3": "Green"
-        },
-        {
-            "question_id": 40,
-            "question": "At the equator, how fast is the earth's surface turning?",
-            "correct_answer": "About 1000 miles per hour",
-            "wrong_answer1": "About 100 miles per hour",
-            "wrong_answer2": "About 500 miles per hour",
-            "wrong_answer3": "About 2000 miles per hour"
-        },
-        {
-            "question_id": 47,
-            "question": "Elephant tusks are made of what material?",
-            "correct_answer": "Ivory",
-            "wrong_answer1": "Bone",
-            "wrong_answer2": "Calcium",
-            "wrong_answer3": "Coral"
-        },
-        {
-            "question_id": 48,
-            "question": "Excluding wisdom teeth, how many adult teeth do humans have?",
-            "correct_answer": "28",
-            "wrong_answer1": "32",
-            "wrong_answer2": "30",
-            "wrong_answer3": "34"
-        },
-        {
-            "question_id": 49,
-            "question": "How many teeth does an adult human have?",
-            "correct_answer": "32",
-            "wrong_answer1": "30",
-            "wrong_answer2": "34",
-            "wrong_answer3": "28"
-        },
-        {
-            "question_id": 56,
-            "question": "How do you express 3/4 as a decimal?",
-            "correct_answer": "0.75",
-            "wrong_answer1": "0.25",
-            "wrong_answer2": "0.66",
-            "wrong_answer3": "0.5"
-        },
-        {
-            "question_id": 59,
-            "question": "How many $100 bills does it take to equal one million dollars",
-            "correct_answer": "10000",
-            "wrong_answer1": "1000",
-            "wrong_answer2": "100000",
-            "wrong_answer3": "50000"
-        },
-        {
-            "question_id": 61,
-            "question": "How many eyes does a Giraffe have?",
-            "correct_answer": "2",
-            "wrong_answer1": "3",
-            "wrong_answer2": "1",
-            "wrong_answer3": "4"
-        },
-        {
-            "question_id": 62,
-            "question": "How many ounces are in a pound?",
-            "correct_answer": "16",
-            "wrong_answer1": "32",
-            "wrong_answer2": "4",
-            "wrong_answer3": "12"
-        },
-        {
-            "question_id": 63,
-            "question": "How many ribs are there in the human body?",
-            "correct_answer": "24",
-            "wrong_answer1": "18",
-            "wrong_answer2": "30",
-            "wrong_answer3": "42"
-        },
-        {
-            "question_id": 68,
-            "question": "If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?",
-            "correct_answer": "Saturday",
-            "wrong_answer1": "Sunday",
-            "wrong_answer2": " Friday ",
-            "wrong_answer3": "Thursday"
-        },
-        {
-            "question_id": 69,
-            "question": "If someone has cataracts, what part of their body might need an operation?",
-            "correct_answer": "Eye",
-            "wrong_answer1": "Ear",
-            "wrong_answer2": "Hand",
-            "wrong_answer3": "Knee"
-        },
-        {
-            "question_id": 71,
-            "question": "If you are truly afraid of the dark, what do you suffer from?",
-            "correct_answer": "Nyctophobia",
-            "wrong_answer1": "Hadephobia",
-            "wrong_answer2": "Cryptophobia",
-            "wrong_answer3": "Hypnophobia"
-        },
-        {
-            "question_id": 73,
-            "question": "In an adult human, how long is the large intestine?",
-            "correct_answer": "1,5 m",
-            "wrong_answer1": "5 m",
-            "wrong_answer2": "3,5 m",
-            "wrong_answer3": "2 m"
-        },
-        {
-            "question_id": 76,
-            "question": "In computer terminology, what does the acronym 'FTP' stand for?",
-            "correct_answer": "File transfer protocol",
-            "wrong_answer1": "Full time portal",
-            "wrong_answer2": "Full text processor",
-            "wrong_answer3": "Free to print"
-        },
-        {
-            "question_id": 93,
-            "question": "In Paris, what is the first day of spring?  ",
-            "correct_answer": "March 21st",
-            "wrong_answer1": "April 21st",
-            "wrong_answer2": "September 21st",
-            "wrong_answer3": "May 21st"
-        },
-        {
-            "question_id": 98,
-            "question": "In what decade was the Hula,Hoop invented?",
-            "correct_answer": "1950s",
-            "wrong_answer1": "1970s",
-            "wrong_answer2": "1920s",
-            "wrong_answer3": "1890s"
-        },
-        {
-            "question_id": 105,
-            "question": "Including the bottom, how many sides are on a square,based pyramid?",
-            "correct_answer": "5",
-            "wrong_answer1": "4",
-            "wrong_answer2": "3",
-            "wrong_answer3": "6"
-        },
-        {
-            "question_id": 106,
-            "question": "Modern computer microchips are primarily composed of what element?",
-            "correct_answer": "Silicon",
-            "wrong_answer1": "Silver",
-            "wrong_answer2": "Aluminum",
-            "wrong_answer3": "Sodium"
-        },
-        {
-            "question_id": 109,
-            "question": "On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
-            "correct_answer": "Eros",
-            "wrong_answer1": "Venus",
-            "wrong_answer2": "Cupid",
-            "wrong_answer3": "Aphrodite"
-        },
-        {
-            "question_id": 110,
-            "question": "On what continent can you find tigers in the wild?",
-            "correct_answer": "Asia",
-            "wrong_answer1": "Africa",
-            "wrong_answer2": "South America",
-            "wrong_answer3": "Europe"
-        },
-        {
-            "question_id": 113,
-            "question": "Paper will burn at approximately what temperature, in Fahrenheit?",
-            "correct_answer": "451 degrees",
-            "wrong_answer1": "398.5 degrees",
-            "wrong_answer2": "212.5 degrees",
-            "wrong_answer3": "98.6 degrees"
-        },
-        {
-            "question_id": 115,
-            "question": "Phoebe, Dione and Helene are moons of what planet?",
-            "correct_answer": "Saturn",
-            "wrong_answer1": "Jupiter",
-            "wrong_answer2": "Neptune",
-            "wrong_answer3": "Pluto"
-        },
-        {
-            "question_id": 116,
-            "question": "Someone would most likely contract salmonella poisoning from eating which of the following?",
-            "correct_answer": "Chicken",
-            "wrong_answer1": "Carrots",
-            "wrong_answer2": "Tofu",
-            "wrong_answer3": "Rice"
-        },
-        {
-            "question_id": 118,
-            "question": "The Original Apple iMac computer was available in all of the following colors except which?",
-            "correct_answer": "Kiwi",
-            "wrong_answer1": "Grape",
-            "wrong_answer2": "Tangerine",
-            "wrong_answer3": "Strawberry"
-        },
-        {
-            "question_id": 119,
-            "question": "The common term for someone who has difficulty seeing objects in the distance is what?",
-            "correct_answer": "Nearsighted",
-            "wrong_answer1": "Farsighted",
-            "wrong_answer2": "Hindsighted",
-            "wrong_answer3": "Hypermetropic"
-        },
-        {
-            "question_id": 122,
-            "question": "The majority of calcium in the human body is found where?",
-            "correct_answer": "Bones",
-            "wrong_answer1": "Digestive  tract",
-            "wrong_answer2": "Blood",
-            "wrong_answer3": "Hair"
-        },
-        {
-            "question_id": 123,
-            "question": "The process of drilling holes in the skull is called what",
-            "correct_answer": "Trepanation",
-            "wrong_answer1": "Bifurcation",
-            "wrong_answer2": "Aeronomy",
-            "wrong_answer3": "Skullduggery"
-        },
-        {
-            "question_id": 130,
-            "question": "What are the dimensions of a 'letter size' piece of paper?",
-            "correct_answer": "8 1/2 x 11 inches",
-            "wrong_answer1": "5 x 10 inches",
-            "wrong_answer2": "3 1/2 x 5 inches",
-            "wrong_answer3": "11 x 17 inches"
-        },
-        {
-            "question_id": 135,
-            "question": "What biological process replicates DNA?",
-            "correct_answer": "Mitosis",
-            "wrong_answer1": "Diffusion",
-            "wrong_answer2": "Molting",
-            "wrong_answer3": "Peristaltsis"
-        },
-        {
-            "question_id": 138,
-            "question": "What chemical do people frequently use to bleach hair?",
-            "correct_answer": "Hydrogen peroxide",
-            "wrong_answer1": "Folic acid",
-            "wrong_answer2": "Sodium chloride",
-            "wrong_answer3": "Nitrous oxide"
-        },
-        {
-            "question_id": 141,
-            "question": "What color is a ruby?",
-            "correct_answer": "Red",
-            "wrong_answer1": "Pink",
-            "wrong_answer2": "Blue",
-            "wrong_answer3": "Purple"
-        },
-        {
-            "question_id": 147,
-            "question": "What condition is caused by malfunctioning sebaceous glands?",
-            "correct_answer": "Acne",
-            "wrong_answer1": "Bad breath",
-            "wrong_answer2": "Carpal tunnel syndrome",
-            "wrong_answer3": "Shingles"
-        },
-        {
-            "question_id": 156,
-            "question": "What disease does a carcinogen cause?",
-            "correct_answer": "Cancer",
-            "wrong_answer1": "Heart disease",
-            "wrong_answer2": "Influenza",
-            "wrong_answer3": "Emphysema"
-        },
-        {
-            "question_id": 157,
-            "question": "What disease is characterized by a body's inability to properly metabolize glucose?",
-            "correct_answer": "Diabetes",
-            "wrong_answer1": "Influenza",
-            "wrong_answer2": "Septicemia",
-            "wrong_answer3": "Arthritis"
-        },
-        {
-            "question_id": 158,
-            "question": "What disease is sometimes referred to as the 'royal disease'?",
-            "correct_answer": "Hemophilia",
-            "wrong_answer1": "Measles",
-            "wrong_answer2": "Rickets",
-            "wrong_answer3": "Tuberculosis"
-        },
-        {
-            "question_id": 161,
-            "question": "What does a pH level measure?",
-            "correct_answer": "Acidity",
-            "wrong_answer1": "Density",
-            "wrong_answer2": "Humidity",
-            "wrong_answer3": "Wavelenght"
-        },
-        {
-            "question_id": 162,
-            "question": "What does an animal produce when it lactates?",
-            "correct_answer": "Milk",
-            "wrong_answer1": "Wool",
-            "wrong_answer2": "Sweat",
-            "wrong_answer3": "Methane"
-        },
-        {
-            "question_id": 165,
-            "question": "What does the 'ROM' in CD,ROM stand for?",
-            "correct_answer": "Read,Only Memory",
-            "wrong_answer1": "Random Object Memory",
-            "wrong_answer2": "Run,Other Memory",
-            "wrong_answer3": "Really Obscure Memory"
-        },
-        {
-            "question_id": 172,
-            "question": "What is another name for the camelopard?",
-            "correct_answer": "Giraffe",
-            "wrong_answer1": "Oasis",
-            "wrong_answer2": "Circus",
-            "wrong_answer3": "Cantaloupe"
-        },
-        {
-            "question_id": 174,
-            "question": "What is produced during photosynthesis?",
-            "correct_answer": "Oxygen",
-            "wrong_answer1": "Light",
-            "wrong_answer2": "Nylon",
-            "wrong_answer3": "Hydrogen"
-        },
-        {
-            "question_id": 175,
-            "question": "What is the birthstone for the month of January?",
-            "correct_answer": "Garnet",
-            "wrong_answer1": "Topaz",
-            "wrong_answer2": "Opal",
-            "wrong_answer3": "Diamond"
-        },
-        {
-            "question_id": 177,
-            "question": "What is the chemical process wherein a solid is turned to a liquid via the application of heat?",
-            "correct_answer": "Melting",
-            "wrong_answer1": "Freezing",
-            "wrong_answer2": "Distillation",
-            "wrong_answer3": "Photosynthesis"
-        },
-        {
-            "question_id": 178,
-            "question": "What is the colored part of the eye called?",
-            "correct_answer": "Iris",
-            "wrong_answer1": "Pupil",
-            "wrong_answer2": "Retina",
-            "wrong_answer3": "Cochlea"
-        },
-        {
-            "question_id": 179,
-            "question": "What is the largest animal ever to live on Earth?",
-            "correct_answer": "Blue whale",
-            "wrong_answer1": "Tyrannosaurus",
-            "wrong_answer2": "Giant squid",
-            "wrong_answer3": "Woolly mammoth"
-        },
-        {
-            "question_id": 183,
-            "question": "What is the medical term for a doctor's identification of a disease?",
-            "correct_answer": "Diagnosis",
-            "wrong_answer1": "Hypnosis",
-            "wrong_answer2": "Prognosis",
-            "wrong_answer3": "Trichinosis"
-        },
-        {
-            "question_id": 188,
-            "question": "What is the name of the fruit that is half tangerine and half grapefruit?",
-            "correct_answer": "Tangelo",
-            "wrong_answer1": "Graperine",
-            "wrong_answer2": "Tangefruit",
-            "wrong_answer3": "Kumquat"
-        },
-        {
-            "question_id": 190,
-            "question": "What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?",
-            "correct_answer": "Law of Inertia",
-            "wrong_answer1": "Law of Thermodynamics",
-            "wrong_answer2": "Law of Relativity",
-            "wrong_answer3": "Law of Gravitation"
-        },
-        {
-            "question_id": 196,
-            "question": "What is the proper nautical use of an anchor?",
-            "correct_answer": "To hold a ship in place",
-            "wrong_answer1": "To catch large fish",
-            "wrong_answer2": "To calculate water depth",
-            "wrong_answer3": "To damage other boats"
-        },
-        {
-            "question_id": 198,
-            "question": "What is the square root of 81 squared?",
-            "correct_answer": "81",
-            "wrong_answer1": "9",
-            "wrong_answer2": "27",
-            "wrong_answer3": "729"
-        },
-        {
-            "question_id": 199,
-            "question": "What is the technical term for someone who studies fish?",
-            "correct_answer": "Ichthyologist",
-            "wrong_answer1": "Entomologist",
-            "wrong_answer2": "Marinologist",
-            "wrong_answer3": "Herpetologist"
-        },
-        {
-            "question_id": 200,
-            "question": "What is the technical term for the offspring of a female donkey and a male horse?",
-            "correct_answer": "Hinny",
-            "wrong_answer1": "Burro",
-            "wrong_answer2": "Dorse",
-            "wrong_answer3": "Honker"
-        },
-        {
-            "question_id": 202,
-            "question": "What is varicella?",
-            "correct_answer": "The chicken pox virus",
-            "wrong_answer1": "A fancy pasta",
-            "wrong_answer2": "A type of opera",
-            "wrong_answer3": "Ancient Roman poetry"
-        },
-        {
-            "question_id": 204,
-            "question": "What kind of angle is formed where two perpendicular lines meet?",
-            "correct_answer": "Right",
-            "wrong_answer1": "Obtuse",
-            "wrong_answer2": "Acute",
-            "wrong_answer3": "Invisible"
-        },
-        {
-            "question_id": 205,
-            "question": "What kind of animal is a peregrine?",
-            "correct_answer": "Bird",
-            "wrong_answer1": "Fish",
-            "wrong_answer2": "Cat",
-            "wrong_answer3": "Moose"
-        },
-        {
-            "question_id": 211,
-            "question": "What mathematical term is used to describe the average of a series of numbers?",
-            "correct_answer": "Mean",
-            "wrong_answer1": "Mode",
-            "wrong_answer2": "Majority",
-            "wrong_answer3": "Median"
-        },
-        {
-            "question_id": 213,
-            "question": "What nationality was Karl Marx?",
-            "correct_answer": "German",
-            "wrong_answer1": "Russian",
-            "wrong_answer2": "Danish",
-            "wrong_answer3": "English"
-        },
-        {
-            "question_id": 217,
-            "question": "What part of the human body does a gastroenterologist examine?",
-            "correct_answer": "Stomach",
-            "wrong_answer1": "Nose",
-            "wrong_answer2": "Brain",
-            "wrong_answer3": "Kidney"
-        },
-        {
-            "question_id": 225,
-            "question": "What term describes the passing of genetic traits from one generation to the next?",
-            "correct_answer": "Heredity",
-            "wrong_answer1": "Heresy",
-            "wrong_answer2": "Homogeneity",
-            "wrong_answer3": "Hemoglobin"
-        },
-        {
-            "question_id": 229,
-            "question": "What was the name of the first nuclear,powered submarine?",
-            "correct_answer": "Nautilus",
-            "wrong_answer1": "Neptune",
-            "wrong_answer2": "Nordenfelt III",
-            "wrong_answer3": "Nicholas"
-        },
-        {
-            "question_id": 243,
-            "question": "Which of the following beverages is brewed from the leaves of a plant?",
-            "correct_answer": "Tea",
-            "wrong_answer1": "Coffee",
-            "wrong_answer2": "Ginger ale",
-            "wrong_answer3": "Wine"
-        },
-        {
-            "question_id": 244,
-            "question": "Which of the following is a natural sugar found in most fruits?",
-            "correct_answer": "Fructose",
-            "wrong_answer1": "Necrose",
-            "wrong_answer2": "Sucrose",
-            "wrong_answer3": "Bellicose"
-        },
-        {
-            "question_id": 247,
-            "question": "Which of these animals lays eggs?",
-            "correct_answer": "Frog",
-            "wrong_answer1": "Cow",
-            "wrong_answer2": "Elephant",
-            "wrong_answer3": "Gerbil"
-        },
-        {
-            "question_id": 249,
-            "question": "Which of these are not legumes?",
-            "correct_answer": "Radishes",
-            "wrong_answer1": "Peanuts",
-            "wrong_answer2": "Peas",
-            "wrong_answer3": "Beans"
-        },
-        {
-            "question_id": 250,
-            "question": "Which of these Australian birds is most closely related to the ostrich?",
-            "correct_answer": "Emu",
-            "wrong_answer1": "Puffin",
-            "wrong_answer2": "Kookaburra",
-            "wrong_answer3": "cockatoo"
-        },
-        {
-            "question_id": 255,
-            "question": "Which of these foods could contain small amounts of naturally occurring opium?",
-            "correct_answer": "Poppy seed bagels",
-            "wrong_answer1": "Carbonated soda",
-            "wrong_answer2": "Sesame Chicken",
-            "wrong_answer3": "Chocolate Truffles"
-        },
-        {
-            "question_id": 257,
-            "question": "Which of these foods is poisonous to dogs?",
-            "correct_answer": "Chocolate ",
-            "wrong_answer1": "Bananas",
-            "wrong_answer2": "Peanut Butter",
-            "wrong_answer3": "Olives"
-        },
-        {
-            "question_id": 261,
-            "question": "Which of these household pets should be vaccinated for parvovirus?",
-            "correct_answer": "Dog",
-            "wrong_answer1": "Hamster",
-            "wrong_answer2": "Cat",
-            "wrong_answer3": "Bird"
-        },
-        {
-            "question_id": 262,
-            "question": "Which of these is a member of the cucumber family?",
-            "correct_answer": "Watermelon",
-            "wrong_answer1": "Potato",
-            "wrong_answer2": "Green Pepper",
-            "wrong_answer3": "Grean Bean"
-        },
-        {
-            "question_id": 266,
-            "question": "Which of these is commonly used to treat allergies?",
-            "correct_answer": "Antihistamines",
-            "wrong_answer1": "Antiseptics",
-            "wrong_answer2": "Antimatter",
-            "wrong_answer3": "Anticoagulants"
-        },
-        {
-            "question_id": 267,
-            "question": "Which of these is made from cacao seeds?",
-            "correct_answer": "Chocolate",
-            "wrong_answer1": "Marzipan",
-            "wrong_answer2": "Soy Sauce",
-            "wrong_answer3": "Anchovies"
-        },
-        {
-            "question_id": 268,
-            "question": "Which of these is not a breed of cat?",
-            "correct_answer": "Bichon Frise",
-            "wrong_answer1": "Persian",
-            "wrong_answer2": "Main Coon",
-            "wrong_answer3": "Turkish Angora"
-        },
-        {
-            "question_id": 271,
-            "question": "Which of these is not a 'lock' function on a standard desktop computer keyboard?",
-            "correct_answer": "Print Lock",
-            "wrong_answer1": "Caps Lock",
-            "wrong_answer2": "Number Lock",
-            "wrong_answer3": "Scroll Lock"
-        },
-        {
-            "question_id": 272,
-            "question": "Which of these is not a spice?",
-            "correct_answer": "Cucumber",
-            "wrong_answer1": "Dill",
-            "wrong_answer2": "Aniseed",
-            "wrong_answer3": "Cayenne"
-        },
-        {
-            "question_id": 275,
-            "question": "Which of these is not a type of chili pepper",
-            "correct_answer": "Cheyenne",
-            "wrong_answer1": "Habanero",
-            "wrong_answer2": "Jalapeno",
-            "wrong_answer3": "Guajillo"
-        },
-        {
-            "question_id": 276,
-            "question": "Which of these is not a type of primate?",
-            "correct_answer": "Marmot",
-            "wrong_answer1": "Baboon",
-            "wrong_answer2": "Orangutan",
-            "wrong_answer3": "Chimpanzee"
-        },
-        {
-            "question_id": 277,
-            "question": "Which of these is not a type of rock?",
-            "correct_answer": "Deciduous",
-            "wrong_answer1": "Metamorphic",
-            "wrong_answer2": "Sedimentary",
-            "wrong_answer3": "Igneous"
-        },
-        {
-            "question_id": 278,
-            "question": "Which of these is not found in a Snickers candy bar?",
-            "correct_answer": "Almonds",
-            "wrong_answer1": "Caramel",
-            "wrong_answer2": "Nougat",
-            "wrong_answer3": "Chocolate "
-        },
-        {
-            "question_id": 279,
-            "question": "Which of these is not one of the four basic forces in nature?",
-            "correct_answer": "Centrifugal",
-            "wrong_answer1": "Nuclear",
-            "wrong_answer2": "Electromagnetic",
-            "wrong_answer3": "Gravitational"
-        },
-        {
-            "question_id": 280,
-            "question": "Which of these is typically not used as a spice?",
-            "correct_answer": "Hemlock",
-            "wrong_answer1": "Dill",
-            "wrong_answer2": "Thyme",
-            "wrong_answer3": "Marjoram"
-        },
-        {
-            "question_id": 281,
-            "question": "Which of these items is useful for removing ink stains?",
-            "correct_answer": "Baking Soda",
-            "wrong_answer1": "Nail Polish",
-            "wrong_answer2": "Hair Spray",
-            "wrong_answer3": "Butter"
-        },
-        {
-            "question_id": 283,
-            "question": "Which of these months has 31 days?",
-            "correct_answer": "March ",
-            "wrong_answer1": "April",
-            "wrong_answer2": "June",
-            "wrong_answer3": "September"
-        },
-        {
-            "question_id": 286,
-            "question": "Which of these organs comes in a pair?",
-            "correct_answer": "Kidney",
-            "wrong_answer1": "Liver",
-            "wrong_answer2": "Stomach",
-            "wrong_answer3": "Gallbladder"
-        },
-        {
-            "question_id": 292,
-            "question": "Which of these rocks will float in water?",
-            "correct_answer": "Pumice",
-            "wrong_answer1": "Shale",
-            "wrong_answer2": "Granite",
-            "wrong_answer3": "Limestone"
-        },
-        {
-            "question_id": 293,
-            "question": "Which of these snakes is poisonous?",
-            "correct_answer": "Copperhead",
-            "wrong_answer1": "Python",
-            "wrong_answer2": "Anaconda",
-            "wrong_answer3": "Bob Constrictor"
-        },
-        {
-            "question_id": 294,
-            "question": "Which of these sounds is commonly associated with owls?",
-            "correct_answer": "Hoot",
-            "wrong_answer1": "Growl",
-            "wrong_answer2": "Bark",
-            "wrong_answer3": "Chirp"
-        },
-        {
-            "question_id": 296,
-            "question": "Which of these vitamins was the first to be named?",
-            "correct_answer": "Vitamin A",
-            "wrong_answer1": "Vitamin E",
-            "wrong_answer2": "Vitamin,12",
-            "wrong_answer3": "Vitameatavegimen"
-        },
-        {
-            "question_id": 303,
-            "question": "Who co,founded Microsoft with Bill Gates?",
-            "correct_answer": "Paul Allen",
-            "wrong_answer1": "Paul Williams",
-            "wrong_answer2": "Steve Jobs",
-            "wrong_answer3": "Steve Wozniak"
-        },
-        {
-            "question_id": 307,
-            "question": "Who was the first American in space?",
-            "correct_answer": "Alan Shepard",
-            "wrong_answer1": "John Glenn",
-            "wrong_answer2": "Neil Armstrong",
-            "wrong_answer3": "Buzz Aldrin"
-        },
-        {
-            "question_id": 312,
-            "question": "Which Instrument Measures Atmospheric Pressure?",
-            "correct_answer": "A Barometer",
-            "wrong_answer1": "An Atmoseter",
-            "wrong_answer2": "A Meterometer",
-            "wrong_answer3": "Hydrometer"
-        },
-        {
-            "question_id": 313,
-            "question": "Which Member Of The Cat Family Cannot Retract Its Claws?",
-            "correct_answer": "Cheetah",
-            "wrong_answer1": "Lion",
-            "wrong_answer2": "Leopard",
-            "wrong_answer3": "Puma"
-        }
+      {
+        "question_id": 3,
+        "question": "All of the following human genetic haplogroup names are shared between Y,chromosome and mitochondrial DNA haplogroups EXCEPT:",
+        "correct_answer": "Haplogroup U",
+        "wrong_answer1": "Haplogroup L",
+        "wrong_answer2": "Haplogroup T",
+        "wrong_answer3": "Haplogroup J"
+      },
+      {
+        "question_id": 10,
+        "question": "About how old is Earth?",
+        "correct_answer": "4.5 Billion Years",
+        "wrong_answer1": "3.5 Billion Years",
+        "wrong_answer2": "2.5 Billion Years",
+        "wrong_answer3": "5.5 Billion Years"
+      },
+      {
+        "question_id": 16,
+        "question": "What is the unit of electrical resistance?",
+        "correct_answer": "Ohm",
+        "wrong_answer1": "Mho",
+        "wrong_answer2": "Tesla",
+        "wrong_answer3": "Joule"
+      },
+      {
+        "question_id": 19,
+        "question": "What is the fastest animal?",
+        "correct_answer": "Peregrine Falcon",
+        "wrong_answer1": "Horsefly",
+        "wrong_answer2": "Cheetah",
+        "wrong_answer3": "Golden Eagle"
+      },
+      {
+        "question_id": 21,
+        "question": "Coulrophobia is the irrational fear of what?",
+        "correct_answer": "Clowns",
+        "wrong_answer1": "Needles",
+        "wrong_answer2": "Tunnels",
+        "wrong_answer3": "Cemeteries"
+      },
+      {
+        "question_id": 25,
+        "question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+        "correct_answer": "Challenger and Columbia",
+        "wrong_answer1": "Enterprise and Atlantis",
+        "wrong_answer2": "Discovery and Endeavour",
+        "wrong_answer3": "None of the Above"
+      },
+      {
+        "question_id": 26,
+        "question": "A flashing red traffic light signifies that a driver should do what?",
+        "correct_answer": "Stop",
+        "wrong_answer1": "Speed up",
+        "wrong_answer2": "Proceed with caution",
+        "wrong_answer3": "Honk the horn"
+      },
+      {
+        "question_id": 30,
+        "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
+        "correct_answer": "Coffee",
+        "wrong_answer1": "Popcorn",
+        "wrong_answer2": "Fried Chicken",
+        "wrong_answer3": "Laundry"
+      },
+      {
+        "question_id": 33,
+        "question": "According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
+        "correct_answer": "Labrador retriever",
+        "wrong_answer1": "German shepherd",
+        "wrong_answer2": "Beagle",
+        "wrong_answer3": "Poodle"
+      },
+      {
+        "question_id": 37,
+        "question": "Ada Lovelace is credited with being the first person to have made what?",
+        "correct_answer": "A computer program",
+        "wrong_answer1": "A souffle",
+        "wrong_answer2": "A brassiere",
+        "wrong_answer3": "A mystery novel"
+      },
+      {
+        "question_id": 39,
+        "question": "An airplane's black box is usually what color?",
+        "correct_answer": "Orange",
+        "wrong_answer1": "Black",
+        "wrong_answer2": "White",
+        "wrong_answer3": "Green"
+      },
+      {
+        "question_id": 40,
+        "question": "At the equator, how fast is the earth's surface turning?",
+        "correct_answer": "About 1000 miles per hour",
+        "wrong_answer1": "About 100 miles per hour",
+        "wrong_answer2": "About 500 miles per hour",
+        "wrong_answer3": "About 2000 miles per hour"
+      },
+      {
+        "question_id": 47,
+        "question": "Elephant tusks are made of what material?",
+        "correct_answer": "Ivory",
+        "wrong_answer1": "Bone",
+        "wrong_answer2": "Calcium",
+        "wrong_answer3": "Coral"
+      },
+      {
+        "question_id": 48,
+        "question": "Excluding wisdom teeth, how many adult teeth do humans have?",
+        "correct_answer": "28",
+        "wrong_answer1": "32",
+        "wrong_answer2": "30",
+        "wrong_answer3": "34"
+      },
+      {
+        "question_id": 49,
+        "question": "How many teeth does an adult human have?",
+        "correct_answer": "32",
+        "wrong_answer1": "30",
+        "wrong_answer2": "34",
+        "wrong_answer3": "28"
+      },
+      {
+        "question_id": 56,
+        "question": "How do you express 3/4 as a decimal?",
+        "correct_answer": "0.75",
+        "wrong_answer1": "0.25",
+        "wrong_answer2": "0.66",
+        "wrong_answer3": "0.5"
+      },
+      {
+        "question_id": 59,
+        "question": "How many $100 bills does it take to equal one million dollars",
+        "correct_answer": "10000",
+        "wrong_answer1": "1000",
+        "wrong_answer2": "100000",
+        "wrong_answer3": "50000"
+      },
+      {
+        "question_id": 61,
+        "question": "How many eyes does a Giraffe have?",
+        "correct_answer": "2",
+        "wrong_answer1": "3",
+        "wrong_answer2": "1",
+        "wrong_answer3": "4"
+      },
+      {
+        "question_id": 62,
+        "question": "How many ounces are in a pound?",
+        "correct_answer": "16",
+        "wrong_answer1": "32",
+        "wrong_answer2": "4",
+        "wrong_answer3": "12"
+      },
+      {
+        "question_id": 63,
+        "question": "How many ribs are there in the human body?",
+        "correct_answer": "24",
+        "wrong_answer1": "18",
+        "wrong_answer2": "30",
+        "wrong_answer3": "42"
+      },
+      {
+        "question_id": 68,
+        "question": "If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?",
+        "correct_answer": "Saturday",
+        "wrong_answer1": "Sunday",
+        "wrong_answer2": " Friday ",
+        "wrong_answer3": "Thursday"
+      },
+      {
+        "question_id": 69,
+        "question": "If someone has cataracts, what part of their body might need an operation?",
+        "correct_answer": "Eye",
+        "wrong_answer1": "Ear",
+        "wrong_answer2": "Hand",
+        "wrong_answer3": "Knee"
+      },
+      {
+        "question_id": 71,
+        "question": "If you are truly afraid of the dark, what do you suffer from?",
+        "correct_answer": "Nyctophobia",
+        "wrong_answer1": "Hadephobia",
+        "wrong_answer2": "Cryptophobia",
+        "wrong_answer3": "Hypnophobia"
+      },
+      {
+        "question_id": 73,
+        "question": "In an adult human, how long is the large intestine?",
+        "correct_answer": "1,5 m",
+        "wrong_answer1": "5 m",
+        "wrong_answer2": "3,5 m",
+        "wrong_answer3": "2 m"
+      },
+      {
+        "question_id": 76,
+        "question": "In computer terminology, what does the acronym 'FTP' stand for?",
+        "correct_answer": "File transfer protocol",
+        "wrong_answer1": "Full time portal",
+        "wrong_answer2": "Full text processor",
+        "wrong_answer3": "Free to print"
+      },
+      {
+        "question_id": 93,
+        "question": "In Paris, what is the first day of spring?  ",
+        "correct_answer": "March 21st",
+        "wrong_answer1": "April 21st",
+        "wrong_answer2": "September 21st",
+        "wrong_answer3": "May 21st"
+      },
+      {
+        "question_id": 98,
+        "question": "In what decade was the Hula,Hoop invented?",
+        "correct_answer": "1950s",
+        "wrong_answer1": "1970s",
+        "wrong_answer2": "1920s",
+        "wrong_answer3": "1890s"
+      },
+      {
+        "question_id": 105,
+        "question": "Including the bottom, how many sides are on a square,based pyramid?",
+        "correct_answer": "5",
+        "wrong_answer1": "4",
+        "wrong_answer2": "3",
+        "wrong_answer3": "6"
+      },
+      {
+        "question_id": 106,
+        "question": "Modern computer microchips are primarily composed of what element?",
+        "correct_answer": "Silicon",
+        "wrong_answer1": "Silver",
+        "wrong_answer2": "Aluminum",
+        "wrong_answer3": "Sodium"
+      },
+      {
+        "question_id": 109,
+        "question": "On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
+        "correct_answer": "Eros",
+        "wrong_answer1": "Venus",
+        "wrong_answer2": "Cupid",
+        "wrong_answer3": "Aphrodite"
+      },
+      {
+        "question_id": 110,
+        "question": "On what continent can you find tigers in the wild?",
+        "correct_answer": "Asia",
+        "wrong_answer1": "Africa",
+        "wrong_answer2": "South America",
+        "wrong_answer3": "Europe"
+      },
+      {
+        "question_id": 113,
+        "question": "Paper will burn at approximately what temperature, in Fahrenheit?",
+        "correct_answer": "451 degrees",
+        "wrong_answer1": "398.5 degrees",
+        "wrong_answer2": "212.5 degrees",
+        "wrong_answer3": "98.6 degrees"
+      },
+      {
+        "question_id": 115,
+        "question": "Phoebe, Dione and Helene are moons of what planet?",
+        "correct_answer": "Saturn",
+        "wrong_answer1": "Jupiter",
+        "wrong_answer2": "Neptune",
+        "wrong_answer3": "Pluto"
+      },
+      {
+        "question_id": 116,
+        "question": "Someone would most likely contract salmonella poisoning from eating which of the following?",
+        "correct_answer": "Chicken",
+        "wrong_answer1": "Carrots",
+        "wrong_answer2": "Tofu",
+        "wrong_answer3": "Rice"
+      },
+      {
+        "question_id": 118,
+        "question": "The Original Apple iMac computer was available in all of the following colors except which?",
+        "correct_answer": "Kiwi",
+        "wrong_answer1": "Grape",
+        "wrong_answer2": "Tangerine",
+        "wrong_answer3": "Strawberry"
+      },
+      {
+        "question_id": 119,
+        "question": "The common term for someone who has difficulty seeing objects in the distance is what?",
+        "correct_answer": "Nearsighted",
+        "wrong_answer1": "Farsighted",
+        "wrong_answer2": "Hindsighted",
+        "wrong_answer3": "Hypermetropic"
+      },
+      {
+        "question_id": 122,
+        "question": "The majority of calcium in the human body is found where?",
+        "correct_answer": "Bones",
+        "wrong_answer1": "Digestive  tract",
+        "wrong_answer2": "Blood",
+        "wrong_answer3": "Hair"
+      },
+      {
+        "question_id": 123,
+        "question": "The process of drilling holes in the skull is called what",
+        "correct_answer": "Trepanation",
+        "wrong_answer1": "Bifurcation",
+        "wrong_answer2": "Aeronomy",
+        "wrong_answer3": "Skullduggery"
+      },
+      {
+        "question_id": 130,
+        "question": "What are the dimensions of a 'letter size' piece of paper?",
+        "correct_answer": "8 1/2 x 11 inches",
+        "wrong_answer1": "5 x 10 inches",
+        "wrong_answer2": "3 1/2 x 5 inches",
+        "wrong_answer3": "11 x 17 inches"
+      },
+      {
+        "question_id": 135,
+        "question": "What biological process replicates DNA?",
+        "correct_answer": "Mitosis",
+        "wrong_answer1": "Diffusion",
+        "wrong_answer2": "Molting",
+        "wrong_answer3": "Peristaltsis"
+      },
+      {
+        "question_id": 138,
+        "question": "What chemical do people frequently use to bleach hair?",
+        "correct_answer": "Hydrogen peroxide",
+        "wrong_answer1": "Folic acid",
+        "wrong_answer2": "Sodium chloride",
+        "wrong_answer3": "Nitrous oxide"
+      },
+      {
+        "question_id": 141,
+        "question": "What color is a ruby?",
+        "correct_answer": "Red",
+        "wrong_answer1": "Pink",
+        "wrong_answer2": "Blue",
+        "wrong_answer3": "Purple"
+      },
+      {
+        "question_id": 147,
+        "question": "What condition is caused by malfunctioning sebaceous glands?",
+        "correct_answer": "Acne",
+        "wrong_answer1": "Bad breath",
+        "wrong_answer2": "Carpal tunnel syndrome",
+        "wrong_answer3": "Shingles"
+      },
+      {
+        "question_id": 156,
+        "question": "What disease does a carcinogen cause?",
+        "correct_answer": "Cancer",
+        "wrong_answer1": "Heart disease",
+        "wrong_answer2": "Influenza",
+        "wrong_answer3": "Emphysema"
+      },
+      {
+        "question_id": 157,
+        "question": "What disease is characterized by a body's inability to properly metabolize glucose?",
+        "correct_answer": "Diabetes",
+        "wrong_answer1": "Influenza",
+        "wrong_answer2": "Septicemia",
+        "wrong_answer3": "Arthritis"
+      },
+      {
+        "question_id": 158,
+        "question": "What disease is sometimes referred to as the 'royal disease'?",
+        "correct_answer": "Hemophilia",
+        "wrong_answer1": "Measles",
+        "wrong_answer2": "Rickets",
+        "wrong_answer3": "Tuberculosis"
+      },
+      {
+        "question_id": 161,
+        "question": "What does a pH level measure?",
+        "correct_answer": "Acidity",
+        "wrong_answer1": "Density",
+        "wrong_answer2": "Humidity",
+        "wrong_answer3": "Wavelenght"
+      },
+      {
+        "question_id": 162,
+        "question": "What does an animal produce when it lactates?",
+        "correct_answer": "Milk",
+        "wrong_answer1": "Wool",
+        "wrong_answer2": "Sweat",
+        "wrong_answer3": "Methane"
+      },
+      {
+        "question_id": 165,
+        "question": "What does the 'ROM' in CD,ROM stand for?",
+        "correct_answer": "Read,Only Memory",
+        "wrong_answer1": "Random Object Memory",
+        "wrong_answer2": "Run,Other Memory",
+        "wrong_answer3": "Really Obscure Memory"
+      },
+      {
+        "question_id": 172,
+        "question": "What is another name for the camelopard?",
+        "correct_answer": "Giraffe",
+        "wrong_answer1": "Oasis",
+        "wrong_answer2": "Circus",
+        "wrong_answer3": "Cantaloupe"
+      },
+      {
+        "question_id": 174,
+        "question": "What is produced during photosynthesis?",
+        "correct_answer": "Oxygen",
+        "wrong_answer1": "Light",
+        "wrong_answer2": "Nylon",
+        "wrong_answer3": "Hydrogen"
+      },
+      {
+        "question_id": 175,
+        "question": "What is the birthstone for the month of January?",
+        "correct_answer": "Garnet",
+        "wrong_answer1": "Topaz",
+        "wrong_answer2": "Opal",
+        "wrong_answer3": "Diamond"
+      },
+      {
+        "question_id": 177,
+        "question": "What is the chemical process wherein a solid is turned to a liquid via the application of heat?",
+        "correct_answer": "Melting",
+        "wrong_answer1": "Freezing",
+        "wrong_answer2": "Distillation",
+        "wrong_answer3": "Photosynthesis"
+      },
+      {
+        "question_id": 178,
+        "question": "What is the colored part of the eye called?",
+        "correct_answer": "Iris",
+        "wrong_answer1": "Pupil",
+        "wrong_answer2": "Retina",
+        "wrong_answer3": "Cochlea"
+      },
+      {
+        "question_id": 179,
+        "question": "What is the largest animal ever to live on Earth?",
+        "correct_answer": "Blue whale",
+        "wrong_answer1": "Tyrannosaurus",
+        "wrong_answer2": "Giant squid",
+        "wrong_answer3": "Woolly mammoth"
+      },
+      {
+        "question_id": 183,
+        "question": "What is the medical term for a doctor's identification of a disease?",
+        "correct_answer": "Diagnosis",
+        "wrong_answer1": "Hypnosis",
+        "wrong_answer2": "Prognosis",
+        "wrong_answer3": "Trichinosis"
+      },
+      {
+        "question_id": 188,
+        "question": "What is the name of the fruit that is half tangerine and half grapefruit?",
+        "correct_answer": "Tangelo",
+        "wrong_answer1": "Graperine",
+        "wrong_answer2": "Tangefruit",
+        "wrong_answer3": "Kumquat"
+      },
+      {
+        "question_id": 190,
+        "question": "What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?",
+        "correct_answer": "Law of Inertia",
+        "wrong_answer1": "Law of Thermodynamics",
+        "wrong_answer2": "Law of Relativity",
+        "wrong_answer3": "Law of Gravitation"
+      },
+      {
+        "question_id": 196,
+        "question": "What is the proper nautical use of an anchor?",
+        "correct_answer": "To hold a ship in place",
+        "wrong_answer1": "To catch large fish",
+        "wrong_answer2": "To calculate water depth",
+        "wrong_answer3": "To damage other boats"
+      },
+      {
+        "question_id": 198,
+        "question": "What is the square root of 81 squared?",
+        "correct_answer": "81",
+        "wrong_answer1": "9",
+        "wrong_answer2": "27",
+        "wrong_answer3": "729"
+      },
+      {
+        "question_id": 199,
+        "question": "What is the technical term for someone who studies fish?",
+        "correct_answer": "Ichthyologist",
+        "wrong_answer1": "Entomologist",
+        "wrong_answer2": "Marinologist",
+        "wrong_answer3": "Herpetologist"
+      },
+      {
+        "question_id": 200,
+        "question": "What is the technical term for the offspring of a female donkey and a male horse?",
+        "correct_answer": "Hinny",
+        "wrong_answer1": "Burro",
+        "wrong_answer2": "Dorse",
+        "wrong_answer3": "Honker"
+      },
+      {
+        "question_id": 202,
+        "question": "What is varicella?",
+        "correct_answer": "The chicken pox virus",
+        "wrong_answer1": "A fancy pasta",
+        "wrong_answer2": "A type of opera",
+        "wrong_answer3": "Ancient Roman poetry"
+      },
+      {
+        "question_id": 204,
+        "question": "What kind of angle is formed where two perpendicular lines meet?",
+        "correct_answer": "Right",
+        "wrong_answer1": "Obtuse",
+        "wrong_answer2": "Acute",
+        "wrong_answer3": "Invisible"
+      },
+      {
+        "question_id": 205,
+        "question": "What kind of animal is a peregrine?",
+        "correct_answer": "Bird",
+        "wrong_answer1": "Fish",
+        "wrong_answer2": "Cat",
+        "wrong_answer3": "Moose"
+      },
+      {
+        "question_id": 211,
+        "question": "What mathematical term is used to describe the average of a series of numbers?",
+        "correct_answer": "Mean",
+        "wrong_answer1": "Mode",
+        "wrong_answer2": "Majority",
+        "wrong_answer3": "Median"
+      },
+      {
+        "question_id": 213,
+        "question": "What nationality was Karl Marx?",
+        "correct_answer": "German",
+        "wrong_answer1": "Russian",
+        "wrong_answer2": "Danish",
+        "wrong_answer3": "English"
+      },
+      {
+        "question_id": 217,
+        "question": "What part of the human body does a gastroenterologist examine?",
+        "correct_answer": "Stomach",
+        "wrong_answer1": "Nose",
+        "wrong_answer2": "Brain",
+        "wrong_answer3": "Kidney"
+      },
+      {
+        "question_id": 225,
+        "question": "What term describes the passing of genetic traits from one generation to the next?",
+        "correct_answer": "Heredity",
+        "wrong_answer1": "Heresy",
+        "wrong_answer2": "Homogeneity",
+        "wrong_answer3": "Hemoglobin"
+      },
+      {
+        "question_id": 229,
+        "question": "What was the name of the first nuclear,powered submarine?",
+        "correct_answer": "Nautilus",
+        "wrong_answer1": "Neptune",
+        "wrong_answer2": "Nordenfelt III",
+        "wrong_answer3": "Nicholas"
+      },
+      {
+        "question_id": 243,
+        "question": "Which of the following beverages is brewed from the leaves of a plant?",
+        "correct_answer": "Tea",
+        "wrong_answer1": "Coffee",
+        "wrong_answer2": "Ginger ale",
+        "wrong_answer3": "Wine"
+      },
+      {
+        "question_id": 244,
+        "question": "Which of the following is a natural sugar found in most fruits?",
+        "correct_answer": "Fructose",
+        "wrong_answer1": "Necrose",
+        "wrong_answer2": "Sucrose",
+        "wrong_answer3": "Bellicose"
+      },
+      {
+        "question_id": 247,
+        "question": "Which of these animals lays eggs?",
+        "correct_answer": "Frog",
+        "wrong_answer1": "Cow",
+        "wrong_answer2": "Elephant",
+        "wrong_answer3": "Gerbil"
+      },
+      {
+        "question_id": 249,
+        "question": "Which of these are not legumes?",
+        "correct_answer": "Radishes",
+        "wrong_answer1": "Peanuts",
+        "wrong_answer2": "Peas",
+        "wrong_answer3": "Beans"
+      },
+      {
+        "question_id": 250,
+        "question": "Which of these Australian birds is most closely related to the ostrich?",
+        "correct_answer": "Emu",
+        "wrong_answer1": "Puffin",
+        "wrong_answer2": "Kookaburra",
+        "wrong_answer3": "cockatoo"
+      },
+      {
+        "question_id": 255,
+        "question": "Which of these foods could contain small amounts of naturally occurring opium?",
+        "correct_answer": "Poppy seed bagels",
+        "wrong_answer1": "Carbonated soda",
+        "wrong_answer2": "Sesame Chicken",
+        "wrong_answer3": "Chocolate Truffles"
+      },
+      {
+        "question_id": 257,
+        "question": "Which of these foods is poisonous to dogs?",
+        "correct_answer": "Chocolate ",
+        "wrong_answer1": "Bananas",
+        "wrong_answer2": "Peanut Butter",
+        "wrong_answer3": "Olives"
+      },
+      {
+        "question_id": 261,
+        "question": "Which of these household pets should be vaccinated for parvovirus?",
+        "correct_answer": "Dog",
+        "wrong_answer1": "Hamster",
+        "wrong_answer2": "Cat",
+        "wrong_answer3": "Bird"
+      },
+      {
+        "question_id": 262,
+        "question": "Which of these is a member of the cucumber family?",
+        "correct_answer": "Watermelon",
+        "wrong_answer1": "Potato",
+        "wrong_answer2": "Green Pepper",
+        "wrong_answer3": "Grean Bean"
+      },
+      {
+        "question_id": 266,
+        "question": "Which of these is commonly used to treat allergies?",
+        "correct_answer": "Antihistamines",
+        "wrong_answer1": "Antiseptics",
+        "wrong_answer2": "Antimatter",
+        "wrong_answer3": "Anticoagulants"
+      },
+      {
+        "question_id": 267,
+        "question": "Which of these is made from cacao seeds?",
+        "correct_answer": "Chocolate",
+        "wrong_answer1": "Marzipan",
+        "wrong_answer2": "Soy Sauce",
+        "wrong_answer3": "Anchovies"
+      },
+      {
+        "question_id": 268,
+        "question": "Which of these is not a breed of cat?",
+        "correct_answer": "Bichon Frise",
+        "wrong_answer1": "Persian",
+        "wrong_answer2": "Main Coon",
+        "wrong_answer3": "Turkish Angora"
+      },
+      {
+        "question_id": 271,
+        "question": "Which of these is not a 'lock' function on a standard desktop computer keyboard?",
+        "correct_answer": "Print Lock",
+        "wrong_answer1": "Caps Lock",
+        "wrong_answer2": "Number Lock",
+        "wrong_answer3": "Scroll Lock"
+      },
+      {
+        "question_id": 272,
+        "question": "Which of these is not a spice?",
+        "correct_answer": "Cucumber",
+        "wrong_answer1": "Dill",
+        "wrong_answer2": "Aniseed",
+        "wrong_answer3": "Cayenne"
+      },
+      {
+        "question_id": 275,
+        "question": "Which of these is not a type of chili pepper",
+        "correct_answer": "Cheyenne",
+        "wrong_answer1": "Habanero",
+        "wrong_answer2": "Jalapeno",
+        "wrong_answer3": "Guajillo"
+      },
+      {
+        "question_id": 276,
+        "question": "Which of these is not a type of primate?",
+        "correct_answer": "Marmot",
+        "wrong_answer1": "Baboon",
+        "wrong_answer2": "Orangutan",
+        "wrong_answer3": "Chimpanzee"
+      },
+      {
+        "question_id": 277,
+        "question": "Which of these is not a type of rock?",
+        "correct_answer": "Deciduous",
+        "wrong_answer1": "Metamorphic",
+        "wrong_answer2": "Sedimentary",
+        "wrong_answer3": "Igneous"
+      },
+      {
+        "question_id": 278,
+        "question": "Which of these is not found in a Snickers candy bar?",
+        "correct_answer": "Almonds",
+        "wrong_answer1": "Caramel",
+        "wrong_answer2": "Nougat",
+        "wrong_answer3": "Chocolate "
+      },
+      {
+        "question_id": 279,
+        "question": "Which of these is not one of the four basic forces in nature?",
+        "correct_answer": "Centrifugal",
+        "wrong_answer1": "Nuclear",
+        "wrong_answer2": "Electromagnetic",
+        "wrong_answer3": "Gravitational"
+      },
+      {
+        "question_id": 280,
+        "question": "Which of these is typically not used as a spice?",
+        "correct_answer": "Hemlock",
+        "wrong_answer1": "Dill",
+        "wrong_answer2": "Thyme",
+        "wrong_answer3": "Marjoram"
+      },
+      {
+        "question_id": 281,
+        "question": "Which of these items is useful for removing ink stains?",
+        "correct_answer": "Baking Soda",
+        "wrong_answer1": "Nail Polish",
+        "wrong_answer2": "Hair Spray",
+        "wrong_answer3": "Butter"
+      },
+      {
+        "question_id": 283,
+        "question": "Which of these months has 31 days?",
+        "correct_answer": "March ",
+        "wrong_answer1": "April",
+        "wrong_answer2": "June",
+        "wrong_answer3": "September"
+      },
+      {
+        "question_id": 286,
+        "question": "Which of these organs comes in a pair?",
+        "correct_answer": "Kidney",
+        "wrong_answer1": "Liver",
+        "wrong_answer2": "Stomach",
+        "wrong_answer3": "Gallbladder"
+      },
+      {
+        "question_id": 292,
+        "question": "Which of these rocks will float in water?",
+        "correct_answer": "Pumice",
+        "wrong_answer1": "Shale",
+        "wrong_answer2": "Granite",
+        "wrong_answer3": "Limestone"
+      },
+      {
+        "question_id": 293,
+        "question": "Which of these snakes is poisonous?",
+        "correct_answer": "Copperhead",
+        "wrong_answer1": "Python",
+        "wrong_answer2": "Anaconda",
+        "wrong_answer3": "Bob Constrictor"
+      },
+      {
+        "question_id": 294,
+        "question": "Which of these sounds is commonly associated with owls?",
+        "correct_answer": "Hoot",
+        "wrong_answer1": "Growl",
+        "wrong_answer2": "Bark",
+        "wrong_answer3": "Chirp"
+      },
+      {
+        "question_id": 296,
+        "question": "Which of these vitamins was the first to be named?",
+        "correct_answer": "Vitamin A",
+        "wrong_answer1": "Vitamin E",
+        "wrong_answer2": "Vitamin,12",
+        "wrong_answer3": "Vitameatavegimen"
+      },
+      {
+        "question_id": 303,
+        "question": "Who co,founded Microsoft with Bill Gates?",
+        "correct_answer": "Paul Allen",
+        "wrong_answer1": "Paul Williams",
+        "wrong_answer2": "Steve Jobs",
+        "wrong_answer3": "Steve Wozniak"
+      },
+      {
+        "question_id": 307,
+        "question": "Who was the first American in space?",
+        "correct_answer": "Alan Shepard",
+        "wrong_answer1": "John Glenn",
+        "wrong_answer2": "Neil Armstrong",
+        "wrong_answer3": "Buzz Aldrin"
+      },
+      {
+        "question_id": 312,
+        "question": "Which Instrument Measures Atmospheric Pressure?",
+        "correct_answer": "A Barometer",
+        "wrong_answer1": "An Atmoseter",
+        "wrong_answer2": "A Meterometer",
+        "wrong_answer3": "Hydrometer"
+      },
+      {
+        "question_id": 313,
+        "question": "Which Member Of The Cat Family Cannot Retract Its Claws?",
+        "correct_answer": "Cheetah",
+        "wrong_answer1": "Lion",
+        "wrong_answer2": "Leopard",
+        "wrong_answer3": "Puma"
+      }
     ],
     "Entertainment": [
-        {
-            "question_id": 4,
-            "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
-            "correct_answer": "Calvin and Hobbes",
-            "wrong_answer1": "Winnie the Pooh",
-            "wrong_answer2": "Albert and Pogo",
-            "wrong_answer3": "Peanuts"
-        },
-        {
-            "question_id": 6,
-            "question": "What was the FIRST Valve game to have VR?",
-            "correct_answer": "The Lab",
-            "wrong_answer1": "Dota 2",
-            "wrong_answer2": "Destinations",
-            "wrong_answer3": "Half,Life 2"
-        },
-        {
-            "question_id": 12,
-            "question": "In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",
-            "correct_answer": "BMW M3 GTR",
-            "wrong_answer1": "Porsche 911 Turbo",
-            "wrong_answer2": "Nissan 240SX",
-            "wrong_answer3": "Ford Mustang"
-        },
-        {
-            "question_id": 14,
-            "question": "Who is the lead singer of The Lumineers?",
-            "correct_answer": "Wesley Schultz",
-            "wrong_answer1": "Jeremiah Fraites",
-            "wrong_answer2": "Jay Van Dyke",
-            "wrong_answer3": "Neyla Pekarek"
-        },
-        {
-            "question_id": 17,
-            "question": "What is the make and model of the tour vehicles in 'Jurassic Park' (1993)?",
-            "correct_answer": "1992 Ford Explorer XLT",
-            "wrong_answer1": "1992 Toyota Land Cruiser",
-            "wrong_answer2": "1992 Jeep Wrangler YJ Sahar",
-            "wrong_answer3": "Mercedes M,Class"
-        },
-        {
-            "question_id": 22,
-            "question": "The HBO series 'Game of Thrones' is based on which series of books?",
-            "correct_answer": "A Song of Ice and Fire",
-            "wrong_answer1": "The Wheel of Time",
-            "wrong_answer2": "Harry Potter",
-            "wrong_answer3": "The Notebook"
-        },
-        {
-            "question_id": 41,
-            "question": "At what age can someone first attend an R,rated movie without an accompanying adult?",
-            "correct_answer": "18",
-            "wrong_answer1": "21",
-            "wrong_answer2": "17",
-            "wrong_answer3": "16"
-        },
-        {
-            "question_id": 42,
-            "question": "Backgammon is a how many player game?",
-            "correct_answer": "2",
-            "wrong_answer1": "4",
-            "wrong_answer2": "3",
-            "wrong_answer3": "6"
-        },
-        {
-            "question_id": 54,
-            "question": "Gerry Adams is the president of what organization?",
-            "correct_answer": "Sinn Fein",
-            "wrong_answer1": "NASCAR",
-            "wrong_answer2": "PLO",
-            "wrong_answer3": "Greenpeace"
-        },
-        {
-            "question_id": 65,
-            "question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
-            "correct_answer": "0.05$",
-            "wrong_answer1": "0.1$",
-            "wrong_answer2": "0.75$",
-            "wrong_answer3": "5.00$"
-        },
-        {
-            "question_id": 74,
-            "question": "In bowling, how many pins must you knock down to get a strike?",
-            "correct_answer": "10",
-            "wrong_answer1": "12",
-            "wrong_answer2": "8",
-            "wrong_answer3": "9"
-        },
-        {
-            "question_id": 81,
-            "question": "In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?",
-            "correct_answer": "World Trade Center",
-            "wrong_answer1": "Statue of Liberty",
-            "wrong_answer2": "Empire State Building",
-            "wrong_answer3": "Chrysler Building"
-        },
-        {
-            "question_id": 82,
-            "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
-            "correct_answer": "Magic Carpet",
-            "wrong_answer1": "Winged Horse",
-            "wrong_answer2": "Hot Air Balloon",
-            "wrong_answer3": "Talking Car"
-        },
-        {
-            "question_id": 83,
-            "question": "In the Arthurian legend, who is married to Guinevere?",
-            "correct_answer": "King Arthur",
-            "wrong_answer1": "Merlin",
-            "wrong_answer2": "Lancelot",
-            "wrong_answer3": "Camelot"
-        },
-        {
-            "question_id": 84,
-            "question": "In the card game blackjack, how much are a queen and a king worth,together?",
-            "correct_answer": "20",
-            "wrong_answer1": "21",
-            "wrong_answer2": "11",
-            "wrong_answer3": "15"
-        },
-        {
-            "question_id": 85,
-            "question": "In the famous ballet 'The Nutcracker' who does the hero defeat?",
-            "correct_answer": "Rat King",
-            "wrong_answer1": "Marzipan",
-            "wrong_answer2": "Snow Queen",
-            "wrong_answer3": "Sugar Plum Fairy"
-        },
-        {
-            "question_id": 86,
-            "question": "In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?",
-            "correct_answer": "Matt Damon",
-            "wrong_answer1": "Jude Law",
-            "wrong_answer2": "Dustin Hoffman",
-            "wrong_answer3": "Ben Affleck"
-        },
-        {
-            "question_id": 87,
-            "question": "In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?",
-            "correct_answer": "Mini,Me",
-            "wrong_answer1": "Little Buddy",
-            "wrong_answer2": "Small Fry",
-            "wrong_answer3": "Dr. Evil Jr"
-        },
-        {
-            "question_id": 88,
-            "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
-            "correct_answer": "Wookie",
-            "wrong_answer1": "Boobie",
-            "wrong_answer2": "Klingon",
-            "wrong_answer3": "Woolie"
-        },
-        {
-            "question_id": 89,
-            "question": "In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?",
-            "correct_answer": "Passepartout",
-            "wrong_answer1": "Sancho Panza",
-            "wrong_answer2": "Renfield",
-            "wrong_answer3": "Savoir Faire"
-        },
-        {
-            "question_id": 90,
-            "question": "In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?",
-            "correct_answer": "Becky Thatcher",
-            "wrong_answer1": "Polly Finn",
-            "wrong_answer2": "Nancy Drew",
-            "wrong_answer3": "Emma Bovary"
-        },
-        {
-            "question_id": 91,
-            "question": "In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?",
-            "correct_answer": "A cow",
-            "wrong_answer1": "A hat",
-            "wrong_answer2": "A harp ",
-            "wrong_answer3": "A goose"
-        },
-        {
-            "question_id": 92,
-            "question": "In the television network abbreviation 'ABC' what does the 'A' stand for?",
-            "correct_answer": "American",
-            "wrong_answer1": "Audio",
-            "wrong_answer2": "Adult",
-            "wrong_answer3": "Artistic"
-        },
-        {
-            "question_id": 96,
-            "question": "In what country did Pokemon originate?",
-            "correct_answer": "Japan",
-            "wrong_answer1": "Canada",
-            "wrong_answer2": "United States",
-            "wrong_answer3": "China"
-        },
-        {
-            "question_id": 99,
-            "question": "In what forest did Robin Hood live?",
-            "correct_answer": "Sherwood Forest",
-            "wrong_answer1": "Nottingham Forest",
-            "wrong_answer2": "Petrified Forest",
-            "wrong_answer3": "Black Forest"
-        },
-        {
-            "question_id": 102,
-            "question": "In which of the following bands did Jimmy Page not play guitar?",
-            "correct_answer": "Bad Company",
-            "wrong_answer1": "The Firm",
-            "wrong_answer2": "Led Zeppelin",
-            "wrong_answer3": "The Yardbirds"
-        },
-        {
-            "question_id": 108,
-            "question": "On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?",
-            "correct_answer": "Proctologist",
-            "wrong_answer1": "Neurologist",
-            "wrong_answer2": "Cardiologist",
-            "wrong_answer3": "Ophthalmologist"
-        },
-        {
-            "question_id": 117,
-            "question": "Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
-            "correct_answer": "Paul McCartney",
-            "wrong_answer1": "John Lennon",
-            "wrong_answer2": "George Harrison",
-            "wrong_answer3": "Ringo Starr"
-        },
-        {
-            "question_id": 121,
-            "question": "The disco band ABBA comes from what country?",
-            "correct_answer": "Sweden",
-            "wrong_answer1": "Norway",
-            "wrong_answer2": "The Netherlands",
-            "wrong_answer3": "Switzerland"
-        },
-        {
-            "question_id": 129,
-            "question": "What animated character has a crush on the Little Red Haired Girl?",
-            "correct_answer": "Charlie Brown",
-            "wrong_answer1": "Richie Rich",
-            "wrong_answer2": "Bugs Bunny",
-            "wrong_answer3": "Jonny Quest"
-        },
-        {
-            "question_id": 131,
-            "question": "What are the names of Donald Duck's three nephews?",
-            "correct_answer": "Huey, Dewey, Louie",
-            "wrong_answer1": "Robbie, Chip, Ernie",
-            "wrong_answer2": "Alvin, Simon, Theodore",
-            "wrong_answer3": "Quick, Quack, Quock"
-        },
-        {
-            "question_id": 132,
-            "question": "What are the names of the two primary M&M's spokes,candies?",
-            "correct_answer": "Red and Yellow",
-            "wrong_answer1": "Mort and Marty",
-            "wrong_answer2": "Peanut and Plain",
-            "wrong_answer3": "They don't have names"
-        },
-        {
-            "question_id": 134,
-            "question": "What automobile company makes the Sonata?",
-            "correct_answer": "Hyundai",
-            "wrong_answer1": "Subaru",
-            "wrong_answer2": "Honda",
-            "wrong_answer3": "Toyota"
-        },
-        {
-            "question_id": 136,
-            "question": "What car company once manufactured and sold the 'Datsun' line of automobiles?",
-            "correct_answer": "Nissan",
-            "wrong_answer1": "Mazda",
-            "wrong_answer2": "Toyota",
-            "wrong_answer3": "Daihatsu"
-        },
-        {
-            "question_id": 137,
-            "question": "What cartoon character traveled in a time machine with Mr. Peabody?",
-            "correct_answer": "Sherman",
-            "wrong_answer1": "Underdog",
-            "wrong_answer2": "Jonny Quest",
-            "wrong_answer3": "Rocky"
-        },
-        {
-            "question_id": 139,
-            "question": "What children's storybook character believes that the sky is falling?",
-            "correct_answer": "Chicken Little",
-            "wrong_answer1": "Curious George",
-            "wrong_answer2": "Jack Sprat",
-            "wrong_answer3": "Tom Thumb"
-        },
-        {
-            "question_id": 140,
-            "question": "What city did the Beatles originally call home?",
-            "correct_answer": "Liverpool",
-            "wrong_answer1": "Leeds",
-            "wrong_answer2": "London",
-            "wrong_answer3": "Manchester"
-        },
-        {
-            "question_id": 142,
-            "question": "What color is cartoon character Marge Simpson's hair?",
-            "correct_answer": "Blue",
-            "wrong_answer1": "Brown",
-            "wrong_answer2": "Yellow",
-            "wrong_answer3": "Purple"
-        },
-        {
-            "question_id": 144,
-            "question": "What colors are the two circles in the MasterCard logo?",
-            "correct_answer": "Red and Yellow",
-            "wrong_answer1": "Black and Yellow",
-            "wrong_answer2": "Red and Blue",
-            "wrong_answer3": "Black and White"
-        },
-        {
-            "question_id": 145,
-            "question": "What company makes Oreo cookies?",
-            "correct_answer": "Nabisco",
-            "wrong_answer1": "General Mills",
-            "wrong_answer2": "Keebler",
-            "wrong_answer3": "Kraft"
-        },
-        {
-            "question_id": 146,
-            "question": "What company makes perfumes called 'Beautiful' and 'Pleasures'?",
-            "correct_answer": "Estee Lauder",
-            "wrong_answer1": "Ralph Lauren",
-            "wrong_answer2": "Elizabeth Arden",
-            "wrong_answer3": "Calvin Klein"
-        },
-        {
-            "question_id": 151,
-            "question": "What country is the rock group U2 from?",
-            "correct_answer": "Ireland",
-            "wrong_answer1": "England",
-            "wrong_answer2": "Australia",
-            "wrong_answer3": "Canada"
-        },
-        {
-            "question_id": 154,
-            "question": "Who's the Triplet from the portuguese tv show 'Por do Sol'?",
-            "correct_answer": "Madalena Almeida",
-            "wrong_answer1": "No�mia Costa",
-            "wrong_answer2": "Dalila Carmo",
-            "wrong_answer3": "Gabriela Barros"
-        },
-        {
-            "question_id": 160,
-            "question": "What do you call three consecutive strikes in bowling?",
-            "correct_answer": "Turkey",
-            "wrong_answer1": "Ace",
-            "wrong_answer2": "Mulligan",
-            "wrong_answer3": "Yahtzee"
-        },
-        {
-            "question_id": 167,
-            "question": "What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby,Doo'?",
-            "correct_answer": "Casey Kasem",
-            "wrong_answer1": "Rush Limbaugh",
-            "wrong_answer2": "Larry King",
-            "wrong_answer3": "Howard Stern"
-        },
-        {
-            "question_id": 168,
-            "question": "What French city is home to a famous international film festival each spring?",
-            "correct_answer": "Cannes",
-            "wrong_answer1": "Lyon",
-            "wrong_answer2": "Dijon",
-            "wrong_answer3": "Marseille"
-        },
-        {
-            "question_id": 169,
-            "question": "What Greek poet wrote 'The Iliad' and 'The Odyssey'?",
-            "correct_answer": "Homer",
-            "wrong_answer1": "Plato",
-            "wrong_answer2": "Socrates",
-            "wrong_answer3": "Sophocles"
-        },
-        {
-            "question_id": 170,
-            "question": "What is a balalaika?",
-            "correct_answer": "Musical instrument",
-            "wrong_answer1": "Type of hat",
-            "wrong_answer2": "Russian peasant",
-            "wrong_answer3": "Breed of shark"
-        },
-        {
-            "question_id": 171,
-            "question": "What is actor Antonio Banderas native language?",
-            "correct_answer": "Spanish",
-            "wrong_answer1": "French",
-            "wrong_answer2": "German",
-            "wrong_answer3": "Russian"
-        },
-        {
-            "question_id": 185,
-            "question": "What is the name of Mario's brother in the 'Super Mario' video games?",
-            "correct_answer": "Luigi",
-            "wrong_answer1": "Louis",
-            "wrong_answer2": "Zelda",
-            "wrong_answer3": "Luciano"
-        },
-        {
-            "question_id": 186,
-            "question": "What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?",
-            "correct_answer": "Swee' pea",
-            "wrong_answer1": "Suga' baby",
-            "wrong_answer2": "Lamikins",
-            "wrong_answer3": "Pun' kin"
-        },
-        {
-            "question_id": 187,
-            "question": "What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?",
-            "correct_answer": "Little Jimmy Bond",
-            "wrong_answer1": "Q",
-            "wrong_answer2": "M",
-            "wrong_answer3": "Dr. Evil"
-        },
-        {
-            "question_id": 203,
-            "question": "What is your astrological sign if you were born on Halloween?",
-            "correct_answer": "Scorpio",
-            "wrong_answer1": "Capricorn",
-            "wrong_answer2": "Libra",
-            "wrong_answer3": "Cancer"
-        },
-        {
-            "question_id": 206,
-            "question": "What kind of animal is cartoon character Tennessee Tuxedo?",
-            "correct_answer": "Penguin",
-            "wrong_answer1": "Cat",
-            "wrong_answer2": "Shunk",
-            "wrong_answer3": "Walrus"
-        },
-        {
-            "question_id": 210,
-            "question": "What literary work is the source of the quote 'Abandon every hope, all you who enter here'?",
-            "correct_answer": "The divine comedy",
-            "wrong_answer1": "Twilight",
-            "wrong_answer2": "Paradise Lost",
-            "wrong_answer3": "Beowulf"
-        },
-        {
-            "question_id": 215,
-            "question": "What new token was recently added to the Monopoly board game?",
-            "correct_answer": "Sack of money",
-            "wrong_answer1": "Telephone",
-            "wrong_answer2": "Globe",
-            "wrong_answer3": "Piggybank"
-        },
-        {
-            "question_id": 216,
-            "question": "What newspaper do Lois Lane and Clark Kent work for?",
-            "correct_answer": "The Daily Planet",
-            "wrong_answer1": "The Bugle",
-            "wrong_answer2": "The New York Times",
-            "wrong_answer3": "The Metropolis Tribune"
-        },
-        {
-            "question_id": 220,
-            "question": "What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?",
-            "correct_answer": "Hulk Hogan",
-            "wrong_answer1": "Dolph Lundgren",
-            "wrong_answer2": "Andre the Giant",
-            "wrong_answer3": "The Iron Sheik"
-        },
-        {
-            "question_id": 221,
-            "question": "What recording artist claims that sportscaster Marv Albert was a major influence on his sound?",
-            "correct_answer": "Chuck D",
-            "wrong_answer1": "Axl Rose",
-            "wrong_answer2": "Meat Loaf",
-            "wrong_answer3": "David Lee Roth"
-        },
-        {
-            "question_id": 222,
-            "question": "What substance was used for blood in the famous shower scene from the movie 'Psycho'?",
-            "correct_answer": "Chocolate Syrup",
-            "wrong_answer1": "Ketchup",
-            "wrong_answer2": "Red Wine",
-            "wrong_answer3": "Tomato Juice"
-        },
-        {
-            "question_id": 227,
-            "question": "What was Ludwig Van Beethoven's final symphony?",
-            "correct_answer": "9th",
-            "wrong_answer1": "10th",
-            "wrong_answer2": "11th",
-            "wrong_answer3": "12th"
-        },
-        {
-            "question_id": 231,
-            "question": "What was the title of Beethoven's only completed opera?",
-            "correct_answer": "Fidelio",
-            "wrong_answer1": "Faust",
-            "wrong_answer2": "The silence",
-            "wrong_answer3": "immortal beloved"
-        },
-        {
-            "question_id": 235,
-            "question": "When it first appeared on the Internet, amazon.com sold only what?",
-            "correct_answer": "Books",
-            "wrong_answer1": "Cars",
-            "wrong_answer2": "Compact Disks",
-            "wrong_answer3": "Clothes"
-        },
-        {
-            "question_id": 237,
-            "question": "Where did jazz great Sun Ra claim he was born?",
-            "correct_answer": "Saturn",
-            "wrong_answer1": "Atlantis",
-            "wrong_answer2": "Mount Olympus",
-            "wrong_answer3": "In a saxophone"
-        },
-        {
-            "question_id": 240,
-            "question": "Which actress played a pointy,eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?",
-            "correct_answer": "Kirstie Alley",
-            "wrong_answer1": "Helen Hunt",
-            "wrong_answer2": "Whoopi Goldberg",
-            "wrong_answer3": "Jennifer Grey"
-        },
-        {
-            "question_id": 241,
-            "question": "Which character on the TV show 'Friends' is a chef?",
-            "correct_answer": "Monica",
-            "wrong_answer1": "Rachel",
-            "wrong_answer2": "Ross",
-            "wrong_answer3": "Joey"
-        },
-        {
-            "question_id": 245,
-            "question": "Which of the following is not a TV cartoon duo?",
-            "correct_answer": "Simon and Garfunkel",
-            "wrong_answer1": "Tom and Jerry",
-            "wrong_answer2": "Chip and Dale",
-            "wrong_answer3": "Beavis and Butthead"
-        },
-        {
-            "question_id": 248,
-            "question": "Which of these animals shares its name with a luxury car?",
-            "correct_answer": "Jaguar",
-            "wrong_answer1": "Yak",
-            "wrong_answer2": "Gazelle",
-            "wrong_answer3": "Sloth"
-        },
-        {
-            "question_id": 254,
-            "question": "Which of these fashion designers was born in the United States?",
-            "correct_answer": "Donna Karen ",
-            "wrong_answer1": "Christian  Dior",
-            "wrong_answer2": "Helmut Lang",
-            "wrong_answer3": "Laura Ashley"
-        },
-        {
-            "question_id": 258,
-            "question": "Which of these games is not played with cards?",
-            "correct_answer": "Solitaire",
-            "wrong_answer1": "Craps",
-            "wrong_answer2": "Rummy",
-            "wrong_answer3": "Baccarat"
-        },
-        {
-            "question_id": 260,
-            "question": "Which of these horror films spawned the most sequels?",
-            "correct_answer": "Friday the 13th",
-            "wrong_answer1": "Halloween",
-            "wrong_answer2": "Jaws",
-            "wrong_answer3": "Scream"
-        },
-        {
-            "question_id": 264,
-            "question": "Which of these is an Italian Design firm?",
-            "correct_answer": "Fendi",
-            "wrong_answer1": "Escada",
-            "wrong_answer2": "Mainbocher",
-            "wrong_answer3": "Ghost"
-        },
-        {
-            "question_id": 282,
-            "question": "Which of these magazines does not focus on natural science?",
-            "correct_answer": "Tiger Beat",
-            "wrong_answer1": "Outside",
-            "wrong_answer2": "National Geographic",
-            "wrong_answer3": "Smithsonian"
-        },
-        {
-            "question_id": 284,
-            "question": "Which of these movies does not star Jim Carrey?",
-            "correct_answer": "Patch Adams",
-            "wrong_answer1": "The Truman Show",
-            "wrong_answer2": "Dumb and Dummer",
-            "wrong_answer3": "The Mask"
-        },
-        {
-            "question_id": 295,
-            "question": "Which of these toys answers questions?",
-            "correct_answer": "Magic 8 Ball",
-            "wrong_answer1": "Barbie",
-            "wrong_answer2": "Frisbee",
-            "wrong_answer3": "Slinky"
-        },
-        {
-            "question_id": 304,
-            "question": "Who composed the 'Moonlight Sonata'?",
-            "correct_answer": "Beethoven",
-            "wrong_answer1": "Bach",
-            "wrong_answer2": "Handel",
-            "wrong_answer3": "Mozart"
-        },
-        {
-            "question_id": 315,
-            "question": "The song 'The Man Who Sold the World' had a well,known cover by Nirvana, but who recorded the original?",
-            "correct_answer": "David Bowie",
-            "wrong_answer1": "The Beatles",
-            "wrong_answer2": "Tori Amos",
-            "wrong_answer3": "William Shatner"
-        }
+      {
+        "question_id": 4,
+        "question": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+        "correct_answer": "Calvin and Hobbes",
+        "wrong_answer1": "Winnie the Pooh",
+        "wrong_answer2": "Albert and Pogo",
+        "wrong_answer3": "Peanuts"
+      },
+      {
+        "question_id": 6,
+        "question": "What was the FIRST Valve game to have VR?",
+        "correct_answer": "The Lab",
+        "wrong_answer1": "Dota 2",
+        "wrong_answer2": "Destinations",
+        "wrong_answer3": "Half,Life 2"
+      },
+      {
+        "question_id": 12,
+        "question": "In Need For Speed Most Wanted (2005), what do you drive at the beginning of the career mode?",
+        "correct_answer": "BMW M3 GTR",
+        "wrong_answer1": "Porsche 911 Turbo",
+        "wrong_answer2": "Nissan 240SX",
+        "wrong_answer3": "Ford Mustang"
+      },
+      {
+        "question_id": 14,
+        "question": "Who is the lead singer of The Lumineers?",
+        "correct_answer": "Wesley Schultz",
+        "wrong_answer1": "Jeremiah Fraites",
+        "wrong_answer2": "Jay Van Dyke",
+        "wrong_answer3": "Neyla Pekarek"
+      },
+      {
+        "question_id": 17,
+        "question": "What is the make and model of the tour vehicles in 'Jurassic Park' (1993)?",
+        "correct_answer": "1992 Ford Explorer XLT",
+        "wrong_answer1": "1992 Toyota Land Cruiser",
+        "wrong_answer2": "1992 Jeep Wrangler YJ Sahar",
+        "wrong_answer3": "Mercedes M,Class"
+      },
+      {
+        "question_id": 22,
+        "question": "The HBO series 'Game of Thrones' is based on which series of books?",
+        "correct_answer": "A Song of Ice and Fire",
+        "wrong_answer1": "The Wheel of Time",
+        "wrong_answer2": "Harry Potter",
+        "wrong_answer3": "The Notebook"
+      },
+      {
+        "question_id": 41,
+        "question": "At what age can someone first attend an R,rated movie without an accompanying adult?",
+        "correct_answer": "18",
+        "wrong_answer1": "21",
+        "wrong_answer2": "17",
+        "wrong_answer3": "16"
+      },
+      {
+        "question_id": 42,
+        "question": "Backgammon is a how many player game?",
+        "correct_answer": "2",
+        "wrong_answer1": "4",
+        "wrong_answer2": "3",
+        "wrong_answer3": "6"
+      },
+      {
+        "question_id": 54,
+        "question": "Gerry Adams is the president of what organization?",
+        "correct_answer": "Sinn Fein",
+        "wrong_answer1": "NASCAR",
+        "wrong_answer2": "PLO",
+        "wrong_answer3": "Greenpeace"
+      },
+      {
+        "question_id": 65,
+        "question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
+        "correct_answer": "0.05$",
+        "wrong_answer1": "0.1$",
+        "wrong_answer2": "0.75$",
+        "wrong_answer3": "5.00$"
+      },
+      {
+        "question_id": 74,
+        "question": "In bowling, how many pins must you knock down to get a strike?",
+        "correct_answer": "10",
+        "wrong_answer1": "12",
+        "wrong_answer2": "8",
+        "wrong_answer3": "9"
+      },
+      {
+        "question_id": 81,
+        "question": "In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?",
+        "correct_answer": "World Trade Center",
+        "wrong_answer1": "Statue of Liberty",
+        "wrong_answer2": "Empire State Building",
+        "wrong_answer3": "Chrysler Building"
+      },
+      {
+        "question_id": 82,
+        "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
+        "correct_answer": "Magic Carpet",
+        "wrong_answer1": "Winged Horse",
+        "wrong_answer2": "Hot Air Balloon",
+        "wrong_answer3": "Talking Car"
+      },
+      {
+        "question_id": 83,
+        "question": "In the Arthurian legend, who is married to Guinevere?",
+        "correct_answer": "King Arthur",
+        "wrong_answer1": "Merlin",
+        "wrong_answer2": "Lancelot",
+        "wrong_answer3": "Camelot"
+      },
+      {
+        "question_id": 84,
+        "question": "In the card game blackjack, how much are a queen and a king worth,together?",
+        "correct_answer": "20",
+        "wrong_answer1": "21",
+        "wrong_answer2": "11",
+        "wrong_answer3": "15"
+      },
+      {
+        "question_id": 85,
+        "question": "In the famous ballet 'The Nutcracker' who does the hero defeat?",
+        "correct_answer": "Rat King",
+        "wrong_answer1": "Marzipan",
+        "wrong_answer2": "Snow Queen",
+        "wrong_answer3": "Sugar Plum Fairy"
+      },
+      {
+        "question_id": 86,
+        "question": "In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?",
+        "correct_answer": "Matt Damon",
+        "wrong_answer1": "Jude Law",
+        "wrong_answer2": "Dustin Hoffman",
+        "wrong_answer3": "Ben Affleck"
+      },
+      {
+        "question_id": 87,
+        "question": "In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?",
+        "correct_answer": "Mini,Me",
+        "wrong_answer1": "Little Buddy",
+        "wrong_answer2": "Small Fry",
+        "wrong_answer3": "Dr. Evil Jr"
+      },
+      {
+        "question_id": 88,
+        "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
+        "correct_answer": "Wookie",
+        "wrong_answer1": "Boobie",
+        "wrong_answer2": "Klingon",
+        "wrong_answer3": "Woolie"
+      },
+      {
+        "question_id": 89,
+        "question": "In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?",
+        "correct_answer": "Passepartout",
+        "wrong_answer1": "Sancho Panza",
+        "wrong_answer2": "Renfield",
+        "wrong_answer3": "Savoir Faire"
+      },
+      {
+        "question_id": 90,
+        "question": "In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?",
+        "correct_answer": "Becky Thatcher",
+        "wrong_answer1": "Polly Finn",
+        "wrong_answer2": "Nancy Drew",
+        "wrong_answer3": "Emma Bovary"
+      },
+      {
+        "question_id": 91,
+        "question": "In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?",
+        "correct_answer": "A cow",
+        "wrong_answer1": "A hat",
+        "wrong_answer2": "A harp ",
+        "wrong_answer3": "A goose"
+      },
+      {
+        "question_id": 92,
+        "question": "In the television network abbreviation 'ABC' what does the 'A' stand for?",
+        "correct_answer": "American",
+        "wrong_answer1": "Audio",
+        "wrong_answer2": "Adult",
+        "wrong_answer3": "Artistic"
+      },
+      {
+        "question_id": 96,
+        "question": "In what country did Pokemon originate?",
+        "correct_answer": "Japan",
+        "wrong_answer1": "Canada",
+        "wrong_answer2": "United States",
+        "wrong_answer3": "China"
+      },
+      {
+        "question_id": 99,
+        "question": "In what forest did Robin Hood live?",
+        "correct_answer": "Sherwood Forest",
+        "wrong_answer1": "Nottingham Forest",
+        "wrong_answer2": "Petrified Forest",
+        "wrong_answer3": "Black Forest"
+      },
+      {
+        "question_id": 102,
+        "question": "In which of the following bands did Jimmy Page not play guitar?",
+        "correct_answer": "Bad Company",
+        "wrong_answer1": "The Firm",
+        "wrong_answer2": "Led Zeppelin",
+        "wrong_answer3": "The Yardbirds"
+      },
+      {
+        "question_id": 108,
+        "question": "On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?",
+        "correct_answer": "Proctologist",
+        "wrong_answer1": "Neurologist",
+        "wrong_answer2": "Cardiologist",
+        "wrong_answer3": "Ophthalmologist"
+      },
+      {
+        "question_id": 117,
+        "question": "Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
+        "correct_answer": "Paul McCartney",
+        "wrong_answer1": "John Lennon",
+        "wrong_answer2": "George Harrison",
+        "wrong_answer3": "Ringo Starr"
+      },
+      {
+        "question_id": 121,
+        "question": "The disco band ABBA comes from what country?",
+        "correct_answer": "Sweden",
+        "wrong_answer1": "Norway",
+        "wrong_answer2": "The Netherlands",
+        "wrong_answer3": "Switzerland"
+      },
+      {
+        "question_id": 129,
+        "question": "What animated character has a crush on the Little Red Haired Girl?",
+        "correct_answer": "Charlie Brown",
+        "wrong_answer1": "Richie Rich",
+        "wrong_answer2": "Bugs Bunny",
+        "wrong_answer3": "Jonny Quest"
+      },
+      {
+        "question_id": 131,
+        "question": "What are the names of Donald Duck's three nephews?",
+        "correct_answer": "Huey, Dewey, Louie",
+        "wrong_answer1": "Robbie, Chip, Ernie",
+        "wrong_answer2": "Alvin, Simon, Theodore",
+        "wrong_answer3": "Quick, Quack, Quock"
+      },
+      {
+        "question_id": 132,
+        "question": "What are the names of the two primary M&M's spokes,candies?",
+        "correct_answer": "Red and Yellow",
+        "wrong_answer1": "Mort and Marty",
+        "wrong_answer2": "Peanut and Plain",
+        "wrong_answer3": "They don't have names"
+      },
+      {
+        "question_id": 134,
+        "question": "What automobile company makes the Sonata?",
+        "correct_answer": "Hyundai",
+        "wrong_answer1": "Subaru",
+        "wrong_answer2": "Honda",
+        "wrong_answer3": "Toyota"
+      },
+      {
+        "question_id": 136,
+        "question": "What car company once manufactured and sold the 'Datsun' line of automobiles?",
+        "correct_answer": "Nissan",
+        "wrong_answer1": "Mazda",
+        "wrong_answer2": "Toyota",
+        "wrong_answer3": "Daihatsu"
+      },
+      {
+        "question_id": 137,
+        "question": "What cartoon character traveled in a time machine with Mr. Peabody?",
+        "correct_answer": "Sherman",
+        "wrong_answer1": "Underdog",
+        "wrong_answer2": "Jonny Quest",
+        "wrong_answer3": "Rocky"
+      },
+      {
+        "question_id": 139,
+        "question": "What children's storybook character believes that the sky is falling?",
+        "correct_answer": "Chicken Little",
+        "wrong_answer1": "Curious George",
+        "wrong_answer2": "Jack Sprat",
+        "wrong_answer3": "Tom Thumb"
+      },
+      {
+        "question_id": 140,
+        "question": "What city did the Beatles originally call home?",
+        "correct_answer": "Liverpool",
+        "wrong_answer1": "Leeds",
+        "wrong_answer2": "London",
+        "wrong_answer3": "Manchester"
+      },
+      {
+        "question_id": 142,
+        "question": "What color is cartoon character Marge Simpson's hair?",
+        "correct_answer": "Blue",
+        "wrong_answer1": "Brown",
+        "wrong_answer2": "Yellow",
+        "wrong_answer3": "Purple"
+      },
+      {
+        "question_id": 144,
+        "question": "What colors are the two circles in the MasterCard logo?",
+        "correct_answer": "Red and Yellow",
+        "wrong_answer1": "Black and Yellow",
+        "wrong_answer2": "Red and Blue",
+        "wrong_answer3": "Black and White"
+      },
+      {
+        "question_id": 145,
+        "question": "What company makes Oreo cookies?",
+        "correct_answer": "Nabisco",
+        "wrong_answer1": "General Mills",
+        "wrong_answer2": "Keebler",
+        "wrong_answer3": "Kraft"
+      },
+      {
+        "question_id": 146,
+        "question": "What company makes perfumes called 'Beautiful' and 'Pleasures'?",
+        "correct_answer": "Estee Lauder",
+        "wrong_answer1": "Ralph Lauren",
+        "wrong_answer2": "Elizabeth Arden",
+        "wrong_answer3": "Calvin Klein"
+      },
+      {
+        "question_id": 151,
+        "question": "What country is the rock group U2 from?",
+        "correct_answer": "Ireland",
+        "wrong_answer1": "England",
+        "wrong_answer2": "Australia",
+        "wrong_answer3": "Canada"
+      },
+      {
+        "question_id": 154,
+        "question": "Who's the Triplet from the portuguese tv show 'Por do Sol'?",
+        "correct_answer": "Madalena Almeida",
+        "wrong_answer1": "No�mia Costa",
+        "wrong_answer2": "Dalila Carmo",
+        "wrong_answer3": "Gabriela Barros"
+      },
+      {
+        "question_id": 160,
+        "question": "What do you call three consecutive strikes in bowling?",
+        "correct_answer": "Turkey",
+        "wrong_answer1": "Ace",
+        "wrong_answer2": "Mulligan",
+        "wrong_answer3": "Yahtzee"
+      },
+      {
+        "question_id": 167,
+        "question": "What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby,Doo'?",
+        "correct_answer": "Casey Kasem",
+        "wrong_answer1": "Rush Limbaugh",
+        "wrong_answer2": "Larry King",
+        "wrong_answer3": "Howard Stern"
+      },
+      {
+        "question_id": 168,
+        "question": "What French city is home to a famous international film festival each spring?",
+        "correct_answer": "Cannes",
+        "wrong_answer1": "Lyon",
+        "wrong_answer2": "Dijon",
+        "wrong_answer3": "Marseille"
+      },
+      {
+        "question_id": 169,
+        "question": "What Greek poet wrote 'The Iliad' and 'The Odyssey'?",
+        "correct_answer": "Homer",
+        "wrong_answer1": "Plato",
+        "wrong_answer2": "Socrates",
+        "wrong_answer3": "Sophocles"
+      },
+      {
+        "question_id": 170,
+        "question": "What is a balalaika?",
+        "correct_answer": "Musical instrument",
+        "wrong_answer1": "Type of hat",
+        "wrong_answer2": "Russian peasant",
+        "wrong_answer3": "Breed of shark"
+      },
+      {
+        "question_id": 171,
+        "question": "What is actor Antonio Banderas native language?",
+        "correct_answer": "Spanish",
+        "wrong_answer1": "French",
+        "wrong_answer2": "German",
+        "wrong_answer3": "Russian"
+      },
+      {
+        "question_id": 185,
+        "question": "What is the name of Mario's brother in the 'Super Mario' video games?",
+        "correct_answer": "Luigi",
+        "wrong_answer1": "Louis",
+        "wrong_answer2": "Zelda",
+        "wrong_answer3": "Luciano"
+      },
+      {
+        "question_id": 186,
+        "question": "What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?",
+        "correct_answer": "Swee' pea",
+        "wrong_answer1": "Suga' baby",
+        "wrong_answer2": "Lamikins",
+        "wrong_answer3": "Pun' kin"
+      },
+      {
+        "question_id": 187,
+        "question": "What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?",
+        "correct_answer": "Little Jimmy Bond",
+        "wrong_answer1": "Q",
+        "wrong_answer2": "M",
+        "wrong_answer3": "Dr. Evil"
+      },
+      {
+        "question_id": 203,
+        "question": "What is your astrological sign if you were born on Halloween?",
+        "correct_answer": "Scorpio",
+        "wrong_answer1": "Capricorn",
+        "wrong_answer2": "Libra",
+        "wrong_answer3": "Cancer"
+      },
+      {
+        "question_id": 206,
+        "question": "What kind of animal is cartoon character Tennessee Tuxedo?",
+        "correct_answer": "Penguin",
+        "wrong_answer1": "Cat",
+        "wrong_answer2": "Shunk",
+        "wrong_answer3": "Walrus"
+      },
+      {
+        "question_id": 210,
+        "question": "What literary work is the source of the quote 'Abandon every hope, all you who enter here'?",
+        "correct_answer": "The divine comedy",
+        "wrong_answer1": "Twilight",
+        "wrong_answer2": "Paradise Lost",
+        "wrong_answer3": "Beowulf"
+      },
+      {
+        "question_id": 215,
+        "question": "What new token was recently added to the Monopoly board game?",
+        "correct_answer": "Sack of money",
+        "wrong_answer1": "Telephone",
+        "wrong_answer2": "Globe",
+        "wrong_answer3": "Piggybank"
+      },
+      {
+        "question_id": 216,
+        "question": "What newspaper do Lois Lane and Clark Kent work for?",
+        "correct_answer": "The Daily Planet",
+        "wrong_answer1": "The Bugle",
+        "wrong_answer2": "The New York Times",
+        "wrong_answer3": "The Metropolis Tribune"
+      },
+      {
+        "question_id": 220,
+        "question": "What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?",
+        "correct_answer": "Hulk Hogan",
+        "wrong_answer1": "Dolph Lundgren",
+        "wrong_answer2": "Andre the Giant",
+        "wrong_answer3": "The Iron Sheik"
+      },
+      {
+        "question_id": 221,
+        "question": "What recording artist claims that sportscaster Marv Albert was a major influence on his sound?",
+        "correct_answer": "Chuck D",
+        "wrong_answer1": "Axl Rose",
+        "wrong_answer2": "Meat Loaf",
+        "wrong_answer3": "David Lee Roth"
+      },
+      {
+        "question_id": 222,
+        "question": "What substance was used for blood in the famous shower scene from the movie 'Psycho'?",
+        "correct_answer": "Chocolate Syrup",
+        "wrong_answer1": "Ketchup",
+        "wrong_answer2": "Red Wine",
+        "wrong_answer3": "Tomato Juice"
+      },
+      {
+        "question_id": 227,
+        "question": "What was Ludwig Van Beethoven's final symphony?",
+        "correct_answer": "9th",
+        "wrong_answer1": "10th",
+        "wrong_answer2": "11th",
+        "wrong_answer3": "12th"
+      },
+      {
+        "question_id": 231,
+        "question": "What was the title of Beethoven's only completed opera?",
+        "correct_answer": "Fidelio",
+        "wrong_answer1": "Faust",
+        "wrong_answer2": "The silence",
+        "wrong_answer3": "immortal beloved"
+      },
+      {
+        "question_id": 235,
+        "question": "When it first appeared on the Internet, amazon.com sold only what?",
+        "correct_answer": "Books",
+        "wrong_answer1": "Cars",
+        "wrong_answer2": "Compact Disks",
+        "wrong_answer3": "Clothes"
+      },
+      {
+        "question_id": 237,
+        "question": "Where did jazz great Sun Ra claim he was born?",
+        "correct_answer": "Saturn",
+        "wrong_answer1": "Atlantis",
+        "wrong_answer2": "Mount Olympus",
+        "wrong_answer3": "In a saxophone"
+      },
+      {
+        "question_id": 240,
+        "question": "Which actress played a pointy,eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?",
+        "correct_answer": "Kirstie Alley",
+        "wrong_answer1": "Helen Hunt",
+        "wrong_answer2": "Whoopi Goldberg",
+        "wrong_answer3": "Jennifer Grey"
+      },
+      {
+        "question_id": 241,
+        "question": "Which character on the TV show 'Friends' is a chef?",
+        "correct_answer": "Monica",
+        "wrong_answer1": "Rachel",
+        "wrong_answer2": "Ross",
+        "wrong_answer3": "Joey"
+      },
+      {
+        "question_id": 245,
+        "question": "Which of the following is not a TV cartoon duo?",
+        "correct_answer": "Simon and Garfunkel",
+        "wrong_answer1": "Tom and Jerry",
+        "wrong_answer2": "Chip and Dale",
+        "wrong_answer3": "Beavis and Butthead"
+      },
+      {
+        "question_id": 248,
+        "question": "Which of these animals shares its name with a luxury car?",
+        "correct_answer": "Jaguar",
+        "wrong_answer1": "Yak",
+        "wrong_answer2": "Gazelle",
+        "wrong_answer3": "Sloth"
+      },
+      {
+        "question_id": 254,
+        "question": "Which of these fashion designers was born in the United States?",
+        "correct_answer": "Donna Karen ",
+        "wrong_answer1": "Christian  Dior",
+        "wrong_answer2": "Helmut Lang",
+        "wrong_answer3": "Laura Ashley"
+      },
+      {
+        "question_id": 258,
+        "question": "Which of these games is not played with cards?",
+        "correct_answer": "Solitaire",
+        "wrong_answer1": "Craps",
+        "wrong_answer2": "Rummy",
+        "wrong_answer3": "Baccarat"
+      },
+      {
+        "question_id": 260,
+        "question": "Which of these horror films spawned the most sequels?",
+        "correct_answer": "Friday the 13th",
+        "wrong_answer1": "Halloween",
+        "wrong_answer2": "Jaws",
+        "wrong_answer3": "Scream"
+      },
+      {
+        "question_id": 264,
+        "question": "Which of these is an Italian Design firm?",
+        "correct_answer": "Fendi",
+        "wrong_answer1": "Escada",
+        "wrong_answer2": "Mainbocher",
+        "wrong_answer3": "Ghost"
+      },
+      {
+        "question_id": 282,
+        "question": "Which of these magazines does not focus on natural science?",
+        "correct_answer": "Tiger Beat",
+        "wrong_answer1": "Outside",
+        "wrong_answer2": "National Geographic",
+        "wrong_answer3": "Smithsonian"
+      },
+      {
+        "question_id": 284,
+        "question": "Which of these movies does not star Jim Carrey?",
+        "correct_answer": "Patch Adams",
+        "wrong_answer1": "The Truman Show",
+        "wrong_answer2": "Dumb and Dummer",
+        "wrong_answer3": "The Mask"
+      },
+      {
+        "question_id": 295,
+        "question": "Which of these toys answers questions?",
+        "correct_answer": "Magic 8 Ball",
+        "wrong_answer1": "Barbie",
+        "wrong_answer2": "Frisbee",
+        "wrong_answer3": "Slinky"
+      },
+      {
+        "question_id": 304,
+        "question": "Who composed the 'Moonlight Sonata'?",
+        "correct_answer": "Beethoven",
+        "wrong_answer1": "Bach",
+        "wrong_answer2": "Handel",
+        "wrong_answer3": "Mozart"
+      },
+      {
+        "question_id": 315,
+        "question": "The song 'The Man Who Sold the World' had a well,known cover by Nirvana, but who recorded the original?",
+        "correct_answer": "David Bowie",
+        "wrong_answer1": "The Beatles",
+        "wrong_answer2": "Tori Amos",
+        "wrong_answer3": "William Shatner"
+      }
     ],
     "Art_History": [
-        {
-            "question_id": 1,
-            "question": "Typically, how many keys are on a piano?",
-            "correct_answer": "88",
-            "wrong_answer1": "112",
-            "wrong_answer2": "96",
-            "wrong_answer3": "78"
-        },
-        {
-            "question_id": 2,
-            "question": "Which dictator killed the most people?",
-            "correct_answer": "Mao Zedong",
-            "wrong_answer1": "Joseph Stalin",
-            "wrong_answer2": "Adolf Hitler",
-            "wrong_answer3": "Kim Il Sung"
-        },
-        {
-            "question_id": 13,
-            "question": "Which of the following countries was not an axis power during World War II?",
-            "correct_answer": "Soviet Union",
-            "wrong_answer1": "Italy",
-            "wrong_answer2": "Germany",
-            "wrong_answer3": "Japan"
-        },
-        {
-            "question_id": 28,
-            "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
-            "correct_answer": "Caricature",
-            "wrong_answer1": "Still life",
-            "wrong_answer2": "Landscape",
-            "wrong_answer3": "Impressionism"
-        },
-        {
-            "question_id": 29,
-            "question": "A triptych is a work of art that is painted on how many panels?",
-            "correct_answer": "3",
-            "wrong_answer1": "2",
-            "wrong_answer2": "4",
-            "wrong_answer3": "5"
-        },
-        {
-            "question_id": 31,
-            "question": "According to Greek mythology, who was Apollo's twin sister?",
-            "correct_answer": "Artemis",
-            "wrong_answer1": "Aphrodite",
-            "wrong_answer2": "Athena",
-            "wrong_answer3": "Venus"
-        },
-        {
-            "question_id": 34,
-            "question": "According to the Bible, Moses and Aaron had a sister named what?",
-            "correct_answer": "Miriam",
-            "wrong_answer1": "Leah",
-            "wrong_answer2": "Ruth",
-            "wrong_answer3": "Jochebed"
-        },
-        {
-            "question_id": 35,
-            "question": "According to the popular saying, what should you do 'when in Rome'?",
-            "correct_answer": "As the Romans do",
-            "wrong_answer1": "Don't drink the water",
-            "wrong_answer2": "Watch your wallet",
-            "wrong_answer3": "See the Coliseum"
-        },
-        {
-            "question_id": 36,
-            "question": "According to the proverb, necessity is the mother of what?",
-            "correct_answer": "Invention",
-            "wrong_answer1": "Luck",
-            "wrong_answer2": "Problems",
-            "wrong_answer3": "Procrastination"
-        },
-        {
-            "question_id": 43,
-            "question": "By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?",
-            "correct_answer": "The Trinity",
-            "wrong_answer1": "The Triumvirate",
-            "wrong_answer2": "The Troika",
-            "wrong_answer3": "The Trio"
-        },
-        {
-            "question_id": 46,
-            "question": "During which war did US troops fight the Battle of New Orleans?",
-            "correct_answer": "War of 1812",
-            "wrong_answer1": "American Revolution",
-            "wrong_answer2": "Mexican War",
-            "wrong_answer3": "Civil War"
-        },
-        {
-            "question_id": 50,
-            "question": "For a man and woman on a date, 'dutch treat' means what?",
-            "correct_answer": "Each pays their own way",
-            "wrong_answer1": "The Dutch pay",
-            "wrong_answer2": "The man pays",
-            "wrong_answer3": "The woman pays"
-        },
-        {
-            "question_id": 53,
-            "question": "From whom does the Lutheran Church get its name?",
-            "correct_answer": "Martin Luther",
-            "wrong_answer1": "Martin Luther King Jr",
-            "wrong_answer2": "Luther Vandross",
-            "wrong_answer3": "Lex Luthor"
-        },
-        {
-            "question_id": 55,
-            "question": "Girls of what religious community traditionally wear bonnets?",
-            "correct_answer": "Amish",
-            "wrong_answer1": "Sikh",
-            "wrong_answer2": "Roman Catholic",
-            "wrong_answer3": "Christian"
-        },
-        {
-            "question_id": 60,
-            "question": "How many digits are in a standard Visa credit card number?",
-            "correct_answer": "16",
-            "wrong_answer1": "12",
-            "wrong_answer2": "20",
-            "wrong_answer3": "18"
-        },
-        {
-            "question_id": 66,
-            "question": "How long is Hanukkah?",
-            "correct_answer": "8 days",
-            "wrong_answer1": "one day",
-            "wrong_answer2": "five days ",
-            "wrong_answer3": "two weeks"
-        },
-        {
-            "question_id": 67,
-            "question": "If a piece of music is in 'common time' how many quarter notes are there per measure?",
-            "correct_answer": "4",
-            "wrong_answer1": "2",
-            "wrong_answer2": "8",
-            "wrong_answer3": "10"
-        },
-        {
-            "question_id": 79,
-            "question": "In Greek mythology, what is the name of Zeus' father?",
-            "correct_answer": "Cronus",
-            "wrong_answer1": "Apollo",
-            "wrong_answer2": "Prometheus",
-            "wrong_answer3": "Hercules"
-        },
-        {
-            "question_id": 97,
-            "question": "In what decade did Israel become an independent state?",
-            "correct_answer": "40s",
-            "wrong_answer1": "60s",
-            "wrong_answer2": "20s",
-            "wrong_answer3": "50s"
-        },
-        {
-            "question_id": 101,
-            "question": "In what year did the Great Depression begin?",
-            "correct_answer": "1929",
-            "wrong_answer1": "1884",
-            "wrong_answer2": "1922",
-            "wrong_answer3": "1954"
-        },
-        {
-            "question_id": 104,
-            "question": "In what war did Joan of Arc fight?",
-            "correct_answer": "Hundred Years' War",
-            "wrong_answer1": "Franco,Prussian War",
-            "wrong_answer2": "French Revolution",
-            "wrong_answer3": "French and Indian Wa"
-        },
-        {
-            "question_id": 126,
-            "question": "To create a tapestry, one must traditionally engage in what activity?",
-            "correct_answer": "Weaving",
-            "wrong_answer1": "Sculpting",
-            "wrong_answer2": "Baking",
-            "wrong_answer3": "Singing"
-        },
-        {
-            "question_id": 143,
-            "question": "What color is Uncle Sam's goatee?",
-            "correct_answer": "White",
-            "wrong_answer1": "Red",
-            "wrong_answer2": "Blue",
-            "wrong_answer3": "Blonde"
-        },
-        {
-            "question_id": 153,
-            "question": "What country was once ruled by shoguns?",
-            "correct_answer": "Japan",
-            "wrong_answer1": "China",
-            "wrong_answer2": "Taiwan",
-            "wrong_answer3": "North Korea"
-        },
-        {
-            "question_id": 180,
-            "question": "What is the last book of the New Testament?",
-            "correct_answer": "Revelation",
-            "wrong_answer1": "Judges",
-            "wrong_answer2": "Ruth",
-            "wrong_answer3": "John"
-        },
-        {
-            "question_id": 182,
-            "question": "What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?",
-            "correct_answer": "Armpit of the giant",
-            "wrong_answer1": "The lion's mane",
-            "wrong_answer2": "Eye of the archer",
-            "wrong_answer3": "Blossom on a shield"
-        },
-        {
-            "question_id": 184,
-            "question": "What is the name for the thin board used to mix colors while painting?",
-            "correct_answer": "Palette",
-            "wrong_answer1": "Shoe",
-            "wrong_answer2": "Easel",
-            "wrong_answer3": "Pestle"
-        },
-        {
-            "question_id": 189,
-            "question": "What is the name of the mountain where the mythological Greek gods live?",
-            "correct_answer": "Olympus",
-            "wrong_answer1": "Jupiter",
-            "wrong_answer2": "Valhalla",
-            "wrong_answer3": "Vesuvius"
-        },
-        {
-            "question_id": 191,
-            "question": "What is the name of the South African political party that was headed by Nelson Mandela?",
-            "correct_answer": "African National Congress",
-            "wrong_answer1": "South African Democrats",
-            "wrong_answer2": "Inkatha Freedom Party",
-            "wrong_answer3": "Aryan National Assembly"
-        },
-        {
-            "question_id": 195,
-            "question": "What is the proletariat?",
-            "correct_answer": "The working class",
-            "wrong_answer1": "The upper class",
-            "wrong_answer2": "The royalty",
-            "wrong_answer3": "The homeless"
-        },
-        {
-            "question_id": 201,
-            "question": "What is the traditional 20th wedding anniversary gift?",
-            "correct_answer": "China",
-            "wrong_answer1": "Paper",
-            "wrong_answer2": "Leather",
-            "wrong_answer3": "Silver"
-        },
-        {
-            "question_id": 209,
-            "question": "What liqueur is used to make a Pink Lady cocktail pink?",
-            "correct_answer": "Grenadine",
-            "wrong_answer1": "Pernod",
-            "wrong_answer2": "Triple sec",
-            "wrong_answer3": "Schnapps"
-        },
-        {
-            "question_id": 214,
-            "question": "What native empire controlled Large areas of South African Territory during the 19th century?",
-            "correct_answer": "Zulu",
-            "wrong_answer1": "Hutu",
-            "wrong_answer2": "Aztec",
-            "wrong_answer3": "Masai"
-        },
-        {
-            "question_id": 219,
-            "question": "What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?",
-            "correct_answer": "Inca",
-            "wrong_answer1": "Aztec",
-            "wrong_answer2": "Pueblo",
-            "wrong_answer3": "Apache"
-        },
-        {
-            "question_id": 223,
-            "question": "What term describes a tribe that has no set homeland and wanders from place to place?",
-            "correct_answer": "Nomadic",
-            "wrong_answer1": "Cathartic",
-            "wrong_answer2": "Pedantic",
-            "wrong_answer3": "Schematic"
-        },
-        {
-            "question_id": 224,
-            "question": "What term describes someone who does not believe in the existence of God?",
-            "correct_answer": "Atheist",
-            "wrong_answer1": "Deist",
-            "wrong_answer2": "Hedonist",
-            "wrong_answer3": "Agnostic"
-        },
-        {
-            "question_id": 226,
-            "question": "What type of substance is 'terra,cotta'?",
-            "correct_answer": "Ceramic",
-            "wrong_answer1": "Glass",
-            "wrong_answer2": "Metal",
-            "wrong_answer3": "Wood"
-        },
-        {
-            "question_id": 228,
-            "question": "What was the birth name of civil rights leader Malcolm X?",
-            "correct_answer": "Malcolm Little",
-            "wrong_answer1": "Malcolm Brown",
-            "wrong_answer2": "Malcolm Lloyd",
-            "wrong_answer3": "Malcolm Lincoln"
-        },
-        {
-            "question_id": 230,
-            "question": "What was the name of the first ship to sail around the world?",
-            "correct_answer": "Victoria",
-            "wrong_answer1": "Triton",
-            "wrong_answer2": "Magellan",
-            "wrong_answer3": "Elizabeth II"
-        },
-        {
-            "question_id": 236,
-            "question": "Where are fireworks first known to have been developed?",
-            "correct_answer": "China",
-            "wrong_answer1": "Italy",
-            "wrong_answer2": "Greece",
-            "wrong_answer3": "Great Britain"
-        },
-        {
-            "question_id": 239,
-            "question": "Where was the chicken first domesticated?",
-            "correct_answer": "India",
-            "wrong_answer1": "Peru",
-            "wrong_answer2": "Zaire",
-            "wrong_answer3": "France"
-        },
-        {
-            "question_id": 242,
-            "question": "Which of the following articles of clothing has a hood?",
-            "correct_answer": "Parka",
-            "wrong_answer1": "Kilt",
-            "wrong_answer2": "Sarong",
-            "wrong_answer3": "Lederhosen"
-        },
-        {
-            "question_id": 246,
-            "question": "Which of the following requires the use of at least two needles?",
-            "correct_answer": "Hand Knitting",
-            "wrong_answer1": "Macrame",
-            "wrong_answer2": "Braiding",
-            "wrong_answer3": "Crocheting"
-        },
-        {
-            "question_id": 251,
-            "question": "Which of these colors is a shade of blue?",
-            "correct_answer": "Periwinkle",
-            "wrong_answer1": "Ochre",
-            "wrong_answer2": "Mauve",
-            "wrong_answer3": "Ecru"
-        },
-        {
-            "question_id": 259,
-            "question": "Which of these foods is not traditionally considered kosher?",
-            "correct_answer": "Citrus Fruits",
-            "wrong_answer1": "Barley",
-            "wrong_answer2": "Chicken",
-            "wrong_answer3": "Shellfish"
-        },
-        {
-            "question_id": 263,
-            "question": "Which of these is a type of artwork consisting of pieces of wood inlaid in geometric patterns?",
-            "correct_answer": "Parquetry",
-            "wrong_answer1": "Marquetry",
-            "wrong_answer2": "Harquetry",
-            "wrong_answer3": "Sharquetry"
-        },
-        {
-            "question_id": 269,
-            "question": "Which of these is not a fabric?",
-            "correct_answer": "Celotex",
-            "wrong_answer1": "Tencel",
-            "wrong_answer2": "Seersucker",
-            "wrong_answer3": "Velveteen"
-        },
-        {
-            "question_id": 270,
-            "question": "Which of these is not a Hindu deity?",
-            "correct_answer": "Sanskrit",
-            "wrong_answer1": "Shiva",
-            "wrong_answer2": "Brahma",
-            "wrong_answer3": "Vishnu"
-        },
-        {
-            "question_id": 273,
-            "question": "Which of these is not a style of shoe?",
-            "correct_answer": "Gingham",
-            "wrong_answer1": "Brogan",
-            "wrong_answer2": "Espadrille",
-            "wrong_answer3": "Docksider"
-        },
-        {
-            "question_id": 285,
-            "question": "Which of these names has never belonged to a Pope?",
-            "correct_answer": "Lawrance",
-            "wrong_answer1": "Linus",
-            "wrong_answer2": "Lando",
-            "wrong_answer3": "Leo"
-        },
-        {
-            "question_id": 287,
-            "question": "Which of these painting tools has bristles on it?",
-            "correct_answer": "Brush",
-            "wrong_answer1": "Knife",
-            "wrong_answer2": "Palette",
-            "wrong_answer3": "Easel"
-        },
-        {
-            "question_id": 289,
-            "question": "Which of these people was buried in the Valley of the Kings?",
-            "correct_answer": "King Tut",
-            "wrong_answer1": "Juluis Caeser",
-            "wrong_answer2": "Elvis Presley",
-            "wrong_answer3": "Louis XIV"
-        },
-        {
-            "question_id": 301,
-            "question": "Which one of these world leaders was assassinated?",
-            "correct_answer": "Indira Gandhi",
-            "wrong_answer1": "Ferdinand Marcos",
-            "wrong_answer2": "Golda Meir",
-            "wrong_answer3": "Neville Chamberlain"
-        },
-        {
-            "question_id": 302,
-            "question": "Which Pope immediately preceded John Paul II?",
-            "correct_answer": "Jonh Paul I",
-            "wrong_answer1": "Paul VI",
-            "wrong_answer2": "Hank II",
-            "wrong_answer3": "John XXIII"
-        },
-        {
-            "question_id": 305,
-            "question": "Who is the mythological Roman goddess of flowers?",
-            "correct_answer": "Flora",
-            "wrong_answer1": "Diana",
-            "wrong_answer2": "Echo",
-            "wrong_answer3": "Niobe"
-        },
-        {
-            "question_id": 306,
-            "question": "Who or what was Big Bertha?",
-            "correct_answer": "A World War I Gun",
-            "wrong_answer1": "A comet",
-            "wrong_answer2": "A giant muppet",
-            "wrong_answer3": "A pro wrestling champion"
-        },
-        {
-            "question_id": 308,
-            "question": "Who was the longest reigning monarch in French history?",
-            "correct_answer": "Louis XIV",
-            "wrong_answer1": "Louis XIII",
-            "wrong_answer2": "Louis XV",
-            "wrong_answer3": "Louis XVI"
-        },
-        {
-            "question_id": 309,
-            "question": "Who was the mother of the Greek god Zeus?",
-            "correct_answer": "Rhea",
-            "wrong_answer1": "Hera",
-            "wrong_answer2": "Gaia",
-            "wrong_answer3": "Phoebe"
-        }
+      {
+        "question_id": 1,
+        "question": "Typically, how many keys are on a piano?",
+        "correct_answer": "88",
+        "wrong_answer1": "112",
+        "wrong_answer2": "96",
+        "wrong_answer3": "78"
+      },
+      {
+        "question_id": 2,
+        "question": "Which dictator killed the most people?",
+        "correct_answer": "Mao Zedong",
+        "wrong_answer1": "Joseph Stalin",
+        "wrong_answer2": "Adolf Hitler",
+        "wrong_answer3": "Kim Il Sung"
+      },
+      {
+        "question_id": 13,
+        "question": "Which of the following countries was not an axis power during World War II?",
+        "correct_answer": "Soviet Union",
+        "wrong_answer1": "Italy",
+        "wrong_answer2": "Germany",
+        "wrong_answer3": "Japan"
+      },
+      {
+        "question_id": 28,
+        "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+        "correct_answer": "Caricature",
+        "wrong_answer1": "Still life",
+        "wrong_answer2": "Landscape",
+        "wrong_answer3": "Impressionism"
+      },
+      {
+        "question_id": 29,
+        "question": "A triptych is a work of art that is painted on how many panels?",
+        "correct_answer": "3",
+        "wrong_answer1": "2",
+        "wrong_answer2": "4",
+        "wrong_answer3": "5"
+      },
+      {
+        "question_id": 31,
+        "question": "According to Greek mythology, who was Apollo's twin sister?",
+        "correct_answer": "Artemis",
+        "wrong_answer1": "Aphrodite",
+        "wrong_answer2": "Athena",
+        "wrong_answer3": "Venus"
+      },
+      {
+        "question_id": 34,
+        "question": "According to the Bible, Moses and Aaron had a sister named what?",
+        "correct_answer": "Miriam",
+        "wrong_answer1": "Leah",
+        "wrong_answer2": "Ruth",
+        "wrong_answer3": "Jochebed"
+      },
+      {
+        "question_id": 35,
+        "question": "According to the popular saying, what should you do 'when in Rome'?",
+        "correct_answer": "As the Romans do",
+        "wrong_answer1": "Don't drink the water",
+        "wrong_answer2": "Watch your wallet",
+        "wrong_answer3": "See the Coliseum"
+      },
+      {
+        "question_id": 36,
+        "question": "According to the proverb, necessity is the mother of what?",
+        "correct_answer": "Invention",
+        "wrong_answer1": "Luck",
+        "wrong_answer2": "Problems",
+        "wrong_answer3": "Procrastination"
+      },
+      {
+        "question_id": 43,
+        "question": "By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?",
+        "correct_answer": "The Trinity",
+        "wrong_answer1": "The Triumvirate",
+        "wrong_answer2": "The Troika",
+        "wrong_answer3": "The Trio"
+      },
+      {
+        "question_id": 46,
+        "question": "During which war did US troops fight the Battle of New Orleans?",
+        "correct_answer": "War of 1812",
+        "wrong_answer1": "American Revolution",
+        "wrong_answer2": "Mexican War",
+        "wrong_answer3": "Civil War"
+      },
+      {
+        "question_id": 50,
+        "question": "For a man and woman on a date, 'dutch treat' means what?",
+        "correct_answer": "Each pays their own way",
+        "wrong_answer1": "The Dutch pay",
+        "wrong_answer2": "The man pays",
+        "wrong_answer3": "The woman pays"
+      },
+      {
+        "question_id": 53,
+        "question": "From whom does the Lutheran Church get its name?",
+        "correct_answer": "Martin Luther",
+        "wrong_answer1": "Martin Luther King Jr",
+        "wrong_answer2": "Luther Vandross",
+        "wrong_answer3": "Lex Luthor"
+      },
+      {
+        "question_id": 55,
+        "question": "Girls of what religious community traditionally wear bonnets?",
+        "correct_answer": "Amish",
+        "wrong_answer1": "Sikh",
+        "wrong_answer2": "Roman Catholic",
+        "wrong_answer3": "Christian"
+      },
+      {
+        "question_id": 60,
+        "question": "How many digits are in a standard Visa credit card number?",
+        "correct_answer": "16",
+        "wrong_answer1": "12",
+        "wrong_answer2": "20",
+        "wrong_answer3": "18"
+      },
+      {
+        "question_id": 66,
+        "question": "How long is Hanukkah?",
+        "correct_answer": "8 days",
+        "wrong_answer1": "one day",
+        "wrong_answer2": "five days ",
+        "wrong_answer3": "two weeks"
+      },
+      {
+        "question_id": 67,
+        "question": "If a piece of music is in 'common time' how many quarter notes are there per measure?",
+        "correct_answer": "4",
+        "wrong_answer1": "2",
+        "wrong_answer2": "8",
+        "wrong_answer3": "10"
+      },
+      {
+        "question_id": 79,
+        "question": "In Greek mythology, what is the name of Zeus' father?",
+        "correct_answer": "Cronus",
+        "wrong_answer1": "Apollo",
+        "wrong_answer2": "Prometheus",
+        "wrong_answer3": "Hercules"
+      },
+      {
+        "question_id": 97,
+        "question": "In what decade did Israel become an independent state?",
+        "correct_answer": "40s",
+        "wrong_answer1": "60s",
+        "wrong_answer2": "20s",
+        "wrong_answer3": "50s"
+      },
+      {
+        "question_id": 101,
+        "question": "In what year did the Great Depression begin?",
+        "correct_answer": "1929",
+        "wrong_answer1": "1884",
+        "wrong_answer2": "1922",
+        "wrong_answer3": "1954"
+      },
+      {
+        "question_id": 104,
+        "question": "In what war did Joan of Arc fight?",
+        "correct_answer": "Hundred Years' War",
+        "wrong_answer1": "Franco,Prussian War",
+        "wrong_answer2": "French Revolution",
+        "wrong_answer3": "French and Indian Wa"
+      },
+      {
+        "question_id": 126,
+        "question": "To create a tapestry, one must traditionally engage in what activity?",
+        "correct_answer": "Weaving",
+        "wrong_answer1": "Sculpting",
+        "wrong_answer2": "Baking",
+        "wrong_answer3": "Singing"
+      },
+      {
+        "question_id": 143,
+        "question": "What color is Uncle Sam's goatee?",
+        "correct_answer": "White",
+        "wrong_answer1": "Red",
+        "wrong_answer2": "Blue",
+        "wrong_answer3": "Blonde"
+      },
+      {
+        "question_id": 153,
+        "question": "What country was once ruled by shoguns?",
+        "correct_answer": "Japan",
+        "wrong_answer1": "China",
+        "wrong_answer2": "Taiwan",
+        "wrong_answer3": "North Korea"
+      },
+      {
+        "question_id": 180,
+        "question": "What is the last book of the New Testament?",
+        "correct_answer": "Revelation",
+        "wrong_answer1": "Judges",
+        "wrong_answer2": "Ruth",
+        "wrong_answer3": "John"
+      },
+      {
+        "question_id": 182,
+        "question": "What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?",
+        "correct_answer": "Armpit of the giant",
+        "wrong_answer1": "The lion's mane",
+        "wrong_answer2": "Eye of the archer",
+        "wrong_answer3": "Blossom on a shield"
+      },
+      {
+        "question_id": 184,
+        "question": "What is the name for the thin board used to mix colors while painting?",
+        "correct_answer": "Palette",
+        "wrong_answer1": "Shoe",
+        "wrong_answer2": "Easel",
+        "wrong_answer3": "Pestle"
+      },
+      {
+        "question_id": 189,
+        "question": "What is the name of the mountain where the mythological Greek gods live?",
+        "correct_answer": "Olympus",
+        "wrong_answer1": "Jupiter",
+        "wrong_answer2": "Valhalla",
+        "wrong_answer3": "Vesuvius"
+      },
+      {
+        "question_id": 191,
+        "question": "What is the name of the South African political party that was headed by Nelson Mandela?",
+        "correct_answer": "African National Congress",
+        "wrong_answer1": "South African Democrats",
+        "wrong_answer2": "Inkatha Freedom Party",
+        "wrong_answer3": "Aryan National Assembly"
+      },
+      {
+        "question_id": 195,
+        "question": "What is the proletariat?",
+        "correct_answer": "The working class",
+        "wrong_answer1": "The upper class",
+        "wrong_answer2": "The royalty",
+        "wrong_answer3": "The homeless"
+      },
+      {
+        "question_id": 201,
+        "question": "What is the traditional 20th wedding anniversary gift?",
+        "correct_answer": "China",
+        "wrong_answer1": "Paper",
+        "wrong_answer2": "Leather",
+        "wrong_answer3": "Silver"
+      },
+      {
+        "question_id": 209,
+        "question": "What liqueur is used to make a Pink Lady cocktail pink?",
+        "correct_answer": "Grenadine",
+        "wrong_answer1": "Pernod",
+        "wrong_answer2": "Triple sec",
+        "wrong_answer3": "Schnapps"
+      },
+      {
+        "question_id": 214,
+        "question": "What native empire controlled Large areas of South African Territory during the 19th century?",
+        "correct_answer": "Zulu",
+        "wrong_answer1": "Hutu",
+        "wrong_answer2": "Aztec",
+        "wrong_answer3": "Masai"
+      },
+      {
+        "question_id": 219,
+        "question": "What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?",
+        "correct_answer": "Inca",
+        "wrong_answer1": "Aztec",
+        "wrong_answer2": "Pueblo",
+        "wrong_answer3": "Apache"
+      },
+      {
+        "question_id": 223,
+        "question": "What term describes a tribe that has no set homeland and wanders from place to place?",
+        "correct_answer": "Nomadic",
+        "wrong_answer1": "Cathartic",
+        "wrong_answer2": "Pedantic",
+        "wrong_answer3": "Schematic"
+      },
+      {
+        "question_id": 224,
+        "question": "What term describes someone who does not believe in the existence of God?",
+        "correct_answer": "Atheist",
+        "wrong_answer1": "Deist",
+        "wrong_answer2": "Hedonist",
+        "wrong_answer3": "Agnostic"
+      },
+      {
+        "question_id": 226,
+        "question": "What type of substance is 'terra,cotta'?",
+        "correct_answer": "Ceramic",
+        "wrong_answer1": "Glass",
+        "wrong_answer2": "Metal",
+        "wrong_answer3": "Wood"
+      },
+      {
+        "question_id": 228,
+        "question": "What was the birth name of civil rights leader Malcolm X?",
+        "correct_answer": "Malcolm Little",
+        "wrong_answer1": "Malcolm Brown",
+        "wrong_answer2": "Malcolm Lloyd",
+        "wrong_answer3": "Malcolm Lincoln"
+      },
+      {
+        "question_id": 230,
+        "question": "What was the name of the first ship to sail around the world?",
+        "correct_answer": "Victoria",
+        "wrong_answer1": "Triton",
+        "wrong_answer2": "Magellan",
+        "wrong_answer3": "Elizabeth II"
+      },
+      {
+        "question_id": 236,
+        "question": "Where are fireworks first known to have been developed?",
+        "correct_answer": "China",
+        "wrong_answer1": "Italy",
+        "wrong_answer2": "Greece",
+        "wrong_answer3": "Great Britain"
+      },
+      {
+        "question_id": 239,
+        "question": "Where was the chicken first domesticated?",
+        "correct_answer": "India",
+        "wrong_answer1": "Peru",
+        "wrong_answer2": "Zaire",
+        "wrong_answer3": "France"
+      },
+      {
+        "question_id": 242,
+        "question": "Which of the following articles of clothing has a hood?",
+        "correct_answer": "Parka",
+        "wrong_answer1": "Kilt",
+        "wrong_answer2": "Sarong",
+        "wrong_answer3": "Lederhosen"
+      },
+      {
+        "question_id": 246,
+        "question": "Which of the following requires the use of at least two needles?",
+        "correct_answer": "Hand Knitting",
+        "wrong_answer1": "Macrame",
+        "wrong_answer2": "Braiding",
+        "wrong_answer3": "Crocheting"
+      },
+      {
+        "question_id": 251,
+        "question": "Which of these colors is a shade of blue?",
+        "correct_answer": "Periwinkle",
+        "wrong_answer1": "Ochre",
+        "wrong_answer2": "Mauve",
+        "wrong_answer3": "Ecru"
+      },
+      {
+        "question_id": 259,
+        "question": "Which of these foods is not traditionally considered kosher?",
+        "correct_answer": "Citrus Fruits",
+        "wrong_answer1": "Barley",
+        "wrong_answer2": "Chicken",
+        "wrong_answer3": "Shellfish"
+      },
+      {
+        "question_id": 263,
+        "question": "Which of these is a type of artwork consisting of pieces of wood inlaid in geometric patterns?",
+        "correct_answer": "Parquetry",
+        "wrong_answer1": "Marquetry",
+        "wrong_answer2": "Harquetry",
+        "wrong_answer3": "Sharquetry"
+      },
+      {
+        "question_id": 269,
+        "question": "Which of these is not a fabric?",
+        "correct_answer": "Celotex",
+        "wrong_answer1": "Tencel",
+        "wrong_answer2": "Seersucker",
+        "wrong_answer3": "Velveteen"
+      },
+      {
+        "question_id": 270,
+        "question": "Which of these is not a Hindu deity?",
+        "correct_answer": "Sanskrit",
+        "wrong_answer1": "Shiva",
+        "wrong_answer2": "Brahma",
+        "wrong_answer3": "Vishnu"
+      },
+      {
+        "question_id": 273,
+        "question": "Which of these is not a style of shoe?",
+        "correct_answer": "Gingham",
+        "wrong_answer1": "Brogan",
+        "wrong_answer2": "Espadrille",
+        "wrong_answer3": "Docksider"
+      },
+      {
+        "question_id": 285,
+        "question": "Which of these names has never belonged to a Pope?",
+        "correct_answer": "Lawrance",
+        "wrong_answer1": "Linus",
+        "wrong_answer2": "Lando",
+        "wrong_answer3": "Leo"
+      },
+      {
+        "question_id": 287,
+        "question": "Which of these painting tools has bristles on it?",
+        "correct_answer": "Brush",
+        "wrong_answer1": "Knife",
+        "wrong_answer2": "Palette",
+        "wrong_answer3": "Easel"
+      },
+      {
+        "question_id": 289,
+        "question": "Which of these people was buried in the Valley of the Kings?",
+        "correct_answer": "King Tut",
+        "wrong_answer1": "Juluis Caeser",
+        "wrong_answer2": "Elvis Presley",
+        "wrong_answer3": "Louis XIV"
+      },
+      {
+        "question_id": 301,
+        "question": "Which one of these world leaders was assassinated?",
+        "correct_answer": "Indira Gandhi",
+        "wrong_answer1": "Ferdinand Marcos",
+        "wrong_answer2": "Golda Meir",
+        "wrong_answer3": "Neville Chamberlain"
+      },
+      {
+        "question_id": 302,
+        "question": "Which Pope immediately preceded John Paul II?",
+        "correct_answer": "Jonh Paul I",
+        "wrong_answer1": "Paul VI",
+        "wrong_answer2": "Hank II",
+        "wrong_answer3": "John XXIII"
+      },
+      {
+        "question_id": 305,
+        "question": "Who is the mythological Roman goddess of flowers?",
+        "correct_answer": "Flora",
+        "wrong_answer1": "Diana",
+        "wrong_answer2": "Echo",
+        "wrong_answer3": "Niobe"
+      },
+      {
+        "question_id": 306,
+        "question": "Who or what was Big Bertha?",
+        "correct_answer": "A World War I Gun",
+        "wrong_answer1": "A comet",
+        "wrong_answer2": "A giant muppet",
+        "wrong_answer3": "A pro wrestling champion"
+      },
+      {
+        "question_id": 308,
+        "question": "Who was the longest reigning monarch in French history?",
+        "correct_answer": "Louis XIV",
+        "wrong_answer1": "Louis XIII",
+        "wrong_answer2": "Louis XV",
+        "wrong_answer3": "Louis XVI"
+      },
+      {
+        "question_id": 309,
+        "question": "Who was the mother of the Greek god Zeus?",
+        "correct_answer": "Rhea",
+        "wrong_answer1": "Hera",
+        "wrong_answer2": "Gaia",
+        "wrong_answer3": "Phoebe"
+      }
     ],
     "Sports": [
-        {
-            "question_id": 5,
-            "question": "Which driver has been Formula 1 world champion for 7 times?",
-            "correct_answer": "Michael Schumacher",
-            "wrong_answer1": "Ayrton Senna",
-            "wrong_answer2": "Fernando Alonso",
-            "wrong_answer3": "Sebastian Vettel"
-        },
-        {
-            "question_id": 7,
-            "question": "Which team was the 2014,2015 NBA Champions?",
-            "correct_answer": "Golden State Warriors",
-            "wrong_answer1": "Cleveland Cavaliers",
-            "wrong_answer2": "Chicago Bulls",
-            "wrong_answer3": "Atlanta Hawks"
-        },
-        {
-            "question_id": 9,
-            "question": "What national team won the 2016 edition of UEFA European Championship?",
-            "correct_answer": "Portugal",
-            "wrong_answer1": "France",
-            "wrong_answer2": "Germany",
-            "wrong_answer3": "England"
-        },
-        {
-            "question_id": 23,
-            "question": "When was the FC Schalke 04 founded?",
-            "correct_answer": "1904",
-            "wrong_answer1": "1908",
-            "wrong_answer2": "2004",
-            "wrong_answer3": "1928"
-        },
-        {
-            "question_id": 24,
-            "question": "In Canadian football, scoring a rouge is worth how many points?",
-            "correct_answer": "1",
-            "wrong_answer1": "2",
-            "wrong_answer2": "3",
-            "wrong_answer3": "4"
-        },
-        {
-            "question_id": 70,
-            "question": "If you are 'riding fakie' inside a 'half pipe' what are you probably doing?",
-            "correct_answer": "Snowboarding",
-            "wrong_answer1": "Skiing",
-            "wrong_answer2": "Biking",
-            "wrong_answer3": "Surfing"
-        },
-        {
-            "question_id": 72,
-            "question": "In a game with no wild cards, what is the highest possible poker hand",
-            "correct_answer": "Royal Flush ",
-            "wrong_answer1": "Full House",
-            "wrong_answer2": "Four of a kind",
-            "wrong_answer3": "Straight Flush"
-        },
-        {
-            "question_id": 78,
-            "question": "In golf, what is one stroke over par called?",
-            "correct_answer": "Bogey",
-            "wrong_answer1": "Eagle",
-            "wrong_answer2": "Dormy",
-            "wrong_answer3": "Birdie"
-        },
-        {
-            "question_id": 80,
-            "question": "In football, which player is allowed to use his or her hands in the field of play?",
-            "correct_answer": "Goalkeeper",
-            "wrong_answer1": "Sweeper",
-            "wrong_answer2": "Center",
-            "wrong_answer3": "Midfielder"
-        },
-        {
-            "question_id": 95,
-            "question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
-            "correct_answer": "Sweden",
-            "wrong_answer1": "United States",
-            "wrong_answer2": "Turkey",
-            "wrong_answer3": "Israel"
-        },
-        {
-            "question_id": 100,
-            "question": "In what sport do you find 'steel cage' matches?",
-            "correct_answer": "Pro Wrestling",
-            "wrong_answer1": "Fencing",
-            "wrong_answer2": "Boxing",
-            "wrong_answer3": "Karate"
-        },
-        {
-            "question_id": 103,
-            "question": "In which of these sports do competitors use a 'funny car'?",
-            "correct_answer": "Drag racing",
-            "wrong_answer1": "Gymnastics",
-            "wrong_answer2": "Dogsledding",
-            "wrong_answer3": "Supercross"
-        },
-        {
-            "question_id": 124,
-            "question": "The sport of judo comes from what Asian country?",
-            "correct_answer": "Japan",
-            "wrong_answer1": "Vietnam",
-            "wrong_answer2": "Laos",
-            "wrong_answer3": "Philippines"
-        },
-        {
-            "question_id": 166,
-            "question": "What exercise apparatus is used during a 'Spinning' class?",
-            "correct_answer": "Stationary bicycle",
-            "wrong_answer1": "Treadmill",
-            "wrong_answer2": "Barbells",
-            "wrong_answer3": "Rowing machine"
-        },
-        {
-            "question_id": 265,
-            "question": "Which of these is another name for a golf course?",
-            "correct_answer": "Links",
-            "wrong_answer1": "Steps",
-            "wrong_answer2": "Suite",
-            "wrong_answer3": "Pitch"
-        },
-        {
-            "question_id": 310,
-            "question": "Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
-            "correct_answer": "Bobby Riggs",
-            "wrong_answer1": "Jimmy Connors",
-            "wrong_answer2": "Pete Sampras",
-            "wrong_answer3": "John McEnroe"
-        },
-        {
-            "question_id": 319,
-            "question": "Which country hosted the 2018 FIFA World Cup?",
-            "correct_answer": "Russia",
-            "wrong_answer1": "United States",
-            "wrong_answer2": "Germany ",
-            "wrong_answer3": "South Africa"
-        },
-        {
-            "question_id": 320,
-            "question": "\"Who was the first British driver to win what is considered motor racing's \"\"Triple Crown\"\"?\"",
-            "correct_answer": "Graham hill",
-            "wrong_answer1": "Tom Jones",
-            "wrong_answer2": "Bruce Kessler",
-            "wrong_answer3": "Thomas Monarch"
-        },
-        {
-            "question_id": 321,
-            "question": "he names Bjarne Riis, Jan Ullrich, Francois Faber, Stephen Roche, Lance Armstrong, and Philippe Thys are associated with which sporting event?",
-            "correct_answer": "Tour de France",
-            "wrong_answer1": "Olympic Weightlifting",
-            "wrong_answer2": "Austrian Alps skiing",
-            "wrong_answer3": "�FIFA Cup (MVPs)"
-        },
-        {
-            "question_id": 322,
-            "question": "What is the name of the Norwegian figure skater who won Gold in the 1928, 1932, and 1936 Winter Olympics?",
-            "correct_answer": "Sonja Henie",
-            "wrong_answer1": "Magda Julin",
-            "wrong_answer2": "Svea Nor�n",
-            "wrong_answer3": "�Cecilia Colledge"
-        },
-        {
-            "question_id": 323,
-            "question": "How many gold medals did the USA win at the 1980 Moscow Olympic Games?",
-            "correct_answer": "0",
-            "wrong_answer1": "1",
-            "wrong_answer2": "46",
-            "wrong_answer3": "64"
-        },
-        {
-            "question_id": 324,
-            "question": "Where was curling originated?",
-            "correct_answer": "Scotland",
-            "wrong_answer1": "Canada",
-            "wrong_answer2": "Ireland",
-            "wrong_answer3": "Iceland"
-        },
-        {
-            "question_id": 325,
-            "question": "Which Swedish footballer once had a clause inserted into his Premier League contract that prohibited him from travelling into space?",
-            "correct_answer": "Stefan Schwarz",
-            "wrong_answer1": "Freddie Ljungberg",
-            "wrong_answer2": "Zlatan Ibrahimovic",
-            "wrong_answer3": "Sebastian Larsson�"
-        },
-        {
-            "question_id": 326,
-            "question": "In which year was the first European Championship held?",
-            "correct_answer": "1960",
-            "wrong_answer1": "1970",
-            "wrong_answer2": "1968",
-            "wrong_answer3": "1974"
-        },
-        {
-            "question_id": 327,
-            "question": "Germany have won the World Cup four times, but how many times have they done so as a unified country?",
-            "correct_answer": "1",
-            "wrong_answer1": "3",
-            "wrong_answer2": "2",
-            "wrong_answer3": "4"
-        },
-        {
-            "question_id": 328,
-            "question": "Which country has won the most World Cups?",
-            "correct_answer": "Brazil",
-            "wrong_answer1": "Germany ",
-            "wrong_answer2": "England",
-            "wrong_answer3": "Italy"
-        },
-        {
-            "question_id": 329,
-            "question": "What is the only sport to be played on the moon?",
-            "correct_answer": "Golf",
-            "wrong_answer1": "Football",
-            "wrong_answer2": "Chess",
-            "wrong_answer3": "Baseball"
-        },
-        {
-            "question_id": 330,
-            "question": "What's the diameter of a basketball hoop?",
-            "correct_answer": "46cm",
-            "wrong_answer1": "50cm",
-            "wrong_answer2": "44cm",
-            "wrong_answer3": "40cm"
-        },
-        {
-            "question_id": 331,
-            "question": "The Olympics are held every how many years?",
-            "correct_answer": "4",
-            "wrong_answer1": "6",
-            "wrong_answer2": "8",
-            "wrong_answer3": "2"
-        },
-        {
-            "question_id": 332,
-            "question": "In the 1971 Olympics, Nadia Comaneci was the first gymnast to score a perfect score. What country was she representing?",
-            "correct_answer": "Romania",
-            "wrong_answer1": "Russia",
-            "wrong_answer2": "Finland",
-            "wrong_answer3": "United States"
-        },
-        {
-            "question_id": 333,
-            "question": "Which driver has been the last to be a Formula 1 World Champion for 7 times?",
-            "correct_answer": "Lewis Hamilton",
-            "wrong_answer1": "Sebastian Vettel",
-            "wrong_answer2": "Michael Schumacher",
-            "wrong_answer3": "Ayrton Senna"
-        }
+      {
+        "question_id": 5,
+        "question": "Which driver has been Formula 1 world champion for 7 times?",
+        "correct_answer": "Michael Schumacher",
+        "wrong_answer1": "Ayrton Senna",
+        "wrong_answer2": "Fernando Alonso",
+        "wrong_answer3": "Sebastian Vettel"
+      },
+      {
+        "question_id": 7,
+        "question": "Which team was the 2014,2015 NBA Champions?",
+        "correct_answer": "Golden State Warriors",
+        "wrong_answer1": "Cleveland Cavaliers",
+        "wrong_answer2": "Chicago Bulls",
+        "wrong_answer3": "Atlanta Hawks"
+      },
+      {
+        "question_id": 9,
+        "question": "What national team won the 2016 edition of UEFA European Championship?",
+        "correct_answer": "Portugal",
+        "wrong_answer1": "France",
+        "wrong_answer2": "Germany",
+        "wrong_answer3": "England"
+      },
+      {
+        "question_id": 23,
+        "question": "When was the FC Schalke 04 founded?",
+        "correct_answer": "1904",
+        "wrong_answer1": "1908",
+        "wrong_answer2": "2004",
+        "wrong_answer3": "1928"
+      },
+      {
+        "question_id": 24,
+        "question": "In Canadian football, scoring a rouge is worth how many points?",
+        "correct_answer": "1",
+        "wrong_answer1": "2",
+        "wrong_answer2": "3",
+        "wrong_answer3": "4"
+      },
+      {
+        "question_id": 70,
+        "question": "If you are 'riding fakie' inside a 'half pipe' what are you probably doing?",
+        "correct_answer": "Snowboarding",
+        "wrong_answer1": "Skiing",
+        "wrong_answer2": "Biking",
+        "wrong_answer3": "Surfing"
+      },
+      {
+        "question_id": 72,
+        "question": "In a game with no wild cards, what is the highest possible poker hand",
+        "correct_answer": "Royal Flush ",
+        "wrong_answer1": "Full House",
+        "wrong_answer2": "Four of a kind",
+        "wrong_answer3": "Straight Flush"
+      },
+      {
+        "question_id": 78,
+        "question": "In golf, what is one stroke over par called?",
+        "correct_answer": "Bogey",
+        "wrong_answer1": "Eagle",
+        "wrong_answer2": "Dormy",
+        "wrong_answer3": "Birdie"
+      },
+      {
+        "question_id": 80,
+        "question": "In football, which player is allowed to use his or her hands in the field of play?",
+        "correct_answer": "Goalkeeper",
+        "wrong_answer1": "Sweeper",
+        "wrong_answer2": "Center",
+        "wrong_answer3": "Midfielder"
+      },
+      {
+        "question_id": 95,
+        "question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
+        "correct_answer": "Sweden",
+        "wrong_answer1": "United States",
+        "wrong_answer2": "Turkey",
+        "wrong_answer3": "Israel"
+      },
+      {
+        "question_id": 100,
+        "question": "In what sport do you find 'steel cage' matches?",
+        "correct_answer": "Pro Wrestling",
+        "wrong_answer1": "Fencing",
+        "wrong_answer2": "Boxing",
+        "wrong_answer3": "Karate"
+      },
+      {
+        "question_id": 103,
+        "question": "In which of these sports do competitors use a 'funny car'?",
+        "correct_answer": "Drag racing",
+        "wrong_answer1": "Gymnastics",
+        "wrong_answer2": "Dogsledding",
+        "wrong_answer3": "Supercross"
+      },
+      {
+        "question_id": 124,
+        "question": "The sport of judo comes from what Asian country?",
+        "correct_answer": "Japan",
+        "wrong_answer1": "Vietnam",
+        "wrong_answer2": "Laos",
+        "wrong_answer3": "Philippines"
+      },
+      {
+        "question_id": 166,
+        "question": "What exercise apparatus is used during a 'Spinning' class?",
+        "correct_answer": "Stationary bicycle",
+        "wrong_answer1": "Treadmill",
+        "wrong_answer2": "Barbells",
+        "wrong_answer3": "Rowing machine"
+      },
+      {
+        "question_id": 265,
+        "question": "Which of these is another name for a golf course?",
+        "correct_answer": "Links",
+        "wrong_answer1": "Steps",
+        "wrong_answer2": "Suite",
+        "wrong_answer3": "Pitch"
+      },
+      {
+        "question_id": 310,
+        "question": "Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
+        "correct_answer": "Bobby Riggs",
+        "wrong_answer1": "Jimmy Connors",
+        "wrong_answer2": "Pete Sampras",
+        "wrong_answer3": "John McEnroe"
+      },
+      {
+        "question_id": 319,
+        "question": "Which country hosted the 2018 FIFA World Cup?",
+        "correct_answer": "Russia",
+        "wrong_answer1": "United States",
+        "wrong_answer2": "Germany ",
+        "wrong_answer3": "South Africa"
+      },
+      {
+        "question_id": 320,
+        "question": "\"Who was the first British driver to win what is considered motor racing's \"\"Triple Crown\"\"?\"",
+        "correct_answer": "Graham hill",
+        "wrong_answer1": "Tom Jones",
+        "wrong_answer2": "Bruce Kessler",
+        "wrong_answer3": "Thomas Monarch"
+      },
+      {
+        "question_id": 321,
+        "question": "he names Bjarne Riis, Jan Ullrich, Francois Faber, Stephen Roche, Lance Armstrong, and Philippe Thys are associated with which sporting event?",
+        "correct_answer": "Tour de France",
+        "wrong_answer1": "Olympic Weightlifting",
+        "wrong_answer2": "Austrian Alps skiing",
+        "wrong_answer3": "�FIFA Cup (MVPs)"
+      },
+      {
+        "question_id": 322,
+        "question": "What is the name of the Norwegian figure skater who won Gold in the 1928, 1932, and 1936 Winter Olympics?",
+        "correct_answer": "Sonja Henie",
+        "wrong_answer1": "Magda Julin",
+        "wrong_answer2": "Svea Nor�n",
+        "wrong_answer3": "�Cecilia Colledge"
+      },
+      {
+        "question_id": 323,
+        "question": "How many gold medals did the USA win at the 1980 Moscow Olympic Games?",
+        "correct_answer": "0",
+        "wrong_answer1": "1",
+        "wrong_answer2": "46",
+        "wrong_answer3": "64"
+      },
+      {
+        "question_id": 324,
+        "question": "Where was curling originated?",
+        "correct_answer": "Scotland",
+        "wrong_answer1": "Canada",
+        "wrong_answer2": "Ireland",
+        "wrong_answer3": "Iceland"
+      },
+      {
+        "question_id": 325,
+        "question": "Which Swedish footballer once had a clause inserted into his Premier League contract that prohibited him from travelling into space?",
+        "correct_answer": "Stefan Schwarz",
+        "wrong_answer1": "Freddie Ljungberg",
+        "wrong_answer2": "Zlatan Ibrahimovic",
+        "wrong_answer3": "Sebastian Larsson�"
+      },
+      {
+        "question_id": 326,
+        "question": "In which year was the first European Championship held?",
+        "correct_answer": "1960",
+        "wrong_answer1": "1970",
+        "wrong_answer2": "1968",
+        "wrong_answer3": "1974"
+      },
+      {
+        "question_id": 327,
+        "question": "Germany have won the World Cup four times, but how many times have they done so as a unified country?",
+        "correct_answer": "1",
+        "wrong_answer1": "3",
+        "wrong_answer2": "2",
+        "wrong_answer3": "4"
+      },
+      {
+        "question_id": 328,
+        "question": "Which country has won the most World Cups?",
+        "correct_answer": "Brazil",
+        "wrong_answer1": "Germany ",
+        "wrong_answer2": "England",
+        "wrong_answer3": "Italy"
+      },
+      {
+        "question_id": 329,
+        "question": "What is the only sport to be played on the moon?",
+        "correct_answer": "Golf",
+        "wrong_answer1": "Football",
+        "wrong_answer2": "Chess",
+        "wrong_answer3": "Baseball"
+      },
+      {
+        "question_id": 330,
+        "question": "What's the diameter of a basketball hoop?",
+        "correct_answer": "46cm",
+        "wrong_answer1": "50cm",
+        "wrong_answer2": "44cm",
+        "wrong_answer3": "40cm"
+      },
+      {
+        "question_id": 331,
+        "question": "The Olympics are held every how many years?",
+        "correct_answer": "4",
+        "wrong_answer1": "6",
+        "wrong_answer2": "8",
+        "wrong_answer3": "2"
+      },
+      {
+        "question_id": 332,
+        "question": "In the 1971 Olympics, Nadia Comaneci was the first gymnast to score a perfect score. What country was she representing?",
+        "correct_answer": "Romania",
+        "wrong_answer1": "Russia",
+        "wrong_answer2": "Finland",
+        "wrong_answer3": "United States"
+      },
+      {
+        "question_id": 333,
+        "question": "Which driver has been the last to be a Formula 1 World Champion for 7 times?",
+        "correct_answer": "Lewis Hamilton",
+        "wrong_answer1": "Sebastian Vettel",
+        "wrong_answer2": "Michael Schumacher",
+        "wrong_answer3": "Ayrton Senna"
+      }
     ],
     "Geography": [
-        {
-            "question_id": 11,
-            "question": "How many stars are featured on New Zealand's flag?",
-            "correct_answer": "4",
-            "wrong_answer1": "5",
-            "wrong_answer2": "2",
-            "wrong_answer3": "0"
-        },
-        {
-            "question_id": 20,
-            "question": "How many rivers are in Saudi Arabia",
-            "correct_answer": "0",
-            "wrong_answer1": "2",
-            "wrong_answer2": "5",
-            "wrong_answer3": "1"
-        },
-        {
-            "question_id": 27,
-            "question": "A pita is a type of what?",
-            "correct_answer": "Bread",
-            "wrong_answer1": "Chick",
-            "wrong_answer2": "Friend bean dip",
-            "wrong_answer3": "Turkish dip"
-        },
-        {
-            "question_id": 32,
-            "question": "According to legend, if you give someone the 'evil eye' what are you doing?",
-            "correct_answer": "Cursing them",
-            "wrong_answer1": "Blessing a child",
-            "wrong_answer2": "Passing time",
-            "wrong_answer3": "Counting money"
-        },
-        {
-            "question_id": 38,
-            "question": "After Prince Charles, who is next in line to be the king of England?",
-            "correct_answer": "Prince William",
-            "wrong_answer1": "Prince Andrew",
-            "wrong_answer2": "Prince Edward",
-            "wrong_answer3": "Fresh Prince"
-        },
-        {
-            "question_id": 44,
-            "question": "Cheddar cheese got its name from a village in what country?",
-            "correct_answer": "England",
-            "wrong_answer1": "France",
-            "wrong_answer2": "Switzerland",
-            "wrong_answer3": "Denmark"
-        },
-        {
-            "question_id": 45,
-            "question": "Cheese is a necessary ingredient in which of these dishes?",
-            "correct_answer": "Veal parmigiano",
-            "wrong_answer1": "Sushi",
-            "wrong_answer2": "French fries",
-            "wrong_answer3": "Chicken pot pie"
-        },
-        {
-            "question_id": 51,
-            "question": "From 1971 to 1997, the Democratic Republic of Congo was known as what?",
-            "correct_answer": "Rhodesia",
-            "wrong_answer1": "Belgian Congo",
-            "wrong_answer2": "Angola",
-            "wrong_answer3": "Zaire"
-        },
-        {
-            "question_id": 64,
-            "question": "How many stars are on the American flag?",
-            "correct_answer": "50",
-            "wrong_answer1": "52",
-            "wrong_answer2": "40",
-            "wrong_answer3": "48"
-        },
-        {
-            "question_id": 75,
-            "question": "In British currency, how many pence make a pound?",
-            "correct_answer": "100",
-            "wrong_answer1": "10",
-            "wrong_answer2": "1000",
-            "wrong_answer3": "4"
-        },
-        {
-            "question_id": 77,
-            "question": "In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?",
-            "correct_answer": "Cheese",
-            "wrong_answer1": "Fruit",
-            "wrong_answer2": "Whipped Cream",
-            "wrong_answer3": "Gravy"
-        },
-        {
-            "question_id": 94,
-            "question": "In what country are police officers referred to as 'bobbies'?",
-            "correct_answer": "England",
-            "wrong_answer1": "France",
-            "wrong_answer2": "Greece",
-            "wrong_answer3": "Israel"
-        },
-        {
-            "question_id": 107,
-            "question": "Mohair is made from the fleece of what animal?",
-            "correct_answer": "Goat",
-            "wrong_answer1": "Mole",
-            "wrong_answer2": "Llama",
-            "wrong_answer3": "Camel"
-        },
-        {
-            "question_id": 111,
-            "question": "On what body part should you wear a babushka?",
-            "correct_answer": "Head",
-            "wrong_answer1": "Hands",
-            "wrong_answer2": "Legs",
-            "wrong_answer3": "Foot"
-        },
-        {
-            "question_id": 114,
-            "question": "People are supposed to drive on the left hand side of the road in which country?",
-            "correct_answer": "England",
-            "wrong_answer1": "France",
-            "wrong_answer2": "Italy",
-            "wrong_answer3": "Germany"
-        },
-        {
-            "question_id": 120,
-            "question": "The dance known as the 'fandango' is of what origin?",
-            "correct_answer": "Spanish",
-            "wrong_answer1": "Native American",
-            "wrong_answer2": "African",
-            "wrong_answer3": "Australian"
-        },
-        {
-            "question_id": 125,
-            "question": "The term 'chili con carne' refers to chili with what?",
-            "correct_answer": "Meat",
-            "wrong_answer1": "Cheese",
-            "wrong_answer2": "Beans",
-            "wrong_answer3": "Chili peppers"
-        },
-        {
-            "question_id": 127,
-            "question": "What animal is considered sacred in India?",
-            "correct_answer": "Cow",
-            "wrong_answer1": "Dog",
-            "wrong_answer2": "Pig",
-            "wrong_answer3": "Chicken"
-        },
-        {
-            "question_id": 128,
-            "question": "What animal represents the year 2000 on the Chinese calendar?",
-            "correct_answer": "Dragon",
-            "wrong_answer1": "Rabbit",
-            "wrong_answer2": "Tiger",
-            "wrong_answer3": "Monkey"
-        },
-        {
-            "question_id": 133,
-            "question": "What article of clothing best describes a 'pashmina'?",
-            "correct_answer": "Scarf",
-            "wrong_answer1": "Shoes",
-            "wrong_answer2": "Pants",
-            "wrong_answer3": "Underwear"
-        },
-        {
-            "question_id": 148,
-            "question": "What country does Bordeaux wine come from?",
-            "correct_answer": "France",
-            "wrong_answer1": "Spain",
-            "wrong_answer2": "Australia",
-            "wrong_answer3": "Italy"
-        },
-        {
-            "question_id": 149,
-            "question": "What country gave us the fashionable headgear called the beret?",
-            "correct_answer": "France",
-            "wrong_answer1": "Japan",
-            "wrong_answer2": "Italy",
-            "wrong_answer3": "Greece"
-        },
-        {
-            "question_id": 150,
-            "question": "What country is famous for making wooden shoes?",
-            "correct_answer": "The Netherlands",
-            "wrong_answer1": "Russia",
-            "wrong_answer2": "Portugal",
-            "wrong_answer3": "Thailand"
-        },
-        {
-            "question_id": 152,
-            "question": "What ingredient is used in the portuguese dish 'Bacalhau � Z� do Pipo'? ",
-            "correct_answer": "Mayo",
-            "wrong_answer1": "Curry",
-            "wrong_answer2": "Pesto",
-            "wrong_answer3": "Cabbage"
-        },
-        {
-            "question_id": 176,
-            "question": "What is the capital of New Zealand?",
-            "correct_answer": "Wellington",
-            "wrong_answer1": "Sydney",
-            "wrong_answer2": "Melbourne",
-            "wrong_answer3": "Auckland"
-        },
-        {
-            "question_id": 192,
-            "question": "What is the name of the Swedish company that specializes in affordable furniture?",
-            "correct_answer": "IKEA",
-            "wrong_answer1": "Saab",
-            "wrong_answer2": "Electrolux",
-            "wrong_answer3": "Gambro"
-        },
-        {
-            "question_id": 193,
-            "question": "What is the national animal of Australia?",
-            "correct_answer": "Kangaroo",
-            "wrong_answer1": "Koala",
-            "wrong_answer2": "Platypus",
-            "wrong_answer3": "Alligator"
-        },
-        {
-            "question_id": 212,
-            "question": "What Mexican holiday takes place on May 5th?",
-            "correct_answer": "Cinco de Mayo",
-            "wrong_answer1": "Mexican Independence Day",
-            "wrong_answer2": "Dia de los Muertos",
-            "wrong_answer3": "Santa Anna's Birthday"
-        },
-        {
-            "question_id": 218,
-            "question": "What part of the world was once known as Cathay?",
-            "correct_answer": "China",
-            "wrong_answer1": "India",
-            "wrong_answer2": "Iran",
-            "wrong_answer3": "indonesia"
-        },
-        {
-            "question_id": 232,
-            "question": "What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?",
-            "correct_answer": "Pigs in a blanket",
-            "wrong_answer1": "Dogs in the oven",
-            "wrong_answer2": "Ducks in a pond",
-            "wrong_answer3": "Cows in a pasture"
-        },
-        {
-            "question_id": 238,
-            "question": "Where is the Louvre museum?",
-            "correct_answer": "Paris",
-            "wrong_answer1": "Lyon",
-            "wrong_answer2": "Geneva",
-            "wrong_answer3": "Vichy"
-        },
-        {
-            "question_id": 252,
-            "question": "Which of these countries does not participate in NAFTA?",
-            "correct_answer": "Guatemala",
-            "wrong_answer1": "Mexico",
-            "wrong_answer2": "Canada",
-            "wrong_answer3": "United States"
-        },
-        {
-            "question_id": 253,
-            "question": "Which of these countries is not in Europe?",
-            "correct_answer": "Israel",
-            "wrong_answer1": "Greece",
-            "wrong_answer2": "Italy",
-            "wrong_answer3": "Spain"
-        },
-        {
-            "question_id": 256,
-            "question": "Which of these foods could you catch at sea?",
-            "correct_answer": "Scallop",
-            "wrong_answer1": "Scone",
-            "wrong_answer2": "Stollen",
-            "wrong_answer3": "Shallot"
-        },
-        {
-            "question_id": 274,
-            "question": "Which of these is not a traditional Greek dish?",
-            "correct_answer": "Sukiyaki",
-            "wrong_answer1": "Souvlaki",
-            "wrong_answer2": "Moussaka",
-            "wrong_answer3": "Finikia"
-        },
-        {
-            "question_id": 288,
-            "question": "Which of these pastas is spiral shaped?",
-            "correct_answer": "Rigatoni",
-            "wrong_answer1": "Rotini",
-            "wrong_answer2": "Fettuccine",
-            "wrong_answer3": "Tortellini"
-        },
-        {
-            "question_id": 291,
-            "question": "Which of these rivers flows through France?",
-            "correct_answer": "Seine",
-            "wrong_answer1": "Volga",
-            "wrong_answer2": "Mekong",
-            "wrong_answer3": "Allegheny"
-        },
-        {
-            "question_id": 314,
-            "question": "Tarawa is the capital city of which country?",
-            "correct_answer": "Kiribati",
-            "wrong_answer1": "Oman ",
-            "wrong_answer2": "Barbados",
-            "wrong_answer3": "El Salvador"
-        },
-        {
-            "question_id": 318,
-            "question": "Brussels is the capital of which country",
-            "correct_answer": "Belgium",
-            "wrong_answer1": "France",
-            "wrong_answer2": "Luxembourg",
-            "wrong_answer3": "Switzerland"
-        }
+      {
+        "question_id": 11,
+        "question": "How many stars are featured on New Zealand's flag?",
+        "correct_answer": "4",
+        "wrong_answer1": "5",
+        "wrong_answer2": "2",
+        "wrong_answer3": "0"
+      },
+      {
+        "question_id": 20,
+        "question": "How many rivers are in Saudi Arabia",
+        "correct_answer": "0",
+        "wrong_answer1": "2",
+        "wrong_answer2": "5",
+        "wrong_answer3": "1"
+      },
+      {
+        "question_id": 27,
+        "question": "A pita is a type of what?",
+        "correct_answer": "Bread",
+        "wrong_answer1": "Chick",
+        "wrong_answer2": "Friend bean dip",
+        "wrong_answer3": "Turkish dip"
+      },
+      {
+        "question_id": 32,
+        "question": "According to legend, if you give someone the 'evil eye' what are you doing?",
+        "correct_answer": "Cursing them",
+        "wrong_answer1": "Blessing a child",
+        "wrong_answer2": "Passing time",
+        "wrong_answer3": "Counting money"
+      },
+      {
+        "question_id": 38,
+        "question": "After Prince Charles, who is next in line to be the king of England?",
+        "correct_answer": "Prince William",
+        "wrong_answer1": "Prince Andrew",
+        "wrong_answer2": "Prince Edward",
+        "wrong_answer3": "Fresh Prince"
+      },
+      {
+        "question_id": 44,
+        "question": "Cheddar cheese got its name from a village in what country?",
+        "correct_answer": "England",
+        "wrong_answer1": "France",
+        "wrong_answer2": "Switzerland",
+        "wrong_answer3": "Denmark"
+      },
+      {
+        "question_id": 45,
+        "question": "Cheese is a necessary ingredient in which of these dishes?",
+        "correct_answer": "Veal parmigiano",
+        "wrong_answer1": "Sushi",
+        "wrong_answer2": "French fries",
+        "wrong_answer3": "Chicken pot pie"
+      },
+      {
+        "question_id": 51,
+        "question": "From 1971 to 1997, the Democratic Republic of Congo was known as what?",
+        "correct_answer": "Rhodesia",
+        "wrong_answer1": "Belgian Congo",
+        "wrong_answer2": "Angola",
+        "wrong_answer3": "Zaire"
+      },
+      {
+        "question_id": 64,
+        "question": "How many stars are on the American flag?",
+        "correct_answer": "50",
+        "wrong_answer1": "52",
+        "wrong_answer2": "40",
+        "wrong_answer3": "48"
+      },
+      {
+        "question_id": 75,
+        "question": "In British currency, how many pence make a pound?",
+        "correct_answer": "100",
+        "wrong_answer1": "10",
+        "wrong_answer2": "1000",
+        "wrong_answer3": "4"
+      },
+      {
+        "question_id": 77,
+        "question": "In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?",
+        "correct_answer": "Cheese",
+        "wrong_answer1": "Fruit",
+        "wrong_answer2": "Whipped Cream",
+        "wrong_answer3": "Gravy"
+      },
+      {
+        "question_id": 94,
+        "question": "In what country are police officers referred to as 'bobbies'?",
+        "correct_answer": "England",
+        "wrong_answer1": "France",
+        "wrong_answer2": "Greece",
+        "wrong_answer3": "Israel"
+      },
+      {
+        "question_id": 107,
+        "question": "Mohair is made from the fleece of what animal?",
+        "correct_answer": "Goat",
+        "wrong_answer1": "Mole",
+        "wrong_answer2": "Llama",
+        "wrong_answer3": "Camel"
+      },
+      {
+        "question_id": 111,
+        "question": "On what body part should you wear a babushka?",
+        "correct_answer": "Head",
+        "wrong_answer1": "Hands",
+        "wrong_answer2": "Legs",
+        "wrong_answer3": "Foot"
+      },
+      {
+        "question_id": 114,
+        "question": "People are supposed to drive on the left hand side of the road in which country?",
+        "correct_answer": "England",
+        "wrong_answer1": "France",
+        "wrong_answer2": "Italy",
+        "wrong_answer3": "Germany"
+      },
+      {
+        "question_id": 120,
+        "question": "The dance known as the 'fandango' is of what origin?",
+        "correct_answer": "Spanish",
+        "wrong_answer1": "Native American",
+        "wrong_answer2": "African",
+        "wrong_answer3": "Australian"
+      },
+      {
+        "question_id": 125,
+        "question": "The term 'chili con carne' refers to chili with what?",
+        "correct_answer": "Meat",
+        "wrong_answer1": "Cheese",
+        "wrong_answer2": "Beans",
+        "wrong_answer3": "Chili peppers"
+      },
+      {
+        "question_id": 127,
+        "question": "What animal is considered sacred in India?",
+        "correct_answer": "Cow",
+        "wrong_answer1": "Dog",
+        "wrong_answer2": "Pig",
+        "wrong_answer3": "Chicken"
+      },
+      {
+        "question_id": 128,
+        "question": "What animal represents the year 2000 on the Chinese calendar?",
+        "correct_answer": "Dragon",
+        "wrong_answer1": "Rabbit",
+        "wrong_answer2": "Tiger",
+        "wrong_answer3": "Monkey"
+      },
+      {
+        "question_id": 133,
+        "question": "What article of clothing best describes a 'pashmina'?",
+        "correct_answer": "Scarf",
+        "wrong_answer1": "Shoes",
+        "wrong_answer2": "Pants",
+        "wrong_answer3": "Underwear"
+      },
+      {
+        "question_id": 148,
+        "question": "What country does Bordeaux wine come from?",
+        "correct_answer": "France",
+        "wrong_answer1": "Spain",
+        "wrong_answer2": "Australia",
+        "wrong_answer3": "Italy"
+      },
+      {
+        "question_id": 149,
+        "question": "What country gave us the fashionable headgear called the beret?",
+        "correct_answer": "France",
+        "wrong_answer1": "Japan",
+        "wrong_answer2": "Italy",
+        "wrong_answer3": "Greece"
+      },
+      {
+        "question_id": 150,
+        "question": "What country is famous for making wooden shoes?",
+        "correct_answer": "The Netherlands",
+        "wrong_answer1": "Russia",
+        "wrong_answer2": "Portugal",
+        "wrong_answer3": "Thailand"
+      },
+      {
+        "question_id": 152,
+        "question": "What ingredient is used in the portuguese dish 'Bacalhau � Z� do Pipo'? ",
+        "correct_answer": "Mayo",
+        "wrong_answer1": "Curry",
+        "wrong_answer2": "Pesto",
+        "wrong_answer3": "Cabbage"
+      },
+      {
+        "question_id": 176,
+        "question": "What is the capital of New Zealand?",
+        "correct_answer": "Wellington",
+        "wrong_answer1": "Sydney",
+        "wrong_answer2": "Melbourne",
+        "wrong_answer3": "Auckland"
+      },
+      {
+        "question_id": 192,
+        "question": "What is the name of the Swedish company that specializes in affordable furniture?",
+        "correct_answer": "IKEA",
+        "wrong_answer1": "Saab",
+        "wrong_answer2": "Electrolux",
+        "wrong_answer3": "Gambro"
+      },
+      {
+        "question_id": 193,
+        "question": "What is the national animal of Australia?",
+        "correct_answer": "Kangaroo",
+        "wrong_answer1": "Koala",
+        "wrong_answer2": "Platypus",
+        "wrong_answer3": "Alligator"
+      },
+      {
+        "question_id": 212,
+        "question": "What Mexican holiday takes place on May 5th?",
+        "correct_answer": "Cinco de Mayo",
+        "wrong_answer1": "Mexican Independence Day",
+        "wrong_answer2": "Dia de los Muertos",
+        "wrong_answer3": "Santa Anna's Birthday"
+      },
+      {
+        "question_id": 218,
+        "question": "What part of the world was once known as Cathay?",
+        "correct_answer": "China",
+        "wrong_answer1": "India",
+        "wrong_answer2": "Iran",
+        "wrong_answer3": "indonesia"
+      },
+      {
+        "question_id": 232,
+        "question": "What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?",
+        "correct_answer": "Pigs in a blanket",
+        "wrong_answer1": "Dogs in the oven",
+        "wrong_answer2": "Ducks in a pond",
+        "wrong_answer3": "Cows in a pasture"
+      },
+      {
+        "question_id": 238,
+        "question": "Where is the Louvre museum?",
+        "correct_answer": "Paris",
+        "wrong_answer1": "Lyon",
+        "wrong_answer2": "Geneva",
+        "wrong_answer3": "Vichy"
+      },
+      {
+        "question_id": 252,
+        "question": "Which of these countries does not participate in NAFTA?",
+        "correct_answer": "Guatemala",
+        "wrong_answer1": "Mexico",
+        "wrong_answer2": "Canada",
+        "wrong_answer3": "United States"
+      },
+      {
+        "question_id": 253,
+        "question": "Which of these countries is not in Europe?",
+        "correct_answer": "Israel",
+        "wrong_answer1": "Greece",
+        "wrong_answer2": "Italy",
+        "wrong_answer3": "Spain"
+      },
+      {
+        "question_id": 256,
+        "question": "Which of these foods could you catch at sea?",
+        "correct_answer": "Scallop",
+        "wrong_answer1": "Scone",
+        "wrong_answer2": "Stollen",
+        "wrong_answer3": "Shallot"
+      },
+      {
+        "question_id": 274,
+        "question": "Which of these is not a traditional Greek dish?",
+        "correct_answer": "Sukiyaki",
+        "wrong_answer1": "Souvlaki",
+        "wrong_answer2": "Moussaka",
+        "wrong_answer3": "Finikia"
+      },
+      {
+        "question_id": 288,
+        "question": "Which of these pastas is spiral shaped?",
+        "correct_answer": "Rigatoni",
+        "wrong_answer1": "Rotini",
+        "wrong_answer2": "Fettuccine",
+        "wrong_answer3": "Tortellini"
+      },
+      {
+        "question_id": 291,
+        "question": "Which of these rivers flows through France?",
+        "correct_answer": "Seine",
+        "wrong_answer1": "Volga",
+        "wrong_answer2": "Mekong",
+        "wrong_answer3": "Allegheny"
+      },
+      {
+        "question_id": 314,
+        "question": "Tarawa is the capital city of which country?",
+        "correct_answer": "Kiribati",
+        "wrong_answer1": "Oman ",
+        "wrong_answer2": "Barbados",
+        "wrong_answer3": "El Salvador"
+      },
+      {
+        "question_id": 318,
+        "question": "Brussels is the capital of which country",
+        "correct_answer": "Belgium",
+        "wrong_answer1": "France",
+        "wrong_answer2": "Luxembourg",
+        "wrong_answer3": "Switzerland"
+      }
     ],
     "Languages": [
-        {
-            "question_id": 8,
-            "question": "Which of the following languages does NOT use gender as a part of its grammar?",
-            "correct_answer": "Turkish",
-            "wrong_answer1": "German",
-            "wrong_answer2": "Danish",
-            "wrong_answer3": "Polish"
-        },
-        {
-            "question_id": 15,
-            "question": "What is a Burgee?",
-            "correct_answer": "A flag",
-            "wrong_answer1": "A type of knot",
-            "wrong_answer2": "A window",
-            "wrong_answer3": "A type of food"
-        },
-        {
-            "question_id": 18,
-            "question": "If you ask for 'gai' at a Thai restaurant, what will you get?",
-            "correct_answer": "Chicken",
-            "wrong_answer1": "Shrimp",
-            "wrong_answer2": "Beef",
-            "wrong_answer3": "Pork"
-        },
-        {
-            "question_id": 52,
-            "question": "From what language does the term 'R.S.V.P.' originate?",
-            "correct_answer": "French",
-            "wrong_answer1": "Russian",
-            "wrong_answer2": "Italian",
-            "wrong_answer3": "Portuguese"
-        },
-        {
-            "question_id": 57,
-            "question": "How is 4:00 pm expressed in military time?",
-            "correct_answer": "1600",
-            "wrong_answer1": "4",
-            "wrong_answer2": "400",
-            "wrong_answer3": "4:00"
-        },
-        {
-            "question_id": 58,
-            "question": "How is the Arabic numeral for '2' written?",
-            "correct_answer": "2",
-            "wrong_answer1": "II",
-            "wrong_answer2": "III",
-            "wrong_answer3": "ii"
-        },
-        {
-            "question_id": 112,
-            "question": "On which part of a car would you find the 'caliper'?",
-            "correct_answer": "Brakes",
-            "wrong_answer1": "Baterry",
-            "wrong_answer2": "Engine",
-            "wrong_answer3": "Radiator"
-        },
-        {
-            "question_id": 155,
-            "question": "What day of the week is sometimes called 'hump day'?",
-            "correct_answer": "Wednesday",
-            "wrong_answer1": "Tuesday",
-            "wrong_answer2": "Friday",
-            "wrong_answer3": "Thursday"
-        },
-        {
-            "question_id": 159,
-            "question": "What do you call a young cow?",
-            "correct_answer": "Calf",
-            "wrong_answer1": "Lamb",
-            "wrong_answer2": "Kid",
-            "wrong_answer3": "Mare"
-        },
-        {
-            "question_id": 163,
-            "question": "What does it mean to work 'pro bono'?",
-            "correct_answer": "Work without pay",
-            "wrong_answer1": "Work overtime",
-            "wrong_answer2": "Work as your own boss",
-            "wrong_answer3": "Nor work at all"
-        },
-        {
-            "question_id": 164,
-            "question": "What does the Latin phrase 'e pluribus unum' mean?",
-            "correct_answer": "From many, one.",
-            "wrong_answer1": "In God we trust.",
-            "wrong_answer2": "For the greater good.",
-            "wrong_answer3": "What a crazy life."
-        },
-        {
-            "question_id": 173,
-            "question": "What is called a 'lorry' in Britain?",
-            "correct_answer": "A truck",
-            "wrong_answer1": "A toaster",
-            "wrong_answer2": "An elevator",
-            "wrong_answer3": "A babysitter"
-        },
-        {
-            "question_id": 181,
-            "question": "What is the last letter of the Greek alphabet?",
-            "correct_answer": "Omega",
-            "wrong_answer1": "Omicron",
-            "wrong_answer2": "Upsilon",
-            "wrong_answer3": "Zeta"
-        },
-        {
-            "question_id": 194,
-            "question": "What is the official language of The Netherlands?",
-            "correct_answer": "Dutch",
-            "wrong_answer1": "German",
-            "wrong_answer2": "Swedish",
-            "wrong_answer3": "Danish"
-        },
-        {
-            "question_id": 197,
-            "question": "What is the singular form of the word 'graffiti'?",
-            "correct_answer": "Graffito",
-            "wrong_answer1": "Graffita",
-            "wrong_answer2": "Graffitem",
-            "wrong_answer3": "Graffitus"
-        },
-        {
-            "question_id": 207,
-            "question": "What kind of item is a ginsu?",
-            "correct_answer": "Knife",
-            "wrong_answer1": "Radio",
-            "wrong_answer2": "Martial Arts Weapon",
-            "wrong_answer3": "Type of food"
-        },
-        {
-            "question_id": 208,
-            "question": "What kind of worker uses a 'paddy wagon'?",
-            "correct_answer": "Police Officer",
-            "wrong_answer1": "Rice Farmer",
-            "wrong_answer2": "Paramedic",
-            "wrong_answer3": "Limo driver"
-        },
-        {
-            "question_id": 233,
-            "question": "What's the third letter of the Greek alphabet?",
-            "correct_answer": "Gamma",
-            "wrong_answer1": "Phi",
-            "wrong_answer2": "Theta",
-            "wrong_answer3": "Delta"
-        },
-        {
-            "question_id": 234,
-            "question": "What's unique about a skeleton key?",
-            "correct_answer": "It opens many locks",
-            "wrong_answer1": "It's made of bone",
-            "wrong_answer2": "It's extremely old",
-            "wrong_answer3": "It hangs in a closet"
-        },
-        {
-            "question_id": 290,
-            "question": "Which of these refers to an alcoholic drink laced with a knockout drug?",
-            "correct_answer": "Mickey Film",
-            "wrong_answer1": "Zombie",
-            "wrong_answer2": "Kamikaze",
-            "wrong_answer3": "Molotov Cocktail"
-        },
-        {
-            "question_id": 297,
-            "question": "Which of these words is a synonym for 'perambulate'?",
-            "correct_answer": "Stroll",
-            "wrong_answer1": "Heal",
-            "wrong_answer2": "Shout",
-            "wrong_answer3": "Kiss"
-        },
-        {
-            "question_id": 298,
-            "question": "Which of these words is an adverb?",
-            "correct_answer": "Quickly",
-            "wrong_answer1": "Fast",
-            "wrong_answer2": "Hurried",
-            "wrong_answer3": "Speedy"
-        },
-        {
-            "question_id": 299,
-            "question": "Which of these words means 'yes' in French?",
-            "correct_answer": "Oui",
-            "wrong_answer1": "Qui",
-            "wrong_answer2": "Ja",
-            "wrong_answer3": "Okey,dokey"
-        },
-        {
-            "question_id": 300,
-            "question": "Which of these words is spelled correctly?",
-            "correct_answer": "Hygiene",
-            "wrong_answer1": "Wierd ",
-            "wrong_answer2": "Foriegn ",
-            "wrong_answer3": "Decieve "
-        },
-        {
-            "question_id": 311,
-            "question": "With what would you use a wah,wah pedal?",
-            "correct_answer": "Electric Guitar",
-            "wrong_answer1": "Stock car",
-            "wrong_answer2": "Bicycle",
-            "wrong_answer3": "Baby"
-        },
-        {
-            "question_id": 316,
-            "question": "What is a baby spider known as?",
-            "correct_answer": "A Spiderling",
-            "wrong_answer1": "A Joey",
-            "wrong_answer2": "A Codling",
-            "wrong_answer3": "A Leveret"
-        },
-        {
-            "question_id": 317,
-            "question": "Which of these languages would you find spoken in Kenya?",
-            "correct_answer": "Swahili",
-            "wrong_answer1": "Punjabi",
-            "wrong_answer2": "Hausa",
-            "wrong_answer3": "Cantonese"
-        }
+      {
+        "question_id": 8,
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "correct_answer": "Turkish",
+        "wrong_answer1": "German",
+        "wrong_answer2": "Danish",
+        "wrong_answer3": "Polish"
+      },
+      {
+        "question_id": 15,
+        "question": "What is a Burgee?",
+        "correct_answer": "A flag",
+        "wrong_answer1": "A type of knot",
+        "wrong_answer2": "A window",
+        "wrong_answer3": "A type of food"
+      },
+      {
+        "question_id": 18,
+        "question": "If you ask for 'gai' at a Thai restaurant, what will you get?",
+        "correct_answer": "Chicken",
+        "wrong_answer1": "Shrimp",
+        "wrong_answer2": "Beef",
+        "wrong_answer3": "Pork"
+      },
+      {
+        "question_id": 52,
+        "question": "From what language does the term 'R.S.V.P.' originate?",
+        "correct_answer": "French",
+        "wrong_answer1": "Russian",
+        "wrong_answer2": "Italian",
+        "wrong_answer3": "Portuguese"
+      },
+      {
+        "question_id": 57,
+        "question": "How is 4:00 pm expressed in military time?",
+        "correct_answer": "1600",
+        "wrong_answer1": "4",
+        "wrong_answer2": "400",
+        "wrong_answer3": "4:00"
+      },
+      {
+        "question_id": 58,
+        "question": "How is the Arabic numeral for '2' written?",
+        "correct_answer": "2",
+        "wrong_answer1": "II",
+        "wrong_answer2": "III",
+        "wrong_answer3": "ii"
+      },
+      {
+        "question_id": 112,
+        "question": "On which part of a car would you find the 'caliper'?",
+        "correct_answer": "Brakes",
+        "wrong_answer1": "Baterry",
+        "wrong_answer2": "Engine",
+        "wrong_answer3": "Radiator"
+      },
+      {
+        "question_id": 155,
+        "question": "What day of the week is sometimes called 'hump day'?",
+        "correct_answer": "Wednesday",
+        "wrong_answer1": "Tuesday",
+        "wrong_answer2": "Friday",
+        "wrong_answer3": "Thursday"
+      },
+      {
+        "question_id": 159,
+        "question": "What do you call a young cow?",
+        "correct_answer": "Calf",
+        "wrong_answer1": "Lamb",
+        "wrong_answer2": "Kid",
+        "wrong_answer3": "Mare"
+      },
+      {
+        "question_id": 163,
+        "question": "What does it mean to work 'pro bono'?",
+        "correct_answer": "Work without pay",
+        "wrong_answer1": "Work overtime",
+        "wrong_answer2": "Work as your own boss",
+        "wrong_answer3": "Nor work at all"
+      },
+      {
+        "question_id": 164,
+        "question": "What does the Latin phrase 'e pluribus unum' mean?",
+        "correct_answer": "From many, one.",
+        "wrong_answer1": "In God we trust.",
+        "wrong_answer2": "For the greater good.",
+        "wrong_answer3": "What a crazy life."
+      },
+      {
+        "question_id": 173,
+        "question": "What is called a 'lorry' in Britain?",
+        "correct_answer": "A truck",
+        "wrong_answer1": "A toaster",
+        "wrong_answer2": "An elevator",
+        "wrong_answer3": "A babysitter"
+      },
+      {
+        "question_id": 181,
+        "question": "What is the last letter of the Greek alphabet?",
+        "correct_answer": "Omega",
+        "wrong_answer1": "Omicron",
+        "wrong_answer2": "Upsilon",
+        "wrong_answer3": "Zeta"
+      },
+      {
+        "question_id": 194,
+        "question": "What is the official language of The Netherlands?",
+        "correct_answer": "Dutch",
+        "wrong_answer1": "German",
+        "wrong_answer2": "Swedish",
+        "wrong_answer3": "Danish"
+      },
+      {
+        "question_id": 197,
+        "question": "What is the singular form of the word 'graffiti'?",
+        "correct_answer": "Graffito",
+        "wrong_answer1": "Graffita",
+        "wrong_answer2": "Graffitem",
+        "wrong_answer3": "Graffitus"
+      },
+      {
+        "question_id": 207,
+        "question": "What kind of item is a ginsu?",
+        "correct_answer": "Knife",
+        "wrong_answer1": "Radio",
+        "wrong_answer2": "Martial Arts Weapon",
+        "wrong_answer3": "Type of food"
+      },
+      {
+        "question_id": 208,
+        "question": "What kind of worker uses a 'paddy wagon'?",
+        "correct_answer": "Police Officer",
+        "wrong_answer1": "Rice Farmer",
+        "wrong_answer2": "Paramedic",
+        "wrong_answer3": "Limo driver"
+      },
+      {
+        "question_id": 233,
+        "question": "What's the third letter of the Greek alphabet?",
+        "correct_answer": "Gamma",
+        "wrong_answer1": "Phi",
+        "wrong_answer2": "Theta",
+        "wrong_answer3": "Delta"
+      },
+      {
+        "question_id": 234,
+        "question": "What's unique about a skeleton key?",
+        "correct_answer": "It opens many locks",
+        "wrong_answer1": "It's made of bone",
+        "wrong_answer2": "It's extremely old",
+        "wrong_answer3": "It hangs in a closet"
+      },
+      {
+        "question_id": 290,
+        "question": "Which of these refers to an alcoholic drink laced with a knockout drug?",
+        "correct_answer": "Mickey Film",
+        "wrong_answer1": "Zombie",
+        "wrong_answer2": "Kamikaze",
+        "wrong_answer3": "Molotov Cocktail"
+      },
+      {
+        "question_id": 297,
+        "question": "Which of these words is a synonym for 'perambulate'?",
+        "correct_answer": "Stroll",
+        "wrong_answer1": "Heal",
+        "wrong_answer2": "Shout",
+        "wrong_answer3": "Kiss"
+      },
+      {
+        "question_id": 298,
+        "question": "Which of these words is an adverb?",
+        "correct_answer": "Quickly",
+        "wrong_answer1": "Fast",
+        "wrong_answer2": "Hurried",
+        "wrong_answer3": "Speedy"
+      },
+      {
+        "question_id": 299,
+        "question": "Which of these words means 'yes' in French?",
+        "correct_answer": "Oui",
+        "wrong_answer1": "Qui",
+        "wrong_answer2": "Ja",
+        "wrong_answer3": "Okey,dokey"
+      },
+      {
+        "question_id": 300,
+        "question": "Which of these words is spelled correctly?",
+        "correct_answer": "Hygiene",
+        "wrong_answer1": "Wierd ",
+        "wrong_answer2": "Foriegn ",
+        "wrong_answer3": "Decieve "
+      },
+      {
+        "question_id": 311,
+        "question": "With what would you use a wah,wah pedal?",
+        "correct_answer": "Electric Guitar",
+        "wrong_answer1": "Stock car",
+        "wrong_answer2": "Bicycle",
+        "wrong_answer3": "Baby"
+      },
+      {
+        "question_id": 316,
+        "question": "What is a baby spider known as?",
+        "correct_answer": "A Spiderling",
+        "wrong_answer1": "A Joey",
+        "wrong_answer2": "A Codling",
+        "wrong_answer3": "A Leveret"
+      },
+      {
+        "question_id": 317,
+        "question": "Which of these languages would you find spoken in Kenya?",
+        "correct_answer": "Swahili",
+        "wrong_answer1": "Punjabi",
+        "wrong_answer2": "Hausa",
+        "wrong_answer3": "Cantonese"
+      }
     ]
+  }
+}
